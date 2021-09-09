@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:0,MOOZ Dance
+#EXTVLCOPT:http-referrer=https://mooz.tv/
+http://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
