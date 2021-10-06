@@ -1,8 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://player.teleringa.com/cv.php
-#EXT-X-STREAM-INF:RESOLUTION=1280x720,FRAME-RATE=29.97,AUDIO="audio-aacl-144
-https://edge-live34-hr.cvattv.com.ar/live/live/La_Nacion/SA_Live_dash_enc_2A/La_Nacion.mpd
