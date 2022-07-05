@@ -16,7 +16,7 @@
     <display-name lang="is">Stöð 2</display-name>
     <url>http://www.sjonvarp.is</url>
   </channel>
-  <channel id="StodFjolskylda.is">
+  <channel id="Stod2Fjolskylda.is">
     <display-name lang="is">Stöð Fjölskylda</display-name>
     <url>http://www.sjonvarp.is</url>
   </channel>
@@ -59,7 +59,6 @@
   <channel id="N4.is">
     <display-name lang="is">N4</display-name>
     <url>http://www.sjonvarp.is</url>
-  </channel>
   <programme start="20220705130000 +0000" stop="20220705131000 +0000" channel="RUV.is">
     <title lang="is">Heimaleikfimi</title>
     <desc lang="is">Góð ráð og æfingar sem tilvalið er að gera heima. Íris Rut Garðarsdóttir sjúkraþjálfari hefur umsjón með leikfiminni. e.(n)</desc>
@@ -384,169 +383,169 @@ Jenny Cooper er dánardómstjóri í Toronto, þar sem hún rannsakar dularfull 
     <title lang="is">The Pact</title>
     <desc lang="is">Glæpa- og spennuþættir frá 2021. Dauði sem á sér engar útskýringar og vinkonur sem eru bundnar brothættum þagnaðareið. Hvað gerðist þessa áhrifaríku nótt í skóginum?(n)</desc>
   </programme>
-  <programme start="20220705080000 +0000" stop="20220705082000 +0000" channel="StodFjolskylda.is">
+  <programme start="20220705080000 +0000" stop="20220705082000 +0000" channel="Stod2Fjolskylda.is">
     <title lang="is">Dóra könnuður</title>
     <desc lang="is">Voff! Voff! Dóra og Klossi eiga nýjan tölvuleik sem heitir "Bjargið hvolpunum". Vondur hundaveiðari hefur læst alla hvolpana inni í Hundageymslunum. Til að bjarga þeim stökkva Dóra og Klossi með ofurkrafti inn í tölvuleikinn.(n)</desc>
   </programme>
-  <programme start="20220705082000 +0000" stop="20220705082500 +0000" channel="StodFjolskylda.is">
+  <programme start="20220705082000 +0000" stop="20220705082500 +0000" channel="Stod2Fjolskylda.is">
     <title lang="is">Lærum og leikum með hljóðin</title>
     <desc lang="is">Máni og Mæja syngja og kenna skemmtileg málhljóð í flutningi Felix Bergssonar og Védísar Hervarar Árnadóttur.(n)</desc>
   </programme>
-  <programme start="20220705082500 +0000" stop="20220705084000 +0000" channel="StodFjolskylda.is">
+  <programme start="20220705082500 +0000" stop="20220705084000 +0000" channel="Stod2Fjolskylda.is">
     <title lang="is">Óskastund með Skoppu og Skítlu</title>
     <desc lang="is">Lífið er leikur hjá þeim vinkonum Skoppu og Skrítlu. Því finnst þeim við  hæfi að bjóða áhorfendum inn á leikvöllinn sinn þar sem þær dvelja löngum stundum þegar þær ekki eru í leikhúsinu. Þær vita að öll börn stór og smá  elska að leika sér og í gegnum leikinn öðlast þau hæfni og þor. Í hverjum þætti flýgur óskafiðrildi af stað með litla ósk sem síðar verður að þema hvers þáttar. Eitt leiðir af öðru og fyrr en varir eru vinkonurnar farnar að takast á við ólíkustu verk efni og  þrautir. Fjölskyldustund full af fróðleik og fjöri með Skoppu og Skrítlu á Stöð 2.(n)</desc>
   </programme>
-  <programme start="20220705084000 +0000" stop="20220705090000 +0000" channel="StodFjolskylda.is">
+  <programme start="20220705084000 +0000" stop="20220705090000 +0000" channel="Stod2Fjolskylda.is">
     <title lang="is">Strumparnir</title>
     <desc lang="is">Strumparnir og Kjartan galdrakarl fara á kostum í ævintýrum sínum í Strumpabæ.(n)</desc>
   </programme>
-  <programme start="20220705090000 +0000" stop="20220705092500 +0000" channel="StodFjolskylda.is">
+  <programme start="20220705090000 +0000" stop="20220705092500 +0000" channel="Stod2Fjolskylda.is">
     <title lang="is">Latibær</title>
     <desc lang="is">Skemmtileg þáttaröð um Íþróttaálfinn, Sollu stirðu, Nenna níska, Glanna glæp og fleiri skemmtilega vini þeirra í Latabæ.(n)</desc>
   </programme>
-  <programme start="20220705092500 +0000" stop="20220705094500 +0000" channel="StodFjolskylda.is">
+  <programme start="20220705092500 +0000" stop="20220705094500 +0000" channel="Stod2Fjolskylda.is">
     <title lang="is">Heiða</title>
     <desc lang="is">Skemmtilegir þættir um stúlkuna Heiðu og ævintýri hennar.(n)</desc>
   </programme>
-  <programme start="20220705094500 +0000" stop="20220705101000 +0000" channel="StodFjolskylda.is">
+  <programme start="20220705094500 +0000" stop="20220705101000 +0000" channel="Stod2Fjolskylda.is">
     <title lang="is">Blíða og Blær</title>
     <desc lang="is">Ný þáttaröð af þessum frábæru teiknimyndaþáttum um töfradísirnar  Blíðu og Blæ. Með því að láta óskir vinkonu þeirra rætast enda þær oftast í skemmtilegum ævintýrum sem stundum leiða þær í vandræði  sem þær þurfa svo að leysa í sameiningu.(n)</desc>
   </programme>
-  <programme start="20220705101000 +0000" stop="20220705102000 +0000" channel="StodFjolskylda.is">
+  <programme start="20220705101000 +0000" stop="20220705102000 +0000" channel="Stod2Fjolskylda.is">
     <title lang="is">Víkingurinn Viggó</title>
     <desc lang="is">Skemmtilegir þættir um víkingastrákinn Viggó og félaga hans sem eru duglegir að lenda í alls konar ævintýrum.(n)</desc>
   </programme>
-  <programme start="20220705102000 +0000" stop="20220705104500 +0000" channel="StodFjolskylda.is">
+  <programme start="20220705102000 +0000" stop="20220705104500 +0000" channel="Stod2Fjolskylda.is">
     <title lang="is">Adda klóka</title>
     <desc lang="is">Adda er klár og duglega stelpa sem á ótrúlega vini. Vinir hennar sem kallaðir eru Flókar eru einkennilegar skepnur sem búa á hóteli fjölskyldu hennar. Á hverjum degi koma upp óvenjulegar aðstæður á hótelinu sem þessir litlu vinir hennar eiga upptökin að. Adda ásamt bestu Flóka vinkonu sinni lenda saman í óvenjulegum ævintýrum þegar að þær reyna að leiðrétta þau óhöpp sem Flókarnir hafa valdið.(n)</desc>
   </programme>
-  <programme start="20220705104500 +0000" stop="20220705110500 +0000" channel="StodFjolskylda.is">
+  <programme start="20220705104500 +0000" stop="20220705110500 +0000" channel="Stod2Fjolskylda.is">
     <title lang="is">Dagur Diðrik</title>
     <desc lang="is">Frábærir teiknimyndaþættir um unga uppfinningamanninn Dag Diðrik, Dísu vinkonu hans og öll hjálpsömu vélmennin hans. Þau elska ævintýri og nýta sér oft tæknina til að sleppa úr erfiðum aðstæðum.(n)</desc>
   </programme>
-  <programme start="20220705110500 +0000" stop="20220705113000 +0000" channel="StodFjolskylda.is">
+  <programme start="20220705110500 +0000" stop="20220705113000 +0000" channel="Stod2Fjolskylda.is">
     <title lang="is">Svampur Sveinsson</title>
     <desc lang="is">Bráðfyndnir þættir um hrakfallabálkinn Svamp Sveinsson og félaga hans sem búa neðansjávar og eru sífellt að koma sér í óborganleg vandræði.(n)</desc>
   </programme>
-  <programme start="20220705113000 +0000" stop="20220705115000 +0000" channel="StodFjolskylda.is">
+  <programme start="20220705113000 +0000" stop="20220705115000 +0000" channel="Stod2Fjolskylda.is">
     <title lang="is">Dóra könnuður</title>
     <desc lang="is">Hittið Diego, hinn ofurflotta frænda Dóru. Diego vinnur í Björgunarmiðstöð dýra. Hann getur búið til dýrahljóð og talað við villt dýr!(n)</desc>
   </programme>
-  <programme start="20220705115000 +0000" stop="20220705120500 +0000" channel="StodFjolskylda.is">
+  <programme start="20220705115000 +0000" stop="20220705120500 +0000" channel="Stod2Fjolskylda.is">
     <title lang="is">Óskastund með Skoppu og Skítlu</title>
     <desc lang="is">Lífið er leikur hjá þeim vinkonum Skoppu og Skrítlu. Því finnst þeim við  hæfi að bjóða áhorfendum inn á leikvöllinn sinn þar sem þær dvelja löngum stundum þegar þær ekki eru í leikhúsinu. Þær vita að öll börn stór og smá  elska að leika sér og í gegnum leikinn öðlast þau hæfni og þor. Í hverjum þætti flýgur óskafiðrildi af stað með litla ósk sem síðar verður að þema hvers þáttar. Eitt leiðir af öðru og fyrr en varir eru vinkonurnar farnar að takast á við ólíkustu verk efni og  þrautir. Fjölskyldustund full af fróðleik og fjöri með Skoppu og Skrítlu á Stöð 2.(n)</desc>
   </programme>
-  <programme start="20220705120500 +0000" stop="20220705122500 +0000" channel="StodFjolskylda.is">
+  <programme start="20220705120500 +0000" stop="20220705122500 +0000" channel="Stod2Fjolskylda.is">
     <title lang="is">Strumparnir</title>
     <desc lang="is">Strumparnir og Kjartan galdrakarl fara á kostum í ævintýrum sínum í Strumpabæ.(n)</desc>
   </programme>
-  <programme start="20220705122500 +0000" stop="20220705125000 +0000" channel="StodFjolskylda.is">
+  <programme start="20220705122500 +0000" stop="20220705125000 +0000" channel="Stod2Fjolskylda.is">
     <title lang="is">Latibær</title>
     <desc lang="is">Skemmtileg þáttaröð um Íþróttaálfinn, Sollu stirðu, Nenna níska, Glanna glæp og fleiri skemmtilega vini þeirra í Latabæ.(n)</desc>
   </programme>
-  <programme start="20220705125000 +0000" stop="20220705131000 +0000" channel="StodFjolskylda.is">
+  <programme start="20220705125000 +0000" stop="20220705131000 +0000" channel="Stod2Fjolskylda.is">
     <title lang="is">Heiða</title>
     <desc lang="is">Skemmtilegir þættir um stúlkuna Heiðu og ævintýri hennar.(n)</desc>
   </programme>
-  <programme start="20220705131000 +0000" stop="20220705133500 +0000" channel="StodFjolskylda.is">
+  <programme start="20220705131000 +0000" stop="20220705133500 +0000" channel="Stod2Fjolskylda.is">
     <title lang="is">Blíða og Blær</title>
     <desc lang="is">Ný þáttaröð af þessum frábæru teiknimyndaþáttum um töfradísirnar  Blíðu og Blæ. Með því að láta óskir vinkonu þeirra rætast enda þær oftast í skemmtilegum ævintýrum sem stundum leiða þær í vandræði  sem þær þurfa svo að leysa í sameiningu.(n)</desc>
   </programme>
-  <programme start="20220705133500 +0000" stop="20220705134500 +0000" channel="StodFjolskylda.is">
+  <programme start="20220705133500 +0000" stop="20220705134500 +0000" channel="Stod2Fjolskylda.is">
     <title lang="is">Víkingurinn Viggó</title>
     <desc lang="is">Skemmtilegir þættir um víkingastrákinn Viggó og félaga hans sem eru duglegir að lenda í alls konar ævintýrum.(n)</desc>
   </programme>
-  <programme start="20220705134500 +0000" stop="20220705141000 +0000" channel="StodFjolskylda.is">
+  <programme start="20220705134500 +0000" stop="20220705141000 +0000" channel="Stod2Fjolskylda.is">
     <title lang="is">Adda klóka</title>
     <desc lang="is">Adda er klár og duglega stelpa sem á ótrúlega vini. Vinir hennar sem kallaðir eru Flókar eru einkennilegar skepnur sem búa á hóteli fjölskyldu hennar. Á hverjum degi koma upp óvenjulegar aðstæður á hótelinu sem þessir litlu vinir hennar eiga upptökin að. Adda ásamt bestu Flóka vinkonu sinni lenda saman í óvenjulegum ævintýrum þegar að þær reyna að leiðrétta þau óhöpp sem Flókarnir hafa valdið.(n)</desc>
   </programme>
-  <programme start="20220705141000 +0000" stop="20220705143000 +0000" channel="StodFjolskylda.is">
+  <programme start="20220705141000 +0000" stop="20220705143000 +0000" channel="Stod2Fjolskylda.is">
     <title lang="is">Dagur Diðrik</title>
     <desc lang="is">Frábærir teiknimyndaþættir um unga uppfinningamanninn Dag Diðrik, Dísu vinkonu hans og öll hjálpsömu vélmennin hans. Þau elska ævintýri og nýta sér oft tæknina til að sleppa úr erfiðum aðstæðum.(n)</desc>
   </programme>
-  <programme start="20220705143000 +0000" stop="20220705145500 +0000" channel="StodFjolskylda.is">
+  <programme start="20220705143000 +0000" stop="20220705145500 +0000" channel="Stod2Fjolskylda.is">
     <title lang="is">Svampur Sveinsson</title>
     <desc lang="is">Bráðfyndnir þættir um hrakfallabálkinn Svamp Sveinsson og félaga hans sem búa neðansjávar og eru sífellt að koma sér í óborganleg vandræði.(n)</desc>
   </programme>
-  <programme start="20220705145500 +0000" stop="20220705151500 +0000" channel="StodFjolskylda.is">
+  <programme start="20220705145500 +0000" stop="20220705151500 +0000" channel="Stod2Fjolskylda.is">
     <title lang="is">Dóra könnuður</title>
     <desc lang="is">Hvert fara leikföng þegar þau týnast? Til týndu borgarinnar! En það er ansi erfitt að finna Týndu borgina. Dóra lenda í ævintýri eins og Indiana Jones er þau þjóta í gegnum Númerapíramídann og Ruglaða frumskóginn.(n)</desc>
   </programme>
-  <programme start="20220705151500 +0000" stop="20220705153000 +0000" channel="StodFjolskylda.is">
+  <programme start="20220705151500 +0000" stop="20220705153000 +0000" channel="Stod2Fjolskylda.is">
     <title lang="is">Óskastund með Skoppu og Skítlu</title>
     <desc lang="is">Lífið er leikur hjá þeim vinkonum Skoppu og Skrítlu. Því finnst þeim við  hæfi að bjóða áhorfendum inn á leikvöllinn sinn þar sem þær dvelja löngum stundum þegar þær ekki eru í leikhúsinu. Þær vita að öll börn stór og smá  elska að leika sér og í gegnum leikinn öðlast þau hæfni og þor. Í hverjum þætti flýgur óskafiðrildi af stað með litla ósk sem síðar verður að þema hvers þáttar. Eitt leiðir af öðru og fyrr en varir eru vinkonurnar farnar að takast á við ólíkustu verk efni og  þrautir. Fjölskyldustund full af fróðleik og fjöri með Skoppu og Skrítlu á Stöð 2.(n)</desc>
   </programme>
-  <programme start="20220705153000 +0000" stop="20220705155500 +0000" channel="StodFjolskylda.is">
+  <programme start="20220705153000 +0000" stop="20220705155500 +0000" channel="Stod2Fjolskylda.is">
     <title lang="is">Strumparnir</title>
     <desc lang="is">Strumparnir og Kjartan galdrakarl fara á kostum í ævintýrum sínum í Strumpabæ.(n)</desc>
   </programme>
-  <programme start="20220705155500 +0000" stop="20220705162000 +0000" channel="StodFjolskylda.is">
+  <programme start="20220705155500 +0000" stop="20220705162000 +0000" channel="Stod2Fjolskylda.is">
     <title lang="is">Latibær</title>
     <desc lang="is">Skemmtileg þáttaröð um Íþróttaálfinn, Sollu stirðu, Nenna níska, Glanna glæp og fleiri skemmtilega vini þeirra í Latabæ.(n)</desc>
   </programme>
-  <programme start="20220705162000 +0000" stop="20220705164000 +0000" channel="StodFjolskylda.is">
+  <programme start="20220705162000 +0000" stop="20220705164000 +0000" channel="Stod2Fjolskylda.is">
     <title lang="is">Heiða</title>
     <desc lang="is">Skemmtilegir þættir um stúlkuna Heiðu og ævintýri hennar.(n)</desc>
   </programme>
-  <programme start="20220705164000 +0000" stop="20220705170000 +0000" channel="StodFjolskylda.is">
+  <programme start="20220705164000 +0000" stop="20220705170000 +0000" channel="Stod2Fjolskylda.is">
     <title lang="is">Blíða og Blær</title>
     <desc lang="is">Ný þáttaröð af þessum frábæru teiknimyndaþáttum um töfradísirnar  Blíðu og Blæ. Með því að láta óskir vinkonu þeirra rætast enda þær oftast í skemmtilegum ævintýrum sem stundum leiða þær í vandræði  sem þær þurfa svo að leysa í sameiningu.(n)</desc>
   </programme>
-  <programme start="20220705170000 +0000" stop="20220705171500 +0000" channel="StodFjolskylda.is">
+  <programme start="20220705170000 +0000" stop="20220705171500 +0000" channel="Stod2Fjolskylda.is">
     <title lang="is">Víkingurinn Viggó</title>
     <desc lang="is">Skemmtilegir þættir um víkingastrákinn Viggó og félaga hans sem eru duglegir að lenda í alls konar ævintýrum.(n)</desc>
   </programme>
-  <programme start="20220705171500 +0000" stop="20220705173500 +0000" channel="StodFjolskylda.is">
+  <programme start="20220705171500 +0000" stop="20220705173500 +0000" channel="Stod2Fjolskylda.is">
     <title lang="is">Adda klóka</title>
     <desc lang="is">Adda er klár og duglega stelpa sem á ótrúlega vini. Vinir hennar sem kallaðir eru Flókar eru einkennilegar skepnur sem búa á hóteli fjölskyldu hennar. Á hverjum degi koma upp óvenjulegar aðstæður á hótelinu sem þessir litlu vinir hennar eiga upptökin að. Adda ásamt bestu Flóka vinkonu sinni lenda saman í óvenjulegum ævintýrum þegar að þær reyna að leiðrétta þau óhöpp sem Flókarnir hafa valdið.(n)</desc>
   </programme>
-  <programme start="20220705173500 +0000" stop="20220705180000 +0000" channel="StodFjolskylda.is">
+  <programme start="20220705173500 +0000" stop="20220705180000 +0000" channel="Stod2Fjolskylda.is">
     <title lang="is">Dagur Diðrik</title>
     <desc lang="is">Frábærir teiknimyndaþættir um unga uppfinningamanninn Dag Diðrik, Dísu vinkonu hans og öll hjálpsömu vélmennin hans. Þau elska ævintýri og nýta sér oft tæknina til að sleppa úr erfiðum aðstæðum.(n)</desc>
   </programme>
-  <programme start="20220705180000 +0000" stop="20220705182000 +0000" channel="StodFjolskylda.is">
+  <programme start="20220705180000 +0000" stop="20220705182000 +0000" channel="Stod2Fjolskylda.is">
     <title lang="is">Svampur Sveinsson</title>
     <desc lang="is">Bráðfyndnir þættir um hrakfallabálkinn Svamp Sveinsson og félaga hans sem búa neðansjávar og eru sífellt að koma sér í óborganleg vandræði.(n)</desc>
   </programme>
-  <programme start="20220705182000 +0000" stop="20220705183500 +0000" channel="StodFjolskylda.is">
+  <programme start="20220705182000 +0000" stop="20220705183500 +0000" channel="Stod2Fjolskylda.is">
     <title lang="is">Óskastund með Skoppu og Skítlu</title>
     <desc lang="is">Lífið er leikur hjá þeim vinkonum Skoppu og Skrítlu. Því finnst þeim við  hæfi að bjóða áhorfendum inn á leikvöllinn sinn þar sem þær dvelja löngum stundum þegar þær ekki eru í leikhúsinu. Þær vita að öll börn stór og smá  elska að leika sér og í gegnum leikinn öðlast þau hæfni og þor. Í hverjum þætti flýgur óskafiðrildi af stað með litla ósk sem síðar verður að þema hvers þáttar. Eitt leiðir af öðru og fyrr en varir eru vinkonurnar farnar að takast á við ólíkustu verk efni og  þrautir. Fjölskyldustund full af fróðleik og fjöri með Skoppu og Skrítlu á Stöð 2.(n)</desc>
   </programme>
-  <programme start="20220705183500 +0000" stop="20220705200000 +0000" channel="StodFjolskylda.is">
+  <programme start="20220705183500 +0000" stop="20220705200000 +0000" channel="Stod2Fjolskylda.is">
     <title lang="is">Hoodwinked Too! Hood vs. Evil</title>
     <desc lang="is">Skemmtileg teiknimynd þar sem rækilega er snúið út úr ævintýrinu um Rauðhettu og úlfinn. Rauðhetta er búin að vera í stöðugri þjálfun hjá leyniþjónustunni AGEV (Allt er gott sem endar vel). Fyrsta verkefnið hennar kemur fyrr en átti von á því ill norn hefur rænt Hans og Grétu og nú er það undir Rauðhettu komið að finna þau og frelsa.(n)</desc>
   </programme>
-  <programme start="20220705200000 +0000" stop="20220705202000 +0000" channel="StodFjolskylda.is">
+  <programme start="20220705200000 +0000" stop="20220705202000 +0000" channel="Stod2Fjolskylda.is">
     <title lang="is">30 Rock</title>
     <desc lang="is">Snilldarlegir gamanþættir sem fjalla um Liz Lemon, yfirhöfund skemmtiþáttar sem sýndur er í beinni útsendingu í New York. Líf Liz umturnast þegar hvatvís, nýr yfirmaður, Jack Donaghy, fer að skipta sér af þættinum hennar og treður hinum óútreiknanlega Tracy Jordan inn í leikarahópinn. Þá er undir Liz komið að hafa stjórn á glundroðanum ásamt því að eiga sér einkalíf.(n)</desc>
   </programme>
-  <programme start="20220705202000 +0000" stop="20220705204000 +0000" channel="StodFjolskylda.is">
+  <programme start="20220705202000 +0000" stop="20220705204000 +0000" channel="Stod2Fjolskylda.is">
     <title lang="is">30 Rock</title>
     <desc lang="is">Snilldarlegir gamanþættir sem fjalla um Liz Lemon, yfirhöfund skemmtiþáttar sem sýndur er í beinni útsendingu í New York. Líf Liz umturnast þegar hvatvís, nýr yfirmaður, Jack Donaghy, fer að skipta sér af þættinum hennar og treður hinum óútreiknanlega Tracy Jordan inn í leikarahópinn. Þá er undir Liz komið að hafa stjórn á glundroðanum ásamt því að eiga sér einkalíf.(n)</desc>
   </programme>
-  <programme start="20220705204000 +0000" stop="20220705210000 +0000" channel="StodFjolskylda.is">
+  <programme start="20220705204000 +0000" stop="20220705210000 +0000" channel="Stod2Fjolskylda.is">
     <title lang="is">Last Man Standing</title>
     <desc lang="is">Skemmtilegir gamanþættir með grínaranum Tim Allen í hlutverki karlmans  sem lifir og hrærist í miklu kvennaríki, bæði í vinnunni og heima fyrir. Mike Baxter (Allen) og kona hans ala í sameiningu upp þrjár dætur, og þar gengur oft á ýmsu.(n)</desc>
   </programme>
-  <programme start="20220705210000 +0000" stop="20220705214000 +0000" channel="StodFjolskylda.is">
+  <programme start="20220705210000 +0000" stop="20220705214000 +0000" channel="Stod2Fjolskylda.is">
     <title lang="is">Legends of Tomorrow</title>
     <desc lang="is">Sjötta þáttaröð þessara frábæru þátta frá Warner úr smiðju DC Comics sem fjalla um tímaflakkarann Rip Hunter sem er beðinn um að safna saman ólíkum hópi ofurhuga og skúrka sem í sameiningu og með ólíkum kröftum og hæfileikum á að reyna koma í veg fyrir endalok heimsins eins og við þekkjum hann.(n)</desc>
   </programme>
-  <programme start="20220705214000 +0000" stop="20220705222500 +0000" channel="StodFjolskylda.is">
+  <programme start="20220705214000 +0000" stop="20220705222500 +0000" channel="Stod2Fjolskylda.is">
     <title lang="is">House M.D.</title>
     <desc lang="is">Hin óborganlegi og magnaði Dr. Gregory House og teymi hans takast á við verkefni sem aðrir læknar ráða ekki við. Þótt House sé yfirburða klár er einkalífið takmarkað og samskipti við annað fólk oftast þreytandi.(n)</desc>
   </programme>
-  <programme start="20220705222500 +0000" stop="20220705225000 +0000" channel="StodFjolskylda.is">
+  <programme start="20220705222500 +0000" stop="20220705225000 +0000" channel="Stod2Fjolskylda.is">
     <title lang="is">Two Weeks to Live</title>
     <desc lang="is">Fyndnir og æsispennandi þættir með Maisie Willams (Game of Thrones) í aðalhlutverki.
 Kona leggur upp í leynilegt verkefni til að heiðra minningu föður síns, sem lést á dularfullan hátt þegar hún var lítil. 
 Eftir andlát föðurins fór móðir Kim Noakes með hana í burtu til að lifa afskekktu og einangruðu lífi sem einkenndist af furðulegum sjálfbjargar aðferðum. En núna er hún fullorðin og að takast á við raunveruleikann í fyrsta skipti.(n)</desc>
   </programme>
-  <programme start="20220705225000 +0000" stop="20220705233000 +0000" channel="StodFjolskylda.is">
+  <programme start="20220705225000 +0000" stop="20220705233000 +0000" channel="Stod2Fjolskylda.is">
     <title lang="is">The Flash</title>
     <desc lang="is">Sjöunda þáttaröðin af þessum hörkuspennandi þáttum sem byggðir eru á teiknimyndaseríunni Flash Gordon úr smiðju DC Comics og fjalla um vísindamanninn Barry Allen sem er í raun ofurhetja en kraftar hans er geta ferðast um á ótrúlegum hraða.(n)</desc>
   </programme>
-  <programme start="20220705233000 +0000" stop="20220706002000 +0000" channel="StodFjolskylda.is">
+  <programme start="20220705233000 +0000" stop="20220706002000 +0000" channel="Stod2Fjolskylda.is">
     <title lang="is">Warrior</title>
     <desc lang="is">Önnur þáttaröð þessara hörkuspennandi þátta frá HBO. Þættirnir eru byggðir á skrifum Bruce Lee um kínversk leynisamtök í San Fransisco undir lok nítjándu aldar og blóðug átök þeirra á milli.(n)</desc>
   </programme>
