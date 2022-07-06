@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V1.56.22 -- Jan van Straaten" site="sjonvarp.is">
+  <channels>
+    <channel update="i" site="sjonvarp.is" site_id="RUV" xmltv_id="RUV.is">RÚV</channel>
+    <channel update="i" site="sjonvarp.is" site_id="S1" xmltv_id="SjonvarpSimans.is">Sjónvarp Símans</channel>
+    <channel update="i" site="sjonvarp.is" site_id="S1SPORT" xmltv_id="SiminnSport.is">Síminn Sport</channel>
+    <channel update="i" site="sjonvarp.is" site_id="S1SPORT2" xmltv_id="SiminnSport2.is">Síminn Sport 2</channel>
+    <channel update="i" site="sjonvarp.is" site_id="ST2" xmltv_id="Stod2.is">Stöð 2</channel>
+    <channel update="i" site="sjonvarp.is" site_id="STOD3" xmltv_id="Stod2Fjolskylda.is">Stöð Fjölskylda</channel>
+    <channel update="i" site="sjonvarp.is" site_id="BIO" xmltv_id="Stod2Bio.is">Stöð 2 Bíó</channel>
+    <channel update="i" site="sjonvarp.is" site_id="RUVI" xmltv_id="RUV2.is">RÚV 2</channel>
+    <channel update="i" site="sjonvarp.is" site_id="S2ESPORT" xmltv_id="Stod2Esport.is">Stöð 2 Esport</channel>
+    <channel update="i" site="sjonvarp.is" site_id="SYN" xmltv_id="Stod2Sport.is">Stöð 2 Sport</channel>
+    <channel update="i" site="sjonvarp.is" site_id="SKJARSPORT" xmltv_id="Stod2Sport2.is">Stöð 2 Sport 2</channel>
+    <channel update="i" site="sjonvarp.is" site_id="S2SPORT3" xmltv_id="Stod2Sport3.is">Stöð 2 Sport 3</channel>
+    <channel update="i" site="sjonvarp.is" site_id="S2SPORT4" xmltv_id="Stod2Sport4.is">Stöð 2 Sport 4</channel>
+    <channel update="i" site="sjonvarp.is" site_id="GOLF" xmltv_id="Stod2Golf.is">Stöð 2 Golf</channel>
+    <channel update="i" site="sjonvarp.is" site_id="HRING" xmltv_id="Hringbraut.is">Hringbraut</channel>
+    <channel update="i" site="sjonvarp.is" site_id="N4" xmltv_id="N4.is">N4</channel>
+    <channel update="i" site="sjonvarp.is" site_id="OMEG" xmltv_id="Omega.is">Omega</channel>
+  </channels>
+</site>
