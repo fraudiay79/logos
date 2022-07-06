@@ -34,19 +34,7 @@
   </channel>
   <channel id="Stod2Esport.is">
     <display-name lang="is">Stöð 2 Esport</display-name>
-    <url>http://www.stod2.is</url>
-  </channel>
-  <channel id="Stod2BestaDeildin.is">
-    <display-name lang="is">Stöð 2 Besta Deildin</display-name>
-    <url>http://www.stod2.is</url>
-  </channel>
-  <channel id="Stod2BestaDeildin2.is">
-    <display-name lang="is">Stöð 2 Besta Deildin 2</display-name>
-    <url>http://www.stod2.is</url>
-  </channel>
-  <channel id="Stod2BestaDeildin3.is">
-    <display-name lang="is">Stöð 2 Besta Deildin 3</display-name>
-    <url>http://www.stod2.is</url>
+    <url>http://www.sjonvarp.is</url>
   </channel>
   <channel id="Stod2Sport.is">
     <display-name lang="is">Stöð 2 Sport</display-name>
@@ -75,6 +63,18 @@
   <channel id="N4.is">
     <display-name lang="is">N4</display-name>
     <url>http://www.sjonvarp.is</url>
+  </channel>
+  <channel id="Stod2BestaDeildin.is">
+    <display-name lang="is">Stöð 2 Besta Deildin</display-name>
+    <url>http://www.stod2.is</url>
+  </channel>
+  <channel id="Stod2BestaDeildin2.is">
+    <display-name lang="is">Stöð 2 Besta Deildin 2</display-name>
+    <url>http://www.stod2.is</url>
+  </channel>
+  <channel id="Stod2BestaDeildin3.is">
+    <display-name lang="is">Stöð 2 Besta Deildin 3</display-name>
+    <url>http://www.stod2.is</url>
   </channel>
   <programme start="20220706130000 +0000" stop="20220706131000 +0000" channel="RUV.is">
     <title lang="is">Heimaleikfimi</title>
@@ -708,12 +708,10 @@ Jenny Cooper er dánardómstjóri í Toronto, þar sem hún rannsakar dularfull 
   </programme>
   <programme start="20220706181500 +0000" stop="20220706210000 +0000" channel="Stod2Esport.is">
     <title lang="is">Fyrsta mót hóps 2</title>
-    <title lang="en">BLAST Premier</title>
     <desc lang="is">Útsending frá leik Natus Vincere og OG Esports í BLAST Premier deildinni í CS:GO.(n)</desc>
   </programme>
   <programme start="20220706210000 +0000" stop="20220707005000 +0000" channel="Stod2Esport.is">
     <title lang="is">Annað mót hóps 2</title>
-    <title lang="en">BLAST Premier</title>
     <desc lang="is">Útsending frá leik ENCE og BIG í BLAST Premier deildinni í CS:GO.(n)</desc>
   </programme>
   <programme start="20220706070000 +0000" stop="20220706084000 +0000" channel="Stod2Sport.is">
