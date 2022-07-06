@@ -10,7 +10,11 @@
   </channel>
   <channel id="SiminnSport.is">
     <display-name lang="is">Síminn Sport</display-name>
-    <url>http://www.skjarinn.is</url>
+    <url>http://www.sjonvarp.is</url>
+  </channel>
+  <channel id="SiminnSport2.is">
+    <display-name lang="is">Síminn Sport 2</display-name>
+    <url>http://www.sjonvarp.is</url>
   </channel>
   <channel id="Stod2.is">
     <display-name lang="is">Stöð 2</display-name>
@@ -24,12 +28,24 @@
     <display-name lang="is">Stöð 2 Bíó</display-name>
     <url>http://www.sjonvarp.is</url>
   </channel>
-  <channel id="RUVIprottir.is">
-    <display-name lang="is">RÚV Íþróttir</display-name>
+  <channel id="RUV2.is">
+    <display-name lang="is">RÚV 2</display-name>
     <url>http://www.sjonvarp.is</url>
   </channel>
   <channel id="Stod2Esport.is">
     <display-name lang="is">Stöð 2 Esport</display-name>
+    <url>http://www.stod2.is</url>
+  </channel>
+  <channel id="Stod2BestaDeildin.is">
+    <display-name lang="is">Stöð 2 Besta Deildin</display-name>
+    <url>http://www.stod2.is</url>
+  </channel>
+  <channel id="Stod2BestaDeildin2.is">
+    <display-name lang="is">Stöð 2 Besta Deildin 2</display-name>
+    <url>http://www.stod2.is</url>
+  </channel>
+  <channel id="Stod2BestaDeildin3.is">
+    <display-name lang="is">Stöð 2 Besta Deildin 3</display-name>
     <url>http://www.stod2.is</url>
   </channel>
   <channel id="Stod2Sport.is">
@@ -272,6 +288,87 @@ Umsjón: Gísli Einarsson, Guðríður Helgadóttir, Hafsteinn Vilhelmsson, Elsa
   <programme start="20220706225400 +0000" stop="20220706234600 +0000" channel="SjonvarpSimans.is">
     <title lang="is">Love Island</title>
     <desc lang="is">Bráðskemmtileg raunveruleikasería þar sem eldheitir einstaklingar fá tækifæri til að finna ástina í fjörugum leik.(n)</desc>
+  </programme>
+  <programme start="20220706060000 +0000" stop="20220706140000 +0000" channel="SiminnSport.is">
+    <title lang="is">Óstöðvandi fótbolti</title>
+  </programme>
+  <programme start="20220706140000 +0000" stop="20220706142500 +0000" channel="SiminnSport.is">
+    <title lang="is">Arsenal - Chelsea 2010-11</title>
+    <desc lang="is">Svipmyndir úr völdum leikjum í sögu ensku úrvalsdeildarinnar.(n)</desc>
+  </programme>
+  <programme start="20220706142500 +0000" stop="20220706145000 +0000" channel="SiminnSport.is">
+    <title lang="is">Arsenal - Tottenham 2011-12</title>
+    <desc lang="is">Svipmyndir úr völdum leikjum í sögu ensku úrvalsdeildarinnar.(n)</desc>
+  </programme>
+  <programme start="20220706145000 +0000" stop="20220706152000 +0000" channel="SiminnSport.is">
+    <title lang="is">Arsenal - Newcastle 2012-13</title>
+    <desc lang="is">Svipmyndir úr völdum leikjum í sögu ensku úrvalsdeildarinnar.(n)</desc>
+  </programme>
+  <programme start="20220706152000 +0000" stop="20220706154500 +0000" channel="SiminnSport.is">
+    <title lang="is">Man. Utd. - Liverpool 2013-14</title>
+    <desc lang="is">Svipmyndir úr völdum leikjum í sögu ensku úrvalsdeildarinnar.(n)</desc>
+  </programme>
+  <programme start="20220706154500 +0000" stop="20220706161000 +0000" channel="SiminnSport.is">
+    <title lang="is">Liverpool - Man. Utd. 2014-15</title>
+    <desc lang="is">Svipmyndir úr völdum leikjum í sögu ensku úrvalsdeildarinnar.(n)</desc>
+  </programme>
+  <programme start="20220706161000 +0000" stop="20220706164000 +0000" channel="SiminnSport.is">
+    <title lang="is">Norwich - Liverpool 2015-16</title>
+    <desc lang="is">Svipmyndir úr völdum leikjum í sögu ensku úrvalsdeildarinnar.(n)</desc>
+  </programme>
+  <programme start="20220706164000 +0000" stop="20220706170500 +0000" channel="SiminnSport.is">
+    <title lang="is">Man. City - Tottenham 2016-17</title>
+    <desc lang="is">Svipmyndir úr völdum leikjum í sögu ensku úrvalsdeildarinnar.(n)</desc>
+  </programme>
+  <programme start="20220706170500 +0000" stop="20220706173000 +0000" channel="SiminnSport.is">
+    <title lang="is">Arsenal - Chelsea 2017-18</title>
+    <desc lang="is">Svipmyndir úr völdum leikjum í sögu ensku úrvalsdeildarinnar.(n)</desc>
+  </programme>
+  <programme start="20220706173000 +0000" stop="20220706180000 +0000" channel="SiminnSport.is">
+    <title lang="is">Brighton - Man. City 2018-19</title>
+    <desc lang="is">Svipmyndir úr völdum leikjum í sögu ensku úrvalsdeildarinnar.(n)</desc>
+  </programme>
+  <programme start="20220706180000 +0000" stop="20220706182500 +0000" channel="SiminnSport.is">
+    <title lang="is">Chelsea - Aston Villa 2010-11</title>
+    <desc lang="is">Svipmyndir úr völdum leikjum í sögu ensku úrvalsdeildarinnar.(n)</desc>
+  </programme>
+  <programme start="20220706182500 +0000" stop="20220706185000 +0000" channel="SiminnSport.is">
+    <title lang="is">Liverpool - Everton 2011-12</title>
+    <desc lang="is">Svipmyndir úr völdum leikjum í sögu ensku úrvalsdeildarinnar.(n)</desc>
+  </programme>
+  <programme start="20220706185000 +0000" stop="20220706192000 +0000" channel="SiminnSport.is">
+    <title lang="is">Everton - Aston Villa 2012-13</title>
+    <desc lang="is">Svipmyndir úr völdum leikjum í sögu ensku úrvalsdeildarinnar.(n)</desc>
+  </programme>
+  <programme start="20220706192000 +0000" stop="20220706194500 +0000" channel="SiminnSport.is">
+    <title lang="is">Chelsea - Arsenal 2013-14</title>
+    <desc lang="is">Svipmyndir úr völdum leikjum í sögu ensku úrvalsdeildarinnar.(n)</desc>
+  </programme>
+  <programme start="20220706194500 +0000" stop="20220706201000 +0000" channel="SiminnSport.is">
+    <title lang="is">Arsenal - Liverpool 2014-15</title>
+    <desc lang="is">Svipmyndir úr völdum leikjum í sögu ensku úrvalsdeildarinnar.(n)</desc>
+  </programme>
+  <programme start="20220706201000 +0000" stop="20220706204000 +0000" channel="SiminnSport.is">
+    <title lang="is">Leicester - Liverpool 2015-16</title>
+    <desc lang="is">Svipmyndir úr völdum leikjum í sögu ensku úrvalsdeildarinnar.(n)</desc>
+  </programme>
+  <programme start="20220706204000 +0000" stop="20220706210500 +0000" channel="SiminnSport.is">
+    <title lang="is">Liverpool - Swansea 2016-17</title>
+    <desc lang="is">Svipmyndir úr völdum leikjum í sögu ensku úrvalsdeildarinnar.(n)</desc>
+  </programme>
+  <programme start="20220706210500 +0000" stop="20220706213000 +0000" channel="SiminnSport.is">
+    <title lang="is">Liverpool - Man. City 2017-18</title>
+    <desc lang="is">Svipmyndir úr völdum leikjum í sögu ensku úrvalsdeildarinnar.(n)</desc>
+  </programme>
+  <programme start="20220706213000 +0000" stop="20220706220000 +0000" channel="SiminnSport.is">
+    <title lang="is">Chelsea - Arsenal 2018-19</title>
+    <desc lang="is">Svipmyndir úr völdum leikjum í sögu ensku úrvalsdeildarinnar.(n)</desc>
+  </programme>
+  <programme start="20220706220000 +0000" stop="20220706225500 +0000" channel="SiminnSport.is">
+    <title lang="is">Goals of the Season 2013-14</title>
+  </programme>
+  <programme start="20220706225500 +0000" stop="20220706235000 +0000" channel="SiminnSport.is">
+    <title lang="is">Review of the Season 2013-14</title>
   </programme>
   <programme start="20220706075500 +0000" stop="20220706081500 +0000" channel="Stod2.is">
     <title lang="is">Heimsókn</title>
@@ -589,19 +686,19 @@ Jenny Cooper er dánardómstjóri í Toronto, þar sem hún rannsakar dularfull 
     <title lang="is">Endless</title>
     <desc lang="is">Rómantísk ævintýramynd frá 2020. Þegar hin mjög svo ástföngnu Riley og Chris lenda í hörmulegu bílslysi þar sem Chris lætur lífið, kennir Riley sér um allt saman. Chris festist hins vegar á milli lífs og dauða og fyrir einhverskonar kraftaverk finna þau leið til að eiga samskipti hvort við annað.(n)</desc>
   </programme>
-  <programme start="20220706183000 +0000" stop="20220706185000 +0000" channel="RUVIprottir.is">
+  <programme start="20220706183000 +0000" stop="20220706185000 +0000" channel="RUV2.is">
     <title lang="is">EM stofan</title>
     <desc lang="is">Upphitun fyrir leik Englands og Austurríkis á EM kvenna í fótbolta.(n)</desc>
   </programme>
-  <programme start="20220706185000 +0000" stop="20220706205000 +0000" channel="RUVIprottir.is">
+  <programme start="20220706185000 +0000" stop="20220706205000 +0000" channel="RUV2.is">
     <title lang="is">England - Austurríki</title>
     <desc lang="is">Bein útsending frá leik England og Austurríkis á EM kvenna í fótbolta.(n)</desc>
   </programme>
-  <programme start="20220706205000 +0000" stop="20220706211000 +0000" channel="RUVIprottir.is">
+  <programme start="20220706205000 +0000" stop="20220706211000 +0000" channel="RUV2.is">
     <title lang="is">EM stofan</title>
     <desc lang="is">Uppgjör á leik Englands og Austurríkis á EM kvenna í fótbolta.(n)</desc>
   </programme>
-  <programme start="20220706211000 +0000" stop="20220706232000 +0000" channel="RUVIprottir.is">
+  <programme start="20220706211000 +0000" stop="20220706232000 +0000" channel="RUV2.is">
     <title lang="is">Fréttir með táknmálstúlkun</title>
     <desc lang="is">Fréttatími sjónvarps með táknmálstúlkun.(n)</desc>
   </programme>
