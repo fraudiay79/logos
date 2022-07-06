@@ -59,1141 +59,1136 @@
   <channel id="N4.is">
     <display-name lang="is">N4</display-name>
     <url>http://www.sjonvarp.is</url>
-  <programme start="20220705130000 +0000" stop="20220705131000 +0000" channel="RUV.is">
+  </channel>
+  <programme start="20220706130000 +0000" stop="20220706131000 +0000" channel="RUV.is">
     <title lang="is">Heimaleikfimi</title>
     <desc lang="is">Góð ráð og æfingar sem tilvalið er að gera heima. Íris Rut Garðarsdóttir sjúkraþjálfari hefur umsjón með leikfiminni. e.(n)</desc>
   </programme>
-  <programme start="20220705131000 +0000" stop="20220705131500 +0000" channel="RUV.is">
+  <programme start="20220706131000 +0000" stop="20220706131500 +0000" channel="RUV.is">
     <title lang="is">Sumarlandabrot</title>
     <desc lang="is">Stutt umfjöllun Sumarlandans sem verður á flakki í sumar og hittir landann fyrir í sínu náttúrulega umhverfi, uppi á fjöllum, úti í garði, inni í skógi og allt um kring. Umsjón: Gísli Einarsson, Guðríður Helgadóttir, Hafsteinn Vilhelmsson, Elsa María Guðlaugs-Drífudóttir,  Þórgunnur Oddsdóttir, Sigrún Hermannsdóttir og Helga Margrét Höskuldsdóttir. e.(n)</desc>
   </programme>
-  <programme start="20220705131500 +0000" stop="20220705141000 +0000" channel="RUV.is">
+  <programme start="20220706131500 +0000" stop="20220706142000 +0000" channel="RUV.is">
     <title lang="is">Útsvar 2012-2013</title>
     <desc lang="is">Spurningakeppni sveitarfélaga. Umsjónarmenn eru Sigmar Guðmundsson og Brynja Þorgeirsdóttir. Spurningahöfundur: Ólafur B. Guðnason. Dagskrárgerð: Helgi Jóhannesson. e.(n)</desc>
   </programme>
-  <programme start="20220705141000 +0000" stop="20220705142000 +0000" channel="RUV.is">
-    <title lang="is">Sænskar krásir</title>
-    <desc lang="is">Stuttir þættir um sænska matargerðarlist. e.(n)</desc>
+  <programme start="20220706142000 +0000" stop="20220706150000 +0000" channel="RUV.is">
+    <title lang="is">Söngvaskáld</title>
+    <desc lang="is">Þættir frá 2012 þar sem valinkunnir tónlistarmenn flytja nokkur laga sinna að viðstöddum áheyrendum í myndveri RÚV. Stjórn upptöku: Jón Egill Bergþórsson. e.(n)</desc>
   </programme>
-  <programme start="20220705142000 +0000" stop="20220705144500 +0000" channel="RUV.is">
-    <title lang="is">Ísþjóðin með Ragnhildi Steinunni</title>
-    <desc lang="is">Þáttaröð um ungt og áhugavert fólk. Skyggnst er inn í líf einnar persónu hverju sinni og henni fylgt eftir í sínu daglega lífi. Umsjónarmaður er Ragnhildur Steinunn Jónsdóttir. Stjórn upptöku og myndvinnsla er í höndum Eiríks I. Böðvarssonar. e.(n)</desc>
+  <programme start="20220706150000 +0000" stop="20220706151500 +0000" channel="RUV.is">
+    <title lang="is">Lamandi ótti - Caroline</title>
+    <desc lang="is">Danskur þáttur þar sem rætt er við ungt fólk sem þjáist af fælni og fjallað um hvaða áhrif fælnin hefur á daglegt líf þeirra. e.(n)</desc>
   </programme>
-  <programme start="20220705144500 +0000" stop="20220705151500 +0000" channel="RUV.is">
-    <title lang="is">Matarmenning - Ofurfæði</title>
-    <desc lang="is">Fróðlegir danskir þættir þar sem þáttastjórnendur rannsaka matinn sem við borðum dags daglega. e.(n)</desc>
+  <programme start="20220706151500 +0000" stop="20220706155000 +0000" channel="RUV.is">
+    <title lang="is">Sumarlandinn</title>
+    <desc lang="is">Sumarlandinn verður á flakki í sumar og hittir landann fyrir í sínu náttúrulega umhverfi, uppi á fjöllum, úti í garði, inni í skógi og allt um kring. Sumarlandinn leitar uppi áhugaverða viðburði og skemmtilegar sögur. Sumarlandinn tekur líka lagið ef vel liggur á honum.
+Umsjón: Gísli Einarsson, Guðríður Helgadóttir, Hafsteinn Vilhelmsson, Elsa María Guðlaugs-Drífudóttir,  Þórgunnur Oddsdóttir, Sigrún Hermannsdóttir og Helga Margrét Höskuldsdóttir. Trúbadorinn og bóndinn Hlynur Snær verður einnig með í för. e.(n)</desc>
   </programme>
-  <programme start="20220705151500 +0000" stop="20220705153500 +0000" channel="RUV.is">
-    <title lang="is">90 á stöðinni</title>
-    <desc lang="is">Skemmtiþættir frá 1990 þar sem Spaugstofumenn fást við fréttir líðandi stundar. Leikstjóri: Karl Ágúst Úlfsson. Dagskrárgerð: Tage Ammendrup. e.(n)</desc>
+  <programme start="20220706155000 +0000" stop="20220706162000 +0000" channel="RUV.is">
+    <title lang="is">Í garðinum með Gurrý II</title>
+    <desc lang="is">Í garðinum með Gurrý sýnir Guðríður Helgadóttir garðyrkjufræðingur áhorfendum réttu handtökin við garðyrkjustörfin og fer í áhugaverðar heimsóknir. Dagskrárgerð: Björn Emilsson. e.(n)</desc>
   </programme>
-  <programme start="20220705153500 +0000" stop="20220705160500 +0000" channel="RUV.is">
-    <title lang="is">Í garðinum með Gurrý III</title>
-    <desc lang="is">Þáttaröð í umsjón Guðríðar Helgadóttur garðyrkjufræðings þar sem hún sýnir áhorfendum réttu handtökin við garðyrkjustörfin. Dagskrárgerð: Björn Emilsson. e.(n)</desc>
+  <programme start="20220706162000 +0000" stop="20220706163500 +0000" channel="RUV.is">
+    <title lang="is">Augnablik - úr 50 ára sögu sjónvarpsins</title>
+    <desc lang="is">Litið um öxl yfir 50 ára sögu sjónvarps og fróðleg og skemmtileg augnablik rifjuð upp með myndefni úr Gullkistunni. Kynnir er Jóhanna Vigdís Hjaltadóttir. Dagskrárgerð: Egill Eðvarðsson. e.(n)</desc>
   </programme>
-  <programme start="20220705160500 +0000" stop="20220705163500 +0000" channel="RUV.is">
-    <title lang="is">Lífsins lystisemdir</title>
-    <desc lang="is">Finnlands-sænskir lífsstílsþættir þar sem meðal annars er fjallað um matreiðslu, garðyrkju og föndur. e.(n)</desc>
+  <programme start="20220706163500 +0000" stop="20220706170000 +0000" channel="RUV.is">
+    <title lang="is">Nýjasta tækni og vísindi</title>
+    <desc lang="is">Nýjasta tækni og vísindi hefur loks göngu sína aftur eftir langa fjarveru af skjáum landsmanna. Efnistökin eru fjölbreytt og fróðleg en í þáttunum verða íslenskar vísindarannsóknir í forgrunni. Fjallað er um allt milli himins og jarðar, svo sem öldrun, hvali, sprotafyrirtæki og snjallheimilið svo fátt eitt sé nefnt. e.(n)</desc>
   </programme>
-  <programme start="20220705163500 +0000" stop="20220705170500 +0000" channel="RUV.is">
-    <title lang="is">Rætur</title>
-    <desc lang="is">Þættir um fólk sem á rætur um allan heim, en hefur af ólíkum ástæðum sest að á Íslandi. Næstum því einn af hverjum tíu íbúum Íslands er af erlendum uppruna. Sumir komu hingað af því að þá langaði til þess, aðrir áttu fáa aðra kosti. Dagskrárgerð: Sigríður Halldórsdóttir og Ragnheiður Thorsteinsson. e.(n)</desc>
+  <programme start="20220706170000 +0000" stop="20220706173000 +0000" channel="RUV.is">
+    <title lang="is">Orlofshús arkitekta</title>
+    <desc lang="is">Norskir þættir þar sem arkítektar eru heimsóttir í orlofshúsin sín. e.(n)</desc>
   </programme>
-  <programme start="20220705170500 +0000" stop="20220705180000 +0000" channel="RUV.is">
-    <title lang="is">Íslendingar</title>
-    <desc lang="is">Fjallað er um Íslendinga sem settu svip sinn á íslenskt samfélag um sína daga með margvíslegum hætti. Þættirnir spegla jafnframt sögu þjóðarinnar og samtíð á ýmsum tímum, menningu, listir, stjórnmál og fleira. Þeir eru byggðir á efni úr safni Rúv á nærfellt hálfrar aldar tímabili. Umsjón og dagskrárgerð: Andrés Indriðason. e.(n)</desc>
+  <programme start="20220706173000 +0000" stop="20220706180000 +0000" channel="RUV.is">
+    <title lang="is">Orðbragð</title>
+    <desc lang="is">Orðbragð er skemmtiþáttur þar sem Bragi Valdimar Skúlason og Brynja Þorgeirsdóttir snúa upp á íslenska tungumálið, teygja það, toga og umfaðma, knúsa og blása í það lífi. Umsjónarmenn eru Bragi Valdimar Skúlason og Brynja Þorgeirsdóttir. Dagskrárgerð: Konráð Pálmason. e.(n)</desc>
   </programme>
-  <programme start="20220705180000 +0000" stop="20220705180100 +0000" channel="RUV.is">
+  <programme start="20220706180000 +0000" stop="20220706180100 +0000" channel="RUV.is">
     <title lang="is">KrakkaRÚV</title>
   </programme>
-  <programme start="20220705180100 +0000" stop="20220705181800 +0000" channel="RUV.is">
-    <title lang="is">Hönnunarstirnin</title>
-    <desc lang="is">Sjötta serían af þessum vinsælu hönnunarþáttum.(n)</desc>
+  <programme start="20220706180100 +0000" stop="20220706180600 +0000" channel="RUV.is">
+    <title lang="is">Tölukubbar</title>
+    <desc lang="is">Lærið um tölustafina með Tölukubbunum! e.(n)</desc>
   </programme>
-  <programme start="20220705181800 +0000" stop="20220705184200 +0000" channel="RUV.is">
-    <title lang="is">Frímó</title>
-    <desc lang="is">Frímínútur eru frábærar! Í þessari fjörugu spurninga- og þrautakeppni mætast tvö lið með krökkum úr 6.bekk þar sem þau leysa skemmtilegar þrautir og svara spurningum um allt milli himins og jarðar! e.(n)</desc>
+  <programme start="20220706180600 +0000" stop="20220706181300 +0000" channel="RUV.is">
+    <title lang="is">Hæ Sámur</title>
+    <desc lang="is">Vinalegi hundurinn Sámur hvetur börn til þess að kanna umhverfi sitt og takast á við verkefni í sameiningu. e.(n)</desc>
   </programme>
-  <programme start="20220705184200 +0000" stop="20220705185000 +0000" channel="RUV.is">
-    <title lang="is">Matargat</title>
-    <desc lang="is">Ylfa og Máni mæta aftur í Matargatið og útbúa að þessu sinni pizzaveislu.
-
-Ylfa útbýr pizzu með mozarella á meðan Máni setur allskonar kjötálegg á sína pizzu.(n)</desc>
+  <programme start="20220706181300 +0000" stop="20220706182000 +0000" channel="RUV.is">
+    <title lang="is">Lundaklettur</title>
+    <desc lang="is">Teiknimyndaþættir um litlu lundasystkinin Únu og Bubba sem búa á eyjunni Lundakletti. Þau lenda sífellt í nýjum ævintýrum með vinum sínum á eyjunni. e.(n)</desc>
   </programme>
-  <programme start="20220705185000 +0000" stop="20220705190000 +0000" channel="RUV.is">
+  <programme start="20220706182000 +0000" stop="20220706182700 +0000" channel="RUV.is">
+    <title lang="is">Skotti og Fló</title>
+    <desc lang="is">Apinn Skotti og fíllinn Fló eru bestu vinir og bralla ýmislegt skemmtilegt í skóginum ásamt vinum sínum. e.(n)</desc>
+  </programme>
+  <programme start="20220706182700 +0000" stop="20220706183400 +0000" channel="RUV.is">
+    <title lang="is">Lestrarhvutti</title>
+    <desc lang="is">Hvutti og Kubbur dýrka bækur og á bókasafninu þeirra leynist ýmislegt skemmtilegt. e.(n)</desc>
+  </programme>
+  <programme start="20220706183400 +0000" stop="20220706184500 +0000" channel="RUV.is">
+    <title lang="is">Sjóræningjarnir í næsta húsi</title>
+    <desc lang="is">Hressir teiknimyndaþættir um ævintýri sjóræningjanna í Daufhöfn og Matthildi vinkonu þeirra. Byggðir á samnefndum bókum í þýðingu Braga Valdimars Skúlasonar. e.(n)</desc>
+  </programme>
+  <programme start="20220706184500 +0000" stop="20220706185200 +0000" channel="RUV.is">
     <title lang="is">Lag dagsins</title>
     <desc lang="is">Íslensk tónlistarmyndbönd alla virka daga fyrir fréttir.(n)</desc>
   </programme>
-  <programme start="20220705190000 +0000" stop="20220705192500 +0000" channel="RUV.is">
+  <programme start="20220706185200 +0000" stop="20220706190000 +0000" channel="RUV.is">
+    <title lang="is">Vikinglottó</title>
+    <desc lang="is">Vikinglottó-útdráttur vikunnar.(n)</desc>
+  </programme>
+  <programme start="20220706190000 +0000" stop="20220706192500 +0000" channel="RUV.is">
     <title lang="is">Fréttir</title>
     <desc lang="is">Helstu fréttir dagsins af innlendum og erlendum vettvangi. Alla daga, árið um kring.(n)</desc>
   </programme>
-  <programme start="20220705192500 +0000" stop="20220705193000 +0000" channel="RUV.is">
+  <programme start="20220706192500 +0000" stop="20220706193000 +0000" channel="RUV.is">
     <title lang="is">Íþróttir</title>
     <desc lang="is">Íþróttafréttir.(n)</desc>
   </programme>
-  <programme start="20220705193000 +0000" stop="20220705194000 +0000" channel="RUV.is">
+  <programme start="20220706193000 +0000" stop="20220706194000 +0000" channel="RUV.is">
     <title lang="is">Veður</title>
     <desc lang="is">Veðurfréttir.(n)</desc>
   </programme>
-  <programme start="20220705194000 +0000" stop="20220705194500 +0000" channel="RUV.is">
+  <programme start="20220706194000 +0000" stop="20220706194500 +0000" channel="RUV.is">
     <title lang="is">Sumarlandabrot</title>
     <desc lang="is">Stutt umfjöllun Sumarlandans sem verður á flakki í sumar og hittir landann fyrir í sínu náttúrulega umhverfi, uppi á fjöllum, úti í garði, inni í skógi og allt um kring. Umsjón: Gísli Einarsson, Guðríður Helgadóttir, Hafsteinn Vilhelmsson, Elsa María Guðlaugs-Drífudóttir,  Þórgunnur Oddsdóttir, Sigrún Hermannsdóttir og Helga Margrét Höskuldsdóttir.(n)</desc>
   </programme>
-  <programme start="20220705194500 +0000" stop="20220705203000 +0000" channel="RUV.is">
-    <title lang="is">Lausafé</title>
-    <desc lang="is">Dönsk heimildarþáttaröð um áhrif heimsfaraldurs af völdum COVID-19 á lífsviðurværi fólks víða um heim. Í þáttunum kynnumst við meðal annars nuddurum á ströndum Taílands sem skyndilega urðu mannlausar og norskum hóteleiganda sem þarf að endurskipuleggja allan rekstur sinn og taka erfiðar ákvarðanir.(n)</desc>
+  <programme start="20220706194500 +0000" stop="20220706201500 +0000" channel="RUV.is">
+    <title lang="is">Keramik af kærleika</title>
+    <desc lang="is">Sænskir þættir um keramikgerð þar sem Ika Johannesson ræðir við fólk sem hefur lagt fyrir sig keramiklist og kynnist ýmsum aðferðum við að búa til muni úr leir.(n)</desc>
   </programme>
-  <programme start="20220705203000 +0000" stop="20220705210500 +0000" channel="RUV.is">
-    <title lang="is">Fiskilíf</title>
-    <desc lang="is">Sænskir þættir um fiskveiðar. Þáttastjórnendurnir Emilie Björkman og Martin Falklind ferðast um Svíþjóð, hitta fiskveiðiáhugamenn, stunda veiðar og gefa góð ráð.(n)</desc>
+  <programme start="20220706201500 +0000" stop="20220706210000 +0000" channel="RUV.is">
+    <title lang="is">Fiskur á disk - Makríll</title>
+    <desc lang="is">Færeyskir þættir sem sýna ferlið frá því að fiskur er veiddur og þar til hann er fluttur frá Færeyjum til þess staðar þar sem hann er matreiddur.(n)</desc>
   </programme>
-  <programme start="20220705210500 +0000" stop="20220705213000 +0000" channel="RUV.is">
-    <title lang="is">Leigjendur óskast</title>
-    <desc lang="is">Önnur þáttaröð þessara bresku gamanþátta um grísk-kýpverska leigumiðlarann Stath sem vinnur fyrir fjölskyldufyrirtækið Michael and Eagle. Hann er ekki góður leigumiðlari en reynir að gera föður sínum til hæfis. Þættirnir eru eftir grínistann Jamie Demetriou sem einnig leikur aðalhlutverkið. Þeir hafa hlotið þrenn BAFTA-verðlaun.(n)</desc>
+  <programme start="20220706210000 +0000" stop="20220706220000 +0000" channel="RUV.is">
+    <title lang="is">Versalir</title>
+    <desc lang="is">Þriðja þáttaröð þessara frönsku þátta um hirð Loðvíks konungs fjórtánda. Loðvík varð einráður 28 ára gamall og fyrirskipaði byggingu Versala. Meðal leikenda eru George Blagden, Alexander Vlahos og Tygh Runyan. Þættirnir eru ekki við hæfi barna yngri en 16 ára.(n)</desc>
   </programme>
-  <programme start="20220705213000 +0000" stop="20220705220000 +0000" channel="RUV.is">
-    <title lang="is">Lífið heldur áfram</title>
-    <desc lang="is">Önnur þáttaröð þessara bresku gamanþátta um hina sextugu Cathy sem reynir eftir bestu getu að lifa lífinu eftir fráfall eiginmannsins en samskiptin við fjölskyldu og vini eru oft skrautleg og erfið. Þættirnir hafa unnið til BAFTA-verðlauna. Aðalhlutverk: Lesley Manville, Peter Mullan og Lisa McGrillis.(n)</desc>
-  </programme>
-  <programme start="20220705220000 +0000" stop="20220705221500 +0000" channel="RUV.is">
+  <programme start="20220706220000 +0000" stop="20220706221500 +0000" channel="RUV.is">
     <title lang="is">Tíufréttir</title>
   </programme>
-  <programme start="20220705221500 +0000" stop="20220705222000 +0000" channel="RUV.is">
+  <programme start="20220706221500 +0000" stop="20220706222000 +0000" channel="RUV.is">
     <title lang="is">Veður</title>
     <desc lang="is">Veðurfréttir.(n)</desc>
   </programme>
-  <programme start="20220705222000 +0000" stop="20220705231500 +0000" channel="RUV.is">
-    <title lang="is">Njósnir í Berlín</title>
-    <desc lang="is">Þriðja þáttaröð bandarísku spennuþáttanna um leyniþjónustumanninn Daniel Miller og störf CIA-leyniþjónustunnar í Berlín. Í helstu hlutverkum eru Richard Armitage, Leland Orser og Michelle Forbes. Atriði í þáttunum eru ekki við hæfi ungra barna.(n)</desc>
+  <programme start="20220706222000 +0000" stop="20220706232000 +0000" channel="RUV.is">
+    <title lang="is">Lífið í Írak</title>
+    <desc lang="is">Heimildarþáttaröð frá BBC sem fjallar um líf almennra borgara og hermanna í Írak undir stjórn hryðjuverkasamtakanna Íslamska ríkisins. Þættirnir eru ekki við hæfi barna yngri en 12 ára.(n)</desc>
   </programme>
-  <programme start="20220705231500 +0000" stop="20220706000500 +0000" channel="RUV.is">
-    <title lang="is">Flateyjargátan</title>
-    <desc lang="is">Leikin íslensk þáttaröð í fjórum hlutum. Árið 1971 ferðast Jóhanna á æskuslóðir sínar í Flatey til þess að ganga frá málum eftir andlát föður síns. Hún tekur upp þráðinn við rannsókn hans á Flateyjargátunni, gátu sem tengist Flateyjarbók og hefur verið óleyst í 600 ár. Við rannsóknir sínar flækist hún í morðmál og neyðist til þess að takast á við drauga fortíðar til þess að sanna sakleysi sitt. Leikstjórn: Björn B. Björnsson. Aðalhlutverk: Lára Jóhanna Jónsdóttir, Stefán Hallur Stefánsson, Hilmir Jensson og Þuríður Blær Jóhannsdóttir. Framleiðsla: Sagafilm og Reykjavík Films. Þættirnir eru ekki við hæfi barna yngri en 12 ára. e.(n)</desc>
+  <programme start="20220706232000 +0000" stop="20220707001000 +0000" channel="RUV.is">
+    <title lang="is">Ráðherrann</title>
+    <desc lang="is">Þegar forsætisráðherra fær geðhvörf verða samstarfsmenn hans að leggja bæði stöðugleika ríkisins og einkalíf sitt að veði til þess að halda því leyndu fyrir þjóðinni. Aðalhlutverk: Ólafur Darri Ólafsson og Aníta Briem. Leikstjórn: Nanna Kristín Magnúsdóttir og Arnór Pálmi Arnarson. e.(n)</desc>
   </programme>
-  <programme start="20220705001900 +0000" stop="20220705010100 +0000" channel="SjonvarpSimans.is">
+  <programme start="20220706003000 +0000" stop="20220706011200 +0000" channel="SjonvarpSimans.is">
     <title lang="is">FBI</title>
     <desc lang="is">Bandarískur spennuþáttur um liðsmenn bandarísku alríkislögreglunnar, FBI, í New York. Frábær þáttaröð frá Dick Wolf, framleiðanda Law &amp; Order og Chicago þáttaraðanna. VINSAMLEGAST ATHUGIÐ AÐ LOKAÞÁTTURINN Í ÞÁTTARÖÐ 4 HEFUR VERIÐ TEKINN ÚR SÝNINGU VEGNA SKOTÁRÁSARINNAR Í TEXAS ÞAR SEM HANN FJALLAÐI UM SVIPAÐAN ATBURÐ OG ÞÓTTI EKKI VIÐ HÆFI.(n)</desc>
   </programme>
-  <programme start="20220705010100 +0000" stop="20220705014300 +0000" channel="SjonvarpSimans.is">
+  <programme start="20220706011200 +0000" stop="20220706015300 +0000" channel="SjonvarpSimans.is">
     <title lang="is">The Rookie</title>
     <desc lang="is">Bandarísk þáttaröð með Nathan Fillion (Castle) í aðalhlutverki. Hann leikur John Nolan, sem ákveður að breyta til í lífi sínu þegar hann er orðinn 45 ára og gerast lögreglumaður. Hann er elsti nýliðinn í lögreglunni í Los Angeles.(n)</desc>
   </programme>
-  <programme start="20220705014300 +0000" stop="20220705022400 +0000" channel="SjonvarpSimans.is">
-    <title lang="is">Bull</title>
-    <desc lang="is">Dr. Jason Bull rekur ráðgjafafyrirtæki sem sérhæfir sig í að ráða til sín sérfræðinga í hinum ýmsu málaflokkum til að hjálpa skjólstæðingum sínum sem verið er að sækja til saka. Þættirnir eru að hluta til innblásnir af ferli hins magnaða Dr. Phil McGraw.(n)</desc>
+  <programme start="20220706015300 +0000" stop="20220706023400 +0000" channel="SjonvarpSimans.is">
+    <title lang="is">Chicago Med</title>
+    <desc lang="is">Dramatísk þáttaröð úr smiðju Dick Wolf sem m.a. gerði Law &amp; Order seríurnar. Þetta er þriðja Chicago-serían en Chicago Fire og Chicago PD hafa notið mikilla vinsælda á RÚV. Sögusviðið í Chicago Med er sjúkrahús í Chicago þar sem læknar og hjúkrunarfólk leggur allt í sölurnar til að bjarga mannslífum.(n)</desc>
   </programme>
-  <programme start="20220705022400 +0000" stop="20220705030400 +0000" channel="SjonvarpSimans.is">
-    <title lang="is">FBI: Most Wanted</title>
-    <desc lang="is">Bandarísk þáttaröð um liðsmenn bandarísku alríkislögreglunnar, FBI, sem eltast við hættulegustu glæpamenn Bandaríkjanna.(n)</desc>
+  <programme start="20220706023400 +0000" stop="20220706033200 +0000" channel="SjonvarpSimans.is">
+    <title lang="is">Rules of the Game</title>
+    <desc lang="is">Bresk spennuþáttaröð. Þegar Maya tekur við sem mannauðsstjóri hjá Fly reynir hún að innleiða nýja vinnustaðamenningu þar sem menningin þar er orðin mjög úrelt og karlæg.  Hins vegar þegar vinnustaðamenningin byggir á lygum og leyndarmálum getur reynst lífshættulegt að reyna að breyta því.(n)</desc>
   </programme>
-  <programme start="20220705030400 +0000" stop="20220705035400 +0000" channel="SjonvarpSimans.is">
+  <programme start="20220706033200 +0000" stop="20220706042600 +0000" channel="SjonvarpSimans.is">
     <title lang="is">Love Island</title>
     <desc lang="is">Bráðskemmtileg raunveruleikasería þar sem eldheitir einstaklingar fá tækifæri til að finna ástina í fjörugum leik.(n)</desc>
   </programme>
-  <programme start="20220705035400 +0000" stop="20220705060000 +0000" channel="SjonvarpSimans.is">
+  <programme start="20220706042600 +0000" stop="20220706060000 +0000" channel="SjonvarpSimans.is">
     <title lang="is">Tónlist</title>
   </programme>
-  <programme start="20220705060000 +0000" stop="20220705123000 +0000" channel="SjonvarpSimans.is">
+  <programme start="20220706060000 +0000" stop="20220706123000 +0000" channel="SjonvarpSimans.is">
     <title lang="is">Tónlist</title>
   </programme>
-  <programme start="20220705123000 +0000" stop="20220705131400 +0000" channel="SjonvarpSimans.is">
+  <programme start="20220706123000 +0000" stop="20220706131300 +0000" channel="SjonvarpSimans.is">
     <title lang="is">Dr. Phil</title>
     <desc lang="is">Bandarískur spjallþáttur með sjónvarpssálfræðingnum Phil McGraw sem hjálpar fólki að leysa vandamál sín í sjónvarpssal.(n)</desc>
   </programme>
-  <programme start="20220705131400 +0000" stop="20220705135400 +0000" channel="SjonvarpSimans.is">
+  <programme start="20220706131300 +0000" stop="20220706135300 +0000" channel="SjonvarpSimans.is">
     <title lang="is">The Late Late Show with James Corden</title>
     <desc lang="is">Frábærir spjallþættir með James Corden. Léttir, skemmtilegir og stútfullir af óvæntum uppákomum með fræga fólkinu.(n)</desc>
   </programme>
-  <programme start="20220705135400 +0000" stop="20220705143900 +0000" channel="SjonvarpSimans.is">
+  <programme start="20220706135300 +0000" stop="20220706145500 +0000" channel="SjonvarpSimans.is">
     <title lang="is">The Block</title>
     <desc lang="is">Vinsælasta sjónvarpssería Ástralíu er komin aftur til Íslands. The Block er frábær þáttaröð þar sem ólík pör keppast við að endurbyggja ónýtar íbúðir og búa til glæsileg híbýli. Stjórnandi þáttarins er Scott Cam.(n)</desc>
   </programme>
-  <programme start="20220705143900 +0000" stop="20220705150100 +0000" channel="SjonvarpSimans.is">
-    <title lang="is">The Neighborhood</title>
-    <desc lang="is">Bandarísk gamanþáttaröð með Cedric the Entertainer í aðalhlutverki. Hann leikur fjölskylduföður í rótgrónu hverfi blökkumanna í Los Angeles sem bregður í brún þegar hann kynnist nýju nágrönnunum.(n)</desc>
+  <programme start="20220706145500 +0000" stop="20220706151600 +0000" channel="SjonvarpSimans.is">
+    <title lang="is">How We Roll</title>
+    <desc lang="is">Gamanþáttaröð um fjölskylduföður sem er sagt upp í starfi og ákveður að láta ævilangan draum sinn rætast og gerast atvinnumaður í keilu.(n)</desc>
   </programme>
-  <programme start="20220705150100 +0000" stop="20220705165000 +0000" channel="SjonvarpSimans.is">
-    <title lang="is">George Clarke's Old House, New Home</title>
-    <desc lang="is">Arkitektinn George Clarke er mættur aftur og hjálpar fólki að breyta gömlum húsum í glæsileg heimili.(n)</desc>
+  <programme start="20220706151600 +0000" stop="20220706164500 +0000" channel="SjonvarpSimans.is">
+    <title lang="is">Ræktum garðinn</title>
+    <desc lang="is">Ræktum garðinn er þáttaröð um flest allt það sem tengist görðum og gróðri á Íslandi. Umsjónarmaður þáttarins er Hugrún Halldórsdóttir sem er mikil áhugamanneskja um garðyrkju og í þessari þáttaröð ferðast hún um undraveröld blóma og garða og fær til liðs við sig tvo meistara í greininni, þá Hafstein Hafliðason og Vilmund Hansen.(n)</desc>
   </programme>
-  <programme start="20220705165000 +0000" stop="20220705171100 +0000" channel="SjonvarpSimans.is">
+  <programme start="20220706164500 +0000" stop="20220706170700 +0000" channel="SjonvarpSimans.is">
     <title lang="is">Spin City</title>
     <desc lang="is">Bandarískir gamanþættir sem fjallar um starfsfólkið í Ráðhúsinu í New York sem þurfa ítrekað að passa upp á að borgarstjórinn verði sér ekki til skammar.(n)</desc>
   </programme>
-  <programme start="20220705171100 +0000" stop="20220705173400 +0000" channel="SjonvarpSimans.is">
+  <programme start="20220706170700 +0000" stop="20220706172900 +0000" channel="SjonvarpSimans.is">
     <title lang="is">The King of Queens</title>
     <desc lang="is">Bandarísk gamanþáttaröð um skötuhjúin Doug og Carrie Heffernan.(n)</desc>
   </programme>
-  <programme start="20220705173400 +0000" stop="20220705175800 +0000" channel="SjonvarpSimans.is">
+  <programme start="20220706172900 +0000" stop="20220706175200 +0000" channel="SjonvarpSimans.is">
     <title lang="is">Everybody Loves Raymond</title>
     <desc lang="is">Gamanþáttaröð um Ray Barone og furðulega fjölskyldu hans.(n)</desc>
   </programme>
-  <programme start="20220705175800 +0000" stop="20220705183900 +0000" channel="SjonvarpSimans.is">
+  <programme start="20220706175200 +0000" stop="20220706183400 +0000" channel="SjonvarpSimans.is">
     <title lang="is">Dr. Phil</title>
     <desc lang="is">Bandarískur spjallþáttur með sjónvarpssálfræðingnum Phil McGraw sem hjálpar fólki að leysa vandamál sín í sjónvarpssal.(n)</desc>
   </programme>
-  <programme start="20220705183900 +0000" stop="20220705192100 +0000" channel="SjonvarpSimans.is">
+  <programme start="20220706183400 +0000" stop="20220706191600 +0000" channel="SjonvarpSimans.is">
     <title lang="is">The Late Late Show with James Corden</title>
     <desc lang="is">Frábærir spjallþættir með James Corden. Léttir, skemmtilegir og stútfullir af óvæntum uppákomum með fræga fólkinu.(n)</desc>
   </programme>
-  <programme start="20220705192100 +0000" stop="20220705194900 +0000" channel="SjonvarpSimans.is">
-    <title lang="is">mixed-ish</title>
-    <desc lang="is">Gamanþáttur um hvernig það var að alast upp í fjölskyldu af blönduðum kynstofni á níunda áratug síðustu aldar.(n)</desc>
+  <programme start="20220706191600 +0000" stop="20220706194300 +0000" channel="SjonvarpSimans.is">
+    <title lang="is">Kenan</title>
+    <desc lang="is">Gamanþáttaröð með Kenan Thompson (Saturday Night Live) í aðalhlutverki. Hann leikur einstæðan faðir sem er að reyna að finna jafnvægi á milli vinnu og einkalífs eftir fráfall eiginkonunnar. Rick Tengdafaðir hans og Gary bróðir hans eru alltaf tilbúnir að rétta fram hjálparhönd, sem þó gerir hlutina í flestum tilfellum erfiðari fyrir Kenan.(n)</desc>
   </programme>
-  <programme start="20220705194900 +0000" stop="20220705201200 +0000" channel="SjonvarpSimans.is">
-    <title lang="is">Ghosts</title>
-    <desc lang="is">Bandarísk gamanþáttasería um ungt par sem erfir fallegt sveitasetur. Þau komast hins vegar fljótlega að því að þau eru ekki einu íbúarnir.(n)</desc>
+  <programme start="20220706194300 +0000" stop="20220706201200 +0000" channel="SjonvarpSimans.is">
+    <title lang="is">The Neighborhood</title>
+    <desc lang="is">Bandarísk gamanþáttaröð með Cedric the Entertainer í aðalhlutverki. Hann leikur fjölskylduföður í rótgrónu hverfi blökkumanna í Los Angeles sem bregður í brún þegar hann kynnist nýju nágrönnunum.(n)</desc>
   </programme>
-  <programme start="20220705201200 +0000" stop="20220705210900 +0000" channel="SjonvarpSimans.is">
-    <title lang="is">Amazing Hotels: Life Beyond the Lobby</title>
-    <desc lang="is">Skemmtileg þáttaröð frá BBC þar sem lúxushótel um víða veröld eru heimsótt og fylgst með hvað eigendur og starfslið hótelanna eru tilbúin til að leggja á sig til að gera dvölina á hótelinu ógleymanlega. Þáttastjórnendur eru Monica Galetti og Giles Coren.(n)</desc>
+  <programme start="20220706201200 +0000" stop="20220706210500 +0000" channel="SjonvarpSimans.is">
+    <title lang="is">George Clarke's Old House, New Home</title>
+    <desc lang="is">Arkitektinn George Clarke er mættur aftur og hjálpar fólki að breyta gömlum húsum í glæsileg heimili.(n)</desc>
   </programme>
-  <programme start="20220705210900 +0000" stop="20220705215700 +0000" channel="SjonvarpSimans.is">
-    <title lang="is">Bull</title>
-    <desc lang="is">Dr. Jason Bull rekur ráðgjafafyrirtæki sem sérhæfir sig í að ráða til sín sérfræðinga í hinum ýmsu málaflokkum til að hjálpa skjólstæðingum sínum sem verið er að sækja til saka. Þættirnir eru að hluta til innblásnir af ferli hins magnaða Dr. Phil McGraw.(n)</desc>
+  <programme start="20220706210500 +0000" stop="20220706215200 +0000" channel="SjonvarpSimans.is">
+    <title lang="is">Chicago Med</title>
+    <desc lang="is">Dramatísk þáttaröð úr smiðju Dick Wolf sem m.a. gerði Law &amp; Order seríurnar. Þetta er þriðja Chicago-serían en Chicago Fire og Chicago PD hafa notið mikilla vinsælda á RÚV. Sögusviðið í Chicago Med er sjúkrahús í Chicago þar sem læknar og hjúkrunarfólk leggur allt í sölurnar til að bjarga mannslífum.(n)</desc>
   </programme>
-  <programme start="20220705215700 +0000" stop="20220705224700 +0000" channel="SjonvarpSimans.is">
-    <title lang="is">Evil</title>
-    <desc lang="is">Spennandi þáttaröð um sálfræðing og prest sem taka höndum saman og rannsaka óleyst mál sem Kirkjan hefur talið tengjast kraftaverkum, illum öndum eða öðrum óútskýrðum atvikum.(n)</desc>
+  <programme start="20220706215200 +0000" stop="20220706225400 +0000" channel="SjonvarpSimans.is">
+    <title lang="is">Rules of the Game</title>
+    <desc lang="is">Bresk spennuþáttaröð. Þegar Maya tekur við sem mannauðsstjóri hjá Fly reynir hún að innleiða nýja vinnustaðamenningu þar sem menningin þar er orðin mjög úrelt og karlæg.  Hins vegar þegar vinnustaðamenningin byggir á lygum og leyndarmálum getur reynst lífshættulegt að reyna að breyta því.(n)</desc>
   </programme>
-  <programme start="20220705224700 +0000" stop="20220705234800 +0000" channel="SjonvarpSimans.is">
+  <programme start="20220706225400 +0000" stop="20220706234600 +0000" channel="SjonvarpSimans.is">
     <title lang="is">Love Island</title>
     <desc lang="is">Bráðskemmtileg raunveruleikasería þar sem eldheitir einstaklingar fá tækifæri til að finna ástina í fjörugum leik.(n)</desc>
   </programme>
-  <programme start="20220705080000 +0000" stop="20220705082000 +0000" channel="Stod2.is">
+  <programme start="20220706075500 +0000" stop="20220706081500 +0000" channel="Stod2.is">
     <title lang="is">Heimsókn</title>
     <desc lang="is">Sindri Sindrason heimsækir sannkallaða fagurkera sem opna heimili sín  fyrir áhorfendum.(n)</desc>
   </programme>
-  <programme start="20220705082000 +0000" stop="20220705090000 +0000" channel="Stod2.is">
+  <programme start="20220706081500 +0000" stop="20220706090000 +0000" channel="Stod2.is">
     <title lang="is">The Mentalist</title>
     <desc lang="is">Önnur þáttaröð þessara frumlegu þátta um Patrick Jane, sjálfstætt  starfandi ráðgjafa rannsóknarlögreglunnar í Kaliforníu. Hann á að baki glæsilegan feril við að leysa flókin glæpamál með því að nota hárbeitta athyglisgáfu sína. En þrátt fyrir það nýtur hann lítillar hylli innan lögreglunnar.(n)</desc>
   </programme>
-  <programme start="20220705090000 +0000" stop="20220705092000 +0000" channel="Stod2.is">
+  <programme start="20220706090000 +0000" stop="20220706092000 +0000" channel="Stod2.is">
     <title lang="is">Bold and the Beautiful</title>
     <desc lang="is">Forrester-fjölskyldan er leiðandi í tískuheiminum en með miklum vinsældum fylgir líka mikil ábyrgð og pressa á að standa sig. Endalaus valdabarátta og erjur utan sem innan fyrirtækisins setja  stundum mark sitt starfsemina og ekki hjálpa flóknu fjölskyldutengslin til sér í lagi þegar Spencer klanið fléttast inn í daglegt líf þeirra.(n)</desc>
   </programme>
-  <programme start="20220705092000 +0000" stop="20220705100500 +0000" channel="Stod2.is">
-    <title lang="is">Claws</title>
-    <desc lang="is">Fjórða þáttaröð þessara sjóðheitu og stórskemmtilegu þátta um  fimm harðduglegar konur sem sem vinna við handsnyrtingar við  ströndina í Flórída. Við fyrstu sýn lítur starfsemi þeirra út fyrir að vera löggild en eigandinn er með nokkuð arðbæra en  ólöglega aukabúgrein.(n)</desc>
-  </programme>
-  <programme start="20220705100500 +0000" stop="20220705102500 +0000" channel="Stod2.is">
-    <title lang="is">Call Me Kat</title>
-    <desc lang="is">Hin óviðjafnanlega Mayim Bialik fer með aðalhlutverkið í þessum kostulegu gamanþáttum. 39 ára gömul kona ákveður að nota peningana sem foreldrar hennar höfðu lagt fyrir í brúðkaupið hennar til að opna kattakaffihús.(n)</desc>
-  </programme>
-  <programme start="20220705102500 +0000" stop="20220705111000 +0000" channel="Stod2.is">
-    <title lang="is">Shark Tank</title>
-    <desc lang="is">Stórgóðir og spennandi raunveruleikaþættir þar sem hugmyndaríkir frumkvöðlar keppa um hylli auðjöfra með alls kyns uppfinningum og hugmyndum. Auðjöfrarnir eru vægðarlausir í umsögnum sínum og reka umsækjendur hiklaust á dyr en þyki hugmyndirnar arðvænar og áhugaverðar aðstoða fjárfestarnir frumkvöðlana við að gera hugarfóstur þeirra að veruleika, gegn skilmálum að sjálfsögðu.(n)</desc>
-  </programme>
-  <programme start="20220705111000 +0000" stop="20220705113000 +0000" channel="Stod2.is">
-    <title lang="is">Home Economics</title>
-    <desc lang="is">Spaugilegir gamanþættir um hjartfólgið, mjög óþægilegt og stundum þreytandi samband þriggja fullorðinna systkina. Þótt þau séu náin þá getur það valdið togstreytu að systkinin eru alveg á sitthvorum staðnum fjárhagslega. Systirin hefur ekki mikið á milli handanna og býr í lítilli íbúð; yngri bróðirinn veit ekki aura sinna tal og keypti húsið sitt af Matt Damon; svo er það elsti bróðir sem er þarna einhvers staðar á milli.(n)</desc>
-  </programme>
-  <programme start="20220705113000 +0000" stop="20220705121000 +0000" channel="Stod2.is">
-    <title lang="is">Sporðaköst 7</title>
-    <desc lang="is">Stórgóðir þættir þar sem boðið er upp á sannkallað veiðiferðalag í hverjum þætti þar sem góður félagsskapur og íslensk náttúra er í fyrirrúmi. Að þessu sinni eru allir gestir þáttarins frá Bretlandi. Þeir eiga það sameiginlegt að vera þekktir einstaklingar í veiðiheiminum. 
-Þeirra upplifun á Íslandi var mjög sterk og áhugaverð. Að þessu sinni er farið um víðan völl um land allt og tekið upp á alls tólf veiðisvæðum. Margar af þekktustu laxveiðiám landsins, eins og Grímsá, Laxá í Aðaldal, Kjarrá, Laxá á Ásum og fleiri koma við sögu. Gestir þáttanna eru frá 11 ára upp í 94 ára. Þar má nefna fræga breska leikara, myndlistamenn og baráttufólk fyrir framtíð villtra laxastofna. Við kynnumst þessu fólki og fáum innsýn í líf þess, sigra og harm. Eggert Skúlason og Steingrímur Jón Þórðarson sjá um dagskrárgerð.(n)</desc>
-  </programme>
-  <programme start="20220705121000 +0000" stop="20220705123500 +0000" channel="Stod2.is">
-    <title lang="is">30 Rock</title>
-    <desc lang="is">Snilldarlegir gamanþættir sem fjalla um Liz Lemon, yfirhöfund skemmtiþáttar sem sýndur er í beinni útsendingu í New York. Líf Liz umturnast þegar hvatvís, nýr yfirmaður, Jack Donaghy, fer að skipta sér af þættinum hennar og treður hinum óútreiknanlega Tracy Jordan inn í leikarahópinn. Þá er undir Liz komið að hafa stjórn á glundroðanum ásamt því að eiga sér einkalíf.(n)</desc>
-  </programme>
-  <programme start="20220705123500 +0000" stop="20220705130000 +0000" channel="Stod2.is">
-    <title lang="is">Nágrannar</title>
-    <desc lang="is">Fylgjumst nú með lífinu í Ramsey-götu en þar þurfa íbúar að takast á við ýmis stór mál eins og ástina, nágranna- og fjölskylduerjur, unglingaveikina, gráa fiðringinn og mörg mörg fleiri.(n)</desc>
-  </programme>
-  <programme start="20220705130000 +0000" stop="20220705135500 +0000" channel="Stod2.is">
+  <programme start="20220706092000 +0000" stop="20220706102500 +0000" channel="Stod2.is">
     <title lang="is">The Great British Bake Off</title>
     <desc lang="is">Stórskemmtilegir matreiðsluþættir og einir vinsælustu þættir Bretlands. 12 áhugabakarar keppast með færni sinni og útsjónarsemi um að heilla ofur smámunasama dómara. Að lokum stendur einn uppi sem sigurvegari og titilinn áhugabakari ársins.(n)</desc>
   </programme>
-  <programme start="20220705135500 +0000" stop="20220705150000 +0000" channel="Stod2.is">
-    <title lang="is">The Masked Singer</title>
-    <desc lang="is">Sprenghlægileg og öðruvísi söngvakeppni þar sem grímuklæddir, frægir einstaklingar keppa sín á milli. Tólf keppendur klæða sig upp í kostulega búninga til að fela hverjir þeir eru. Einn dettur út í viku hverri og þarf þá að lyfta hulunni af því hver hann er. Joel Dommett er kynnir þáttanna og sér um að skemmta áhorfendum ásamt frábærum dómurum.(n)</desc>
+  <programme start="20220706102500 +0000" stop="20220706111000 +0000" channel="Stod2.is">
+    <title lang="is">Manifest</title>
+    <desc lang="is">Þriðja þáttaröð þessara dularfullu spennuþátta. Farþegarnir halda áfram að reyna að komast að því hvað kom fyrir þau í flugi 828. Hvert fór flugvélin í þessi 5 ár? Afhverju heyra þau og sjá hluti sem erfitt er að útskýra? Og afhverju er þessi tenging á milli þeirra?(n)</desc>
   </programme>
-  <programme start="20220705150000 +0000" stop="20220705161500 +0000" channel="Stod2.is">
-    <title lang="is">The Greatest Dancer</title>
-    <desc lang="is">Dans- og skemmtiþáttur þar sem gleði, glamúr og taumlaus hamingja ráða ríkjum. Í hverjum þætti sjáum við stórkostleg dansatriði af öllum gerðum frá ólíkum dönsurum á öllum aldri. Það er til mikils að vinna, dansararnir keppast um hylli áhorfenda sem hafa örlög þeirra í hendi sér en í lok þáttaraðar er besti dansarinn krýndur.  Kynnar eru stórstjörnurnar Alesha Dixon og Jordan Banjo og dansleiðbeinendur eru meðal annars söngkonan Cheryl og Matthew Morrison sem áhorfendum þekkja úr þáttunum Glee.(n)</desc>
+  <programme start="20220706111000 +0000" stop="20220706115500 +0000" channel="Stod2.is">
+    <title lang="is">Shipwrecked</title>
+    <desc lang="is">Geggjaðir raunveruleikaþættir í anda Survivor og Love Island þar sem við fylgjumst með tveimur liðum ungra strandaglópa á paradísareyju í Suður-Kyrrahafinu. Aðbúnaður hópanna er hinn glæsilegasti og lífið er eitt stórt partí. Í stað þess að fækka í liðunum eftir því sem á líður þáttaröðina er tilgangurinn að safna liði. Liðin keppa um hylli nýrra einstaklinga sem mæta á svæðið og í lokin vinnur fjölmennara liðið veglega peningasummu.(n)</desc>
   </programme>
-  <programme start="20220705161500 +0000" stop="20220705165500 +0000" channel="Stod2.is">
-    <title lang="is">Grey's Anatomy</title>
-    <desc lang="is">Átjánda þáttaröð þessara vinsælu dramaþátta um lífið á Grey Sloan Memorial spítalanum í Seattle-borg. Skurðlækninn Meredith Grey og samstarfsfélagar hennar þurfa daglega að taka ákvarðanir uppá líf og dauða. Einkalíf læknanna á það svo til að gera starfið enn flóknara.(n)</desc>
+  <programme start="20220706115500 +0000" stop="20220706123500 +0000" channel="Stod2.is">
+    <title lang="is">Um land allt</title>
+    <desc lang="is">Kristján Már Unnarsson heimsækir Álftanes. Þar er enn sveit í borg þó  íbúafjöldinn hafi tuttugufaldast á einum mannsaldri. Fornminjar víða um nes vitna um mikla sögu og Álftnesingar róa enn til fiskjar.  Bessastaðir eru stærsta bújörðin og þar býr forsetinn.(n)</desc>
   </programme>
-  <programme start="20220705165500 +0000" stop="20220705172500 +0000" channel="Stod2.is">
-    <title lang="is">The Good Doctor</title>
-    <desc lang="is">Fimmta þáttaröð þessara vönduðu og dramatísku þátta með Freddie Highmore í aðalhlutverki og fjallar um ungan skurðlækni sem er bæði einhverfur og með Savant heilkenni.(n)</desc>
-  </programme>
-  <programme start="20220705172500 +0000" stop="20220705180000 +0000" channel="Stod2.is">
-    <title lang="is">Bold and the Beautiful</title>
-    <desc lang="is">Forrester-fjölskyldan er leiðandi í tískuheiminum en með miklum vinsældum fylgir líka mikil ábyrgð og pressa á að standa sig. Endalaus valdabarátta og erjur utan sem innan fyrirtækisins setja  stundum mark sitt starfsemina og ekki hjálpa flóknu fjölskyldutengslin til sér í lagi þegar Spencer klanið fléttast inn í daglegt líf þeirra.(n)</desc>
-  </programme>
-  <programme start="20220705180000 +0000" stop="20220705182700 +0000" channel="Stod2.is">
+  <programme start="20220706123500 +0000" stop="20220706125500 +0000" channel="Stod2.is">
     <title lang="is">Nágrannar</title>
     <desc lang="is">Fylgjumst nú með lífinu í Ramsey-götu en þar þurfa íbúar að takast á við ýmis stór mál eins og ástina, nágranna- og fjölskylduerjur, unglingaveikina, gráa fiðringinn og mörg mörg fleiri.(n)</desc>
   </programme>
-  <programme start="20220705182700 +0000" stop="20220705183000 +0000" channel="Stod2.is">
+  <programme start="20220706125500 +0000" stop="20220706131500 +0000" channel="Stod2.is">
+    <title lang="is">30 Rock</title>
+    <desc lang="is">Snilldarlegir gamanþættir sem fjalla um Liz Lemon, yfirhöfund skemmtiþáttar sem sýndur er í beinni útsendingu í New York. Líf Liz umturnast þegar hvatvís, nýr yfirmaður, Jack Donaghy, fer að skipta sér af þættinum hennar og treður hinum óútreiknanlega Tracy Jordan inn í leikarahópinn. Þá er undir Liz komið að hafa stjórn á glundroðanum ásamt því að eiga sér einkalíf.(n)</desc>
+  </programme>
+  <programme start="20220706131500 +0000" stop="20220706134500 +0000" channel="Stod2.is">
+    <title lang="is">Ísskápastríð</title>
+    <desc lang="is">Þriðja þáttaröðin af Ísskápastríði en í þáttunum fá Eva Laufey og Gummi Ben til sín þjóðþekkta einstaklinga sem keppa í matargerð. Um er að ræða létta og skemmtilega þætti, sem snúast ekki bara um eldamennsku heldur einnig  skemmtilegar umræður, grín og glens. Keppendur velja sér ísskáp sem ýmist innihalda hráefni fyrir forrétt, aðalrétt og eftirrétt sem þau eiga matreiða á fyrirfram ákveðnum tíma. Dómarar þáttanna eru Siggi Hall og Hrefna Sætran.(n)</desc>
+  </programme>
+  <programme start="20220706134500 +0000" stop="20220706142000 +0000" channel="Stod2.is">
+    <title lang="is">Gulli byggir</title>
+    <desc lang="is">Fimmta þáttaröð þessara frábæru þátta í umsjón Gulla Helga sem leiðbeinir fólki, ráðleggur og fylgir eftir við hinar ýmsu heimilisframkvæmdir . Ekkert verkefni er of stórt og hér eru litið til lausna á frumlegan og skapandi hátt. Verkefnin eru af ýmsum toga og allt eru þetta krefjandi áskoranir og tekur oftar en ekki lengri tíma en fólk áætlar en verðlaunin eru gefandi í lokin.(n)</desc>
+  </programme>
+  <programme start="20220706142000 +0000" stop="20220706145000 +0000" channel="Stod2.is">
+    <title lang="is">Matargleði Evu</title>
+    <desc lang="is">Fróðleg og freistandi þáttaröð þar sem Eva Laufey Hermannsdóttir leggur ríka  áherslu að elda góðan og fjölbreyttan mat frá grunni og kennir á horfendum að töfra þá  fram á skemmtilegan hátt.(n)</desc>
+  </programme>
+  <programme start="20220706145000 +0000" stop="20220706151500 +0000" channel="Stod2.is">
+    <title lang="is">Flúr &amp; fólk</title>
+    <desc lang="is">Íslensk þáttaröð fylgst með 12 einstaklingum sem allir uppfylla eitt af þremur skilyrðum; að vera með gamalt húðflúr sem þeir vilja láta flúra  yfir, að vera með ör sem þeir vilja láta þekja með flúri eða að vera  tilbúnir að setjast í tattústólinn sem "auður strigi", þ.e. að leyfa listamönnunum að ráða. Við kynnumst meðal annars fyrrverandi björgunarsveitarmanni sem fær flúr yfir ör eftir slæmt slys, manni sem fékk sér flúr í heimahúsi í  Búðardal sem hann var aldrei ánægður með og sveitastelpu sem elskar litrík flúr  og er tilbúin til að fá nánast hvaða flúr sem er.(n)</desc>
+  </programme>
+  <programme start="20220706151500 +0000" stop="20220706154500 +0000" channel="Stod2.is">
+    <title lang="is">Á uppleið</title>
+    <desc lang="is">Vandaður íslenskur sjónvarpsþáttur í umsjón Sindra Sindrasonar. Að borga hálfa milljón í leigu og þrjú hundruð þúsund krónur í leikskóla á mánuði er ekki óalgengt í stórborginni London en það gerir  fjármálaverkfræðingurinn þrítugi Elísabet Björnsdóttir sem vinnur  hjá JP Morgan í London. Elísabet er nýorðin móðir, en þar í borg er  óalgengt að kona í þessari stöðu, eigi barn.(n)</desc>
+  </programme>
+  <programme start="20220706154500 +0000" stop="20220706160500 +0000" channel="Stod2.is">
+    <title lang="is">Fósturbörn</title>
+    <desc lang="is">Sindri Sindrason heldur áfram að kynna sér fósturkerfið á Íslandi.  Við heyrum sögur foreldra sem hafa misst börn sín frá sér og eru  allt annað en sáttir við starfsfólk barnaverndarnefnda og fólkinu sem tekur við börnunum og hræðist ekkert meira en að þau fari til baka. Við kynnumst líka fólki sem vill ekkert með kynforeldra sína hafa,  syrgir jafnvel ekki dauða þeirra og heyrum lýsingu fólks á því hvaða áhrif það hafði á þau að vera tekin af foreldrum sínum á unga aldri.(n)</desc>
+  </programme>
+  <programme start="20220706160500 +0000" stop="20220706165000 +0000" channel="Stod2.is">
+    <title lang="is">Lóa Pind: Örir íslendingar</title>
+    <desc lang="is">Vandaður þáttur þar sem Lóa Pind kynnist dansara, rafvirkja, sjónvarpskonu og háskólanema, sem öll eru nýgreind með ADHD. Hvernig nýtast einkennin þeim og hvernig takast þau á við gallana sem þeim fylgja? Rýnt verður í áhrif ofvirknilyfja og fylgst með konu í 10 mánuði frá því hún tekur sína fyrstu töflu af Concerta.(n)</desc>
+  </programme>
+  <programme start="20220706165000 +0000" stop="20220706172500 +0000" channel="Stod2.is">
+    <title lang="is">Flirty Dancing</title>
+    <desc lang="is">Stórskemmtilegir og öðruvísi breskir stefnumótaþættir þar sem einhleypu fólki í ástarleit er parað saman í dansi. Þáttastjórnandinn Ashley Banjo telur að rómantíkin í dansinum hleypi fólki nær hvort öðru og það kynnist á einlægari hátt en annars.(n)</desc>
+  </programme>
+  <programme start="20220706172500 +0000" stop="20220706180000 +0000" channel="Stod2.is">
+    <title lang="is">Bold and the Beautiful</title>
+    <desc lang="is">Forrester-fjölskyldan er leiðandi í tískuheiminum en með miklum vinsældum fylgir líka mikil ábyrgð og pressa á að standa sig. Endalaus valdabarátta og erjur utan sem innan fyrirtækisins setja  stundum mark sitt starfsemina og ekki hjálpa flóknu fjölskyldutengslin til sér í lagi þegar Spencer klanið fléttast inn í daglegt líf þeirra.(n)</desc>
+  </programme>
+  <programme start="20220706180000 +0000" stop="20220706182700 +0000" channel="Stod2.is">
+    <title lang="is">Nágrannar</title>
+    <desc lang="is">Fylgjumst nú með lífinu í Ramsey-götu en þar þurfa íbúar að takast á við ýmis stór mál eins og ástina, nágranna- og fjölskylduerjur, unglingaveikina, gráa fiðringinn og mörg mörg fleiri.(n)</desc>
+  </programme>
+  <programme start="20220706182700 +0000" stop="20220706183000 +0000" channel="Stod2.is">
     <title lang="is">Veður</title>
   </programme>
-  <programme start="20220705183000 +0000" stop="20220705184500 +0000" channel="Stod2.is">
+  <programme start="20220706183000 +0000" stop="20220706184500 +0000" channel="Stod2.is">
     <title lang="is">Fréttir Stöðvar 2</title>
     <desc lang="is">Fréttastofa Stöðvar 2, Vísis og Bylgjunnar flytur fréttir í beinni útsendingu á hverjum degi.(n)</desc>
   </programme>
-  <programme start="20220705184500 +0000" stop="20220705185500 +0000" channel="Stod2.is">
+  <programme start="20220706184500 +0000" stop="20220706185500 +0000" channel="Stod2.is">
     <title lang="is">Sportpakkinn</title>
     <desc lang="is">Íþróttafréttamenn fara yfir það helsta úr heimi íþróttanna.(n)</desc>
   </programme>
-  <programme start="20220705185500 +0000" stop="20220705193500 +0000" channel="Stod2.is">
-    <title lang="is">Hell's Kitchen</title>
-    <desc lang="is">Íslandsvinurinn og sjóvarpskokkurinn Gordon Ramsay tekur á móti nýjum hópi vongóðra kokka sem keppa um titilinn Meistarakokkur. Allir átján keppendurnir eru 24 ára og yngri í þetta sinn.(n)</desc>
-  </programme>
-  <programme start="20220705193500 +0000" stop="20220705200000 +0000" channel="Stod2.is">
-    <title lang="is">Jamie's Easy Meals for Every Day</title>
-    <desc lang="is">Jamie og fjölskylda bjóða áhorfendum heim á sveitasetrið sitt í Essex, þar sem áhersla er lögð á einfaldan, hollan og ljúffengan heimilismat.(n)</desc>
-  </programme>
-  <programme start="20220705200000 +0000" stop="20220705203000 +0000" channel="Stod2.is">
-    <title lang="is">Saved by the Bell</title>
-    <desc lang="is">Framhaldsþáttaröð þessara vinsælu gamanþátta frá tíunda áratugnum. 
-Zack Morris er orðin ríkisstjóri í Kaliforníu og hefur sett á laggirnar prógram þar sem unglingar frá tekjulágum fjölskyldum fá flutning í gamla skólann hans, Bayside High, sem er mikill snobbskóli og allt annað en krakkarnir hafa vanist.(n)</desc>
-  </programme>
-  <programme start="20220705203000 +0000" stop="20220705205500 +0000" channel="Stod2.is">
-    <title lang="is">Last Man Standing</title>
-    <desc lang="is">Skemmtilegir gamanþættir með grínaranum Tim Allen í hlutverki karlmans sem lifir og hrærist í miklu kvennaríki, bæði í vinnunni og heima fyrir. Mike Baxter (Allen) og kona hans ala í sameiningu upp þrjár dætur og þar gengur oft á ýmsu.(n)</desc>
-  </programme>
-  <programme start="20220705205500 +0000" stop="20220705211500 +0000" channel="Stod2.is">
-    <title lang="is">The Goldbergs</title>
-    <desc lang="is">Gamanþáttaröð sem gerist á níunda áratug síðustu aldar og fjallar um fjöruga fjölskyldu sem er ekki alveg eins og fólk er flest. Sögumaðurinn er yngsti fjölskyldu meðlimurinn sem tekur allt sem fram fer á heimilinu upp á myndbandsupptökuvél og rifjar upp sögur af yfirþyrmandi móður, skapstyggum föður, uppreisnargjarnri eldri systur, stressuðum eldri bróður og svölum afa.(n)</desc>
-  </programme>
-  <programme start="20220705211500 +0000" stop="20220705220000 +0000" channel="Stod2.is">
-    <title lang="is">Magnum P.I.</title>
-    <desc lang="is">Fjórða þáttaröð þessa skemmtilegu framhaldsþátta sem byggðir eru á samnefndum leynilögguþáttunum sem slógu rækilega í gegn á níunda áratugnum. Thomas Magnum er fyrrum sérsveitarmaður í bandaríska sjóhernum en hefur sérhæft sig í öryggisgæslu og vinnur nú sem einkaspæjari á Hawaii. Þar lifir hann hinu ljúfa lífi ásamt góðum félögum sem aðstoða hann gjarnan í rannsókn hinna ýmsu mála. Oftar en ekki kemur hann sér þó í klandur og þarf að taka á honum stóra sínum til að komast úr erfiðum aðstæðum. Með aðalhlutverk fer hjartaknúsarinn Jay Hernandez.(n)</desc>
-  </programme>
-  <programme start="20220705220000 +0000" stop="20220705222000 +0000" channel="Stod2.is">
+  <programme start="20220706185500 +0000" stop="20220706191000 +0000" channel="Stod2.is">
     <title lang="is">Æði</title>
     <desc lang="is">Fjórða þáttaröð þessa skemmtilegu raunveruleikaþátta um samfélagsmiðlastjörnuna og áhrifavaldinn Patrek?Jaime. Við höldum áfram að fylgjast með Patta og vinum hans Bassa Maraj og Binna Glee, í daglegu amstri í hröðum og síbreytilegum heimi.(n)</desc>
   </programme>
-  <programme start="20220705222000 +0000" stop="20220705230000 +0000" channel="Stod2.is">
-    <title lang="is">Unforgettable</title>
-    <desc lang="is">Sakamálaþættir um fyrrverandi rannsóknarlögreglukonu sem er gædd þeim hæfileika að muna bókstaflega allt það sem hún hefur upplifað og getur séð það fyrir sér myndrænt. Hún snýr aftur til starfa með lögreglunni og nýtir hæfileika sína til að leysa glæpi.(n)</desc>
+  <programme start="20220706191000 +0000" stop="20220706195500 +0000" channel="Stod2.is">
+    <title lang="is">Backyard Envy</title>
+    <desc lang="is">Þrír vinir og samstarfsfélagar vinna saman sem ein heild og eru sannkallað "ofurtríó" þegar kemur að landslagsmótun og -hönnun. Þau taka að sér sértæk verkefni og aðstoða viðskiptavini sína við að umbreyta venjulegum eignum sínum í eitthvað stórfenglegt.(n)</desc>
   </programme>
-  <programme start="20220705230000 +0000" stop="20220705234500 +0000" channel="Stod2.is">
+  <programme start="20220706195500 +0000" stop="20220706204000 +0000" channel="Stod2.is">
+    <title lang="is">The Good Doctor</title>
+    <desc lang="is">Fimmta þáttaröð þessara vönduðu og dramatísku þátta með Freddie Highmore í aðalhlutverki og fjallar um ungan skurðlækni sem er bæði einhverfur og með Savant heilkenni.(n)</desc>
+  </programme>
+  <programme start="20220706204000 +0000" stop="20220706212000 +0000" channel="Stod2.is">
     <title lang="is">Coroner</title>
     <desc lang="is">Leyndardómsfullir sakamálaþættir sem byggðir eru á vinsælum bókaflokki. 
 Jenny Cooper er dánardómstjóri í Toronto, þar sem hún rannsakar dularfull andlát. Áhugi hennar á dauðanum er allt að því óheilbrigður en sjálf hefur hún sýna djöfla að draga.(n)</desc>
   </programme>
-  <programme start="20220705234500 +0000" stop="20220706004000 +0000" channel="Stod2.is">
-    <title lang="is">The Pact</title>
-    <desc lang="is">Glæpa- og spennuþættir frá 2021. Dauði sem á sér engar útskýringar og vinkonur sem eru bundnar brothættum þagnaðareið. Hvað gerðist þessa áhrifaríku nótt í skóginum?(n)</desc>
+  <programme start="20220706212000 +0000" stop="20220706220000 +0000" channel="Stod2.is">
+    <title lang="is">Unforgettable</title>
+    <desc lang="is">Sakamálaþættir um fyrrverandi rannsóknarlögreglukonu sem er gædd þeim hæfileika að muna bókstaflega allt það sem hún hefur upplifað og getur séð það fyrir sér myndrænt. Hún snýr aftur til starfa með lögreglunni og nýtir hæfileika sína til að leysa glæpi.(n)</desc>
   </programme>
-  <programme start="20220705080000 +0000" stop="20220705082000 +0000" channel="Stod2Fjolskylda.is">
+  <programme start="20220706220000 +0000" stop="20220706224500 +0000" channel="Stod2.is">
+    <title lang="is">The Sinner</title>
+    <desc lang="is">Fjórða þáttaröð þessara hörkuspennandi þátta með Bill Pullman í aðalhlutverki. Rannsóknarlögreglumaðurinn Harry Ambrose er sestur í helgan stein og er ennþá að jafna sig eftir síðasta mál þegar hann ákveður að ferðast til  Hanover-eyju með vinkonu sinni, Sonyu Barzel. Þegar óvæntur harmleikur á sér stað á eyjunni, er Ambrose fenginn til að rannsaka málið.(n)</desc>
+  </programme>
+  <programme start="20220706224500 +0000" stop="20220706231000 +0000" channel="Stod2.is">
+    <title lang="is">Girls5eva</title>
+    <desc lang="is">Einsmellungs stelpuband frá tíunda áratugnum fá nýtt tækifæri til að öðlast frægð, þegar ungur rappari endurgerir lagið þeirra.(n)</desc>
+  </programme>
+  <programme start="20220706231000 +0000" stop="20220706235000 +0000" channel="Stod2.is">
+    <title lang="is">NCIS: New Orleans</title>
+    <desc lang="is">Spennuþættir sem gerast í New Orleans og fjalla um starfsmenn systurdeildarinnar í höfuðborginni Washington sem einnig hafa það sérsvið að rannsaka alvarlega glæpi sem tengjast sjóhernum eða strandgæslunni á einn eða annan hátt.(n)</desc>
+  </programme>
+  <programme start="20220706235000 +0000" stop="20220707003500 +0000" channel="Stod2.is">
+    <title lang="is">Animal Kingdom</title>
+    <desc lang="is">Fimmta þáttaröð þessara mögnuðu glæpaþátta. The Codys snúa aftur eftir dauða Smurf og hafa tækifæri til að gera hlutina eftir sínu höfði. En baráttan um það hver eigi að stjórna þessari glæpafjölskyldu gæti sundrað þeim. Á sama tíma komast þeir að ýmsu um fortíð Smurf og vita meira um líf hennar eftir dauðann.(n)</desc>
+  </programme>
+  <programme start="20220706080000 +0000" stop="20220706082000 +0000" channel="Stod2Fjolskylda.is">
+    <title lang="is">Dóra könnuður</title>
+    <desc lang="is">Dóra og Klossi lesa ævintýri um hinn unga kinkajou - sæta og krúttlega frumskógarveru - sem er staðráðin í að verða kóngur. En kinkajouinn missir krúnuna vegna þess að hann kann ekki töfraorðin "por favor".(n)</desc>
+  </programme>
+  <programme start="20220706082000 +0000" stop="20220706083500 +0000" channel="Stod2Fjolskylda.is">
+    <title lang="is">Óskastund með Skoppu og Skítlu</title>
+    <desc lang="is">Lífið er leikur hjá þeim vinkonum Skoppu og Skrítlu. Því finnst þeim við  hæfi að bjóða áhorfendum inn á leikvöllinn sinn þar sem þær dvelja löngum stundum þegar þær ekki eru í leikhúsinu. Þær vita að öll börn stór og smá  elska að leika sér og í gegnum leikinn öðlast þau hæfni og þor. Í hverjum þætti flýgur óskafiðrildi af stað með litla ósk sem síðar verður að þema hvers þáttar. Eitt leiðir af öðru og fyrr en varir eru vinkonurnar farnar að takast á við ólíkustu verk efni og  þrautir. Fjölskyldustund full af fróðleik og fjöri með Skoppu og Skrítlu á Stöð 2.(n)</desc>
+  </programme>
+  <programme start="20220706083500 +0000" stop="20220706090000 +0000" channel="Stod2Fjolskylda.is">
+    <title lang="is">Strumparnir</title>
+    <desc lang="is">Strumparnir og Kjartan galdrakarl fara á kostum í ævintýrum sínum í Strumpabæ.(n)</desc>
+  </programme>
+  <programme start="20220706090000 +0000" stop="20220706092000 +0000" channel="Stod2Fjolskylda.is">
+    <title lang="is">Latibær</title>
+    <desc lang="is">Skemmtileg þáttaröð um Íþróttaálfinn, Sollu stirðu, Nenna níska, Glanna glæp og fleiri skemmtilega vini þeirra í Latabæ.(n)</desc>
+  </programme>
+  <programme start="20220706092000 +0000" stop="20220706094500 +0000" channel="Stod2Fjolskylda.is">
+    <title lang="is">Heiða</title>
+    <desc lang="is">Skemmtilegir þættir um stúlkuna Heiðu og ævintýri hennar.(n)</desc>
+  </programme>
+  <programme start="20220706094500 +0000" stop="20220706100500 +0000" channel="Stod2Fjolskylda.is">
+    <title lang="is">Blíða og Blær</title>
+    <desc lang="is">Ný þáttaröð af þessum frábæru teiknimyndaþáttum um töfradísirnar  Blíðu og Blæ. Með því að láta óskir vinkonu þeirra rætast enda þær oftast í skemmtilegum ævintýrum sem stundum leiða þær í vandræði  sem þær þurfa svo að leysa í sameiningu.(n)</desc>
+  </programme>
+  <programme start="20220706100500 +0000" stop="20220706101500 +0000" channel="Stod2Fjolskylda.is">
+    <title lang="is">Víkingurinn Viggó</title>
+    <desc lang="is">Skemmtilegir þættir um víkingastrákinn Viggó og félaga hans sem eru duglegir að lenda í alls konar ævintýrum.(n)</desc>
+  </programme>
+  <programme start="20220706101500 +0000" stop="20220706104000 +0000" channel="Stod2Fjolskylda.is">
+    <title lang="is">Adda klóka</title>
+    <desc lang="is">Adda er klár og duglega stelpa sem á ótrúlega vini. Vinir hennar sem kallaðir eru Flókar eru einkennilegar skepnur sem búa á hóteli fjölskyldu hennar. Á hverjum degi koma upp óvenjulegar aðstæður á hótelinu sem þessir litlu vinir hennar eiga upptökin að. Adda ásamt bestu Flóka vinkonu sinni lenda saman í óvenjulegum ævintýrum þegar að þær reyna að leiðrétta þau óhöpp sem Flókarnir hafa valdið.(n)</desc>
+  </programme>
+  <programme start="20220706104000 +0000" stop="20220706110000 +0000" channel="Stod2Fjolskylda.is">
+    <title lang="is">Dagur Diðrik</title>
+    <desc lang="is">Frábærir teiknimyndaþættir um unga uppfinningamanninn Dag Diðrik, Dísu vinkonu hans og öll hjálpsömu vélmennin hans. Þau elska ævintýri og nýta sér oft tæknina til að sleppa úr erfiðum aðstæðum.(n)</desc>
+  </programme>
+  <programme start="20220706110000 +0000" stop="20220706112500 +0000" channel="Stod2Fjolskylda.is">
+    <title lang="is">Svampur Sveinsson</title>
+    <desc lang="is">Bráðfyndnir þættir um hrakfallabálkinn Svamp Sveinsson og félaga hans sem búa neðansjávar og eru sífellt að koma sér í óborganleg vandræði.(n)</desc>
+  </programme>
+  <programme start="20220706112500 +0000" stop="20220706115000 +0000" channel="Stod2Fjolskylda.is">
     <title lang="is">Dóra könnuður</title>
     <desc lang="is">Voff! Voff! Dóra og Klossi eiga nýjan tölvuleik sem heitir "Bjargið hvolpunum". Vondur hundaveiðari hefur læst alla hvolpana inni í Hundageymslunum. Til að bjarga þeim stökkva Dóra og Klossi með ofurkrafti inn í tölvuleikinn.(n)</desc>
   </programme>
-  <programme start="20220705082000 +0000" stop="20220705082500 +0000" channel="Stod2Fjolskylda.is">
-    <title lang="is">Lærum og leikum með hljóðin</title>
-    <desc lang="is">Máni og Mæja syngja og kenna skemmtileg málhljóð í flutningi Felix Bergssonar og Védísar Hervarar Árnadóttur.(n)</desc>
-  </programme>
-  <programme start="20220705082500 +0000" stop="20220705084000 +0000" channel="Stod2Fjolskylda.is">
+  <programme start="20220706115000 +0000" stop="20220706120000 +0000" channel="Stod2Fjolskylda.is">
     <title lang="is">Óskastund með Skoppu og Skítlu</title>
     <desc lang="is">Lífið er leikur hjá þeim vinkonum Skoppu og Skrítlu. Því finnst þeim við  hæfi að bjóða áhorfendum inn á leikvöllinn sinn þar sem þær dvelja löngum stundum þegar þær ekki eru í leikhúsinu. Þær vita að öll börn stór og smá  elska að leika sér og í gegnum leikinn öðlast þau hæfni og þor. Í hverjum þætti flýgur óskafiðrildi af stað með litla ósk sem síðar verður að þema hvers þáttar. Eitt leiðir af öðru og fyrr en varir eru vinkonurnar farnar að takast á við ólíkustu verk efni og  þrautir. Fjölskyldustund full af fróðleik og fjöri með Skoppu og Skrítlu á Stöð 2.(n)</desc>
   </programme>
-  <programme start="20220705084000 +0000" stop="20220705090000 +0000" channel="Stod2Fjolskylda.is">
+  <programme start="20220706120000 +0000" stop="20220706122500 +0000" channel="Stod2Fjolskylda.is">
     <title lang="is">Strumparnir</title>
     <desc lang="is">Strumparnir og Kjartan galdrakarl fara á kostum í ævintýrum sínum í Strumpabæ.(n)</desc>
   </programme>
-  <programme start="20220705090000 +0000" stop="20220705092500 +0000" channel="Stod2Fjolskylda.is">
+  <programme start="20220706122500 +0000" stop="20220706125000 +0000" channel="Stod2Fjolskylda.is">
     <title lang="is">Latibær</title>
     <desc lang="is">Skemmtileg þáttaröð um Íþróttaálfinn, Sollu stirðu, Nenna níska, Glanna glæp og fleiri skemmtilega vini þeirra í Latabæ.(n)</desc>
   </programme>
-  <programme start="20220705092500 +0000" stop="20220705094500 +0000" channel="Stod2Fjolskylda.is">
+  <programme start="20220706125000 +0000" stop="20220706131000 +0000" channel="Stod2Fjolskylda.is">
     <title lang="is">Heiða</title>
     <desc lang="is">Skemmtilegir þættir um stúlkuna Heiðu og ævintýri hennar.(n)</desc>
   </programme>
-  <programme start="20220705094500 +0000" stop="20220705101000 +0000" channel="Stod2Fjolskylda.is">
+  <programme start="20220706131000 +0000" stop="20220706133500 +0000" channel="Stod2Fjolskylda.is">
     <title lang="is">Blíða og Blær</title>
     <desc lang="is">Ný þáttaröð af þessum frábæru teiknimyndaþáttum um töfradísirnar  Blíðu og Blæ. Með því að láta óskir vinkonu þeirra rætast enda þær oftast í skemmtilegum ævintýrum sem stundum leiða þær í vandræði  sem þær þurfa svo að leysa í sameiningu.(n)</desc>
   </programme>
-  <programme start="20220705101000 +0000" stop="20220705102000 +0000" channel="Stod2Fjolskylda.is">
+  <programme start="20220706133500 +0000" stop="20220706134500 +0000" channel="Stod2Fjolskylda.is">
     <title lang="is">Víkingurinn Viggó</title>
     <desc lang="is">Skemmtilegir þættir um víkingastrákinn Viggó og félaga hans sem eru duglegir að lenda í alls konar ævintýrum.(n)</desc>
   </programme>
-  <programme start="20220705102000 +0000" stop="20220705104500 +0000" channel="Stod2Fjolskylda.is">
+  <programme start="20220706134500 +0000" stop="20220706140500 +0000" channel="Stod2Fjolskylda.is">
     <title lang="is">Adda klóka</title>
     <desc lang="is">Adda er klár og duglega stelpa sem á ótrúlega vini. Vinir hennar sem kallaðir eru Flókar eru einkennilegar skepnur sem búa á hóteli fjölskyldu hennar. Á hverjum degi koma upp óvenjulegar aðstæður á hótelinu sem þessir litlu vinir hennar eiga upptökin að. Adda ásamt bestu Flóka vinkonu sinni lenda saman í óvenjulegum ævintýrum þegar að þær reyna að leiðrétta þau óhöpp sem Flókarnir hafa valdið.(n)</desc>
   </programme>
-  <programme start="20220705104500 +0000" stop="20220705110500 +0000" channel="Stod2Fjolskylda.is">
+  <programme start="20220706140500 +0000" stop="20220706143000 +0000" channel="Stod2Fjolskylda.is">
     <title lang="is">Dagur Diðrik</title>
     <desc lang="is">Frábærir teiknimyndaþættir um unga uppfinningamanninn Dag Diðrik, Dísu vinkonu hans og öll hjálpsömu vélmennin hans. Þau elska ævintýri og nýta sér oft tæknina til að sleppa úr erfiðum aðstæðum.(n)</desc>
   </programme>
-  <programme start="20220705110500 +0000" stop="20220705113000 +0000" channel="Stod2Fjolskylda.is">
+  <programme start="20220706143000 +0000" stop="20220706145000 +0000" channel="Stod2Fjolskylda.is">
     <title lang="is">Svampur Sveinsson</title>
     <desc lang="is">Bráðfyndnir þættir um hrakfallabálkinn Svamp Sveinsson og félaga hans sem búa neðansjávar og eru sífellt að koma sér í óborganleg vandræði.(n)</desc>
   </programme>
-  <programme start="20220705113000 +0000" stop="20220705115000 +0000" channel="Stod2Fjolskylda.is">
+  <programme start="20220706145000 +0000" stop="20220706151500 +0000" channel="Stod2Fjolskylda.is">
     <title lang="is">Dóra könnuður</title>
     <desc lang="is">Hittið Diego, hinn ofurflotta frænda Dóru. Diego vinnur í Björgunarmiðstöð dýra. Hann getur búið til dýrahljóð og talað við villt dýr!(n)</desc>
   </programme>
-  <programme start="20220705115000 +0000" stop="20220705120500 +0000" channel="Stod2Fjolskylda.is">
+  <programme start="20220706151500 +0000" stop="20220706152500 +0000" channel="Stod2Fjolskylda.is">
     <title lang="is">Óskastund með Skoppu og Skítlu</title>
     <desc lang="is">Lífið er leikur hjá þeim vinkonum Skoppu og Skrítlu. Því finnst þeim við  hæfi að bjóða áhorfendum inn á leikvöllinn sinn þar sem þær dvelja löngum stundum þegar þær ekki eru í leikhúsinu. Þær vita að öll börn stór og smá  elska að leika sér og í gegnum leikinn öðlast þau hæfni og þor. Í hverjum þætti flýgur óskafiðrildi af stað með litla ósk sem síðar verður að þema hvers þáttar. Eitt leiðir af öðru og fyrr en varir eru vinkonurnar farnar að takast á við ólíkustu verk efni og  þrautir. Fjölskyldustund full af fróðleik og fjöri með Skoppu og Skrítlu á Stöð 2.(n)</desc>
   </programme>
-  <programme start="20220705120500 +0000" stop="20220705122500 +0000" channel="Stod2Fjolskylda.is">
+  <programme start="20220706152500 +0000" stop="20220706155000 +0000" channel="Stod2Fjolskylda.is">
     <title lang="is">Strumparnir</title>
     <desc lang="is">Strumparnir og Kjartan galdrakarl fara á kostum í ævintýrum sínum í Strumpabæ.(n)</desc>
   </programme>
-  <programme start="20220705122500 +0000" stop="20220705125000 +0000" channel="Stod2Fjolskylda.is">
+  <programme start="20220706155000 +0000" stop="20220706161500 +0000" channel="Stod2Fjolskylda.is">
     <title lang="is">Latibær</title>
     <desc lang="is">Skemmtileg þáttaröð um Íþróttaálfinn, Sollu stirðu, Nenna níska, Glanna glæp og fleiri skemmtilega vini þeirra í Latabæ.(n)</desc>
   </programme>
-  <programme start="20220705125000 +0000" stop="20220705131000 +0000" channel="Stod2Fjolskylda.is">
+  <programme start="20220706161500 +0000" stop="20220706163500 +0000" channel="Stod2Fjolskylda.is">
     <title lang="is">Heiða</title>
     <desc lang="is">Skemmtilegir þættir um stúlkuna Heiðu og ævintýri hennar.(n)</desc>
   </programme>
-  <programme start="20220705131000 +0000" stop="20220705133500 +0000" channel="Stod2Fjolskylda.is">
+  <programme start="20220706163500 +0000" stop="20220706170000 +0000" channel="Stod2Fjolskylda.is">
     <title lang="is">Blíða og Blær</title>
     <desc lang="is">Ný þáttaröð af þessum frábæru teiknimyndaþáttum um töfradísirnar  Blíðu og Blæ. Með því að láta óskir vinkonu þeirra rætast enda þær oftast í skemmtilegum ævintýrum sem stundum leiða þær í vandræði  sem þær þurfa svo að leysa í sameiningu.(n)</desc>
   </programme>
-  <programme start="20220705133500 +0000" stop="20220705134500 +0000" channel="Stod2Fjolskylda.is">
+  <programme start="20220706170000 +0000" stop="20220706171000 +0000" channel="Stod2Fjolskylda.is">
     <title lang="is">Víkingurinn Viggó</title>
     <desc lang="is">Skemmtilegir þættir um víkingastrákinn Viggó og félaga hans sem eru duglegir að lenda í alls konar ævintýrum.(n)</desc>
   </programme>
-  <programme start="20220705134500 +0000" stop="20220705141000 +0000" channel="Stod2Fjolskylda.is">
+  <programme start="20220706171000 +0000" stop="20220706173000 +0000" channel="Stod2Fjolskylda.is">
     <title lang="is">Adda klóka</title>
     <desc lang="is">Adda er klár og duglega stelpa sem á ótrúlega vini. Vinir hennar sem kallaðir eru Flókar eru einkennilegar skepnur sem búa á hóteli fjölskyldu hennar. Á hverjum degi koma upp óvenjulegar aðstæður á hótelinu sem þessir litlu vinir hennar eiga upptökin að. Adda ásamt bestu Flóka vinkonu sinni lenda saman í óvenjulegum ævintýrum þegar að þær reyna að leiðrétta þau óhöpp sem Flókarnir hafa valdið.(n)</desc>
   </programme>
-  <programme start="20220705141000 +0000" stop="20220705143000 +0000" channel="Stod2Fjolskylda.is">
+  <programme start="20220706173000 +0000" stop="20220706175500 +0000" channel="Stod2Fjolskylda.is">
     <title lang="is">Dagur Diðrik</title>
     <desc lang="is">Frábærir teiknimyndaþættir um unga uppfinningamanninn Dag Diðrik, Dísu vinkonu hans og öll hjálpsömu vélmennin hans. Þau elska ævintýri og nýta sér oft tæknina til að sleppa úr erfiðum aðstæðum.(n)</desc>
   </programme>
-  <programme start="20220705143000 +0000" stop="20220705145500 +0000" channel="Stod2Fjolskylda.is">
+  <programme start="20220706175500 +0000" stop="20220706181500 +0000" channel="Stod2Fjolskylda.is">
     <title lang="is">Svampur Sveinsson</title>
     <desc lang="is">Bráðfyndnir þættir um hrakfallabálkinn Svamp Sveinsson og félaga hans sem búa neðansjávar og eru sífellt að koma sér í óborganleg vandræði.(n)</desc>
   </programme>
-  <programme start="20220705145500 +0000" stop="20220705151500 +0000" channel="Stod2Fjolskylda.is">
-    <title lang="is">Dóra könnuður</title>
-    <desc lang="is">Hvert fara leikföng þegar þau týnast? Til týndu borgarinnar! En það er ansi erfitt að finna Týndu borgina. Dóra lenda í ævintýri eins og Indiana Jones er þau þjóta í gegnum Númerapíramídann og Ruglaða frumskóginn.(n)</desc>
-  </programme>
-  <programme start="20220705151500 +0000" stop="20220705153000 +0000" channel="Stod2Fjolskylda.is">
+  <programme start="20220706181500 +0000" stop="20220706183000 +0000" channel="Stod2Fjolskylda.is">
     <title lang="is">Óskastund með Skoppu og Skítlu</title>
     <desc lang="is">Lífið er leikur hjá þeim vinkonum Skoppu og Skrítlu. Því finnst þeim við  hæfi að bjóða áhorfendum inn á leikvöllinn sinn þar sem þær dvelja löngum stundum þegar þær ekki eru í leikhúsinu. Þær vita að öll börn stór og smá  elska að leika sér og í gegnum leikinn öðlast þau hæfni og þor. Í hverjum þætti flýgur óskafiðrildi af stað með litla ósk sem síðar verður að þema hvers þáttar. Eitt leiðir af öðru og fyrr en varir eru vinkonurnar farnar að takast á við ólíkustu verk efni og  þrautir. Fjölskyldustund full af fróðleik og fjöri með Skoppu og Skrítlu á Stöð 2.(n)</desc>
   </programme>
-  <programme start="20220705153000 +0000" stop="20220705155500 +0000" channel="Stod2Fjolskylda.is">
-    <title lang="is">Strumparnir</title>
-    <desc lang="is">Strumparnir og Kjartan galdrakarl fara á kostum í ævintýrum sínum í Strumpabæ.(n)</desc>
+  <programme start="20220706183000 +0000" stop="20220706200000 +0000" channel="Stod2Fjolskylda.is">
+    <title lang="is">Máni mávabróðir</title>
+    <desc lang="is">Frábær talsett teiknimynd frá 2019. Litla svalan Máni, vex úr grasi í þeirri trú að hann sé mávur, en kemst síðan að því að svo er ekki. Þegar hann strýkur að heiman kynnist hann fuglum sem eru af sömu tegund og hann sjálfur, og kemst að því hver hann er í raun og veru.(n)</desc>
   </programme>
-  <programme start="20220705155500 +0000" stop="20220705162000 +0000" channel="Stod2Fjolskylda.is">
-    <title lang="is">Latibær</title>
-    <desc lang="is">Skemmtileg þáttaröð um Íþróttaálfinn, Sollu stirðu, Nenna níska, Glanna glæp og fleiri skemmtilega vini þeirra í Latabæ.(n)</desc>
-  </programme>
-  <programme start="20220705162000 +0000" stop="20220705164000 +0000" channel="Stod2Fjolskylda.is">
-    <title lang="is">Heiða</title>
-    <desc lang="is">Skemmtilegir þættir um stúlkuna Heiðu og ævintýri hennar.(n)</desc>
-  </programme>
-  <programme start="20220705164000 +0000" stop="20220705170000 +0000" channel="Stod2Fjolskylda.is">
-    <title lang="is">Blíða og Blær</title>
-    <desc lang="is">Ný þáttaröð af þessum frábæru teiknimyndaþáttum um töfradísirnar  Blíðu og Blæ. Með því að láta óskir vinkonu þeirra rætast enda þær oftast í skemmtilegum ævintýrum sem stundum leiða þær í vandræði  sem þær þurfa svo að leysa í sameiningu.(n)</desc>
-  </programme>
-  <programme start="20220705170000 +0000" stop="20220705171500 +0000" channel="Stod2Fjolskylda.is">
-    <title lang="is">Víkingurinn Viggó</title>
-    <desc lang="is">Skemmtilegir þættir um víkingastrákinn Viggó og félaga hans sem eru duglegir að lenda í alls konar ævintýrum.(n)</desc>
-  </programme>
-  <programme start="20220705171500 +0000" stop="20220705173500 +0000" channel="Stod2Fjolskylda.is">
-    <title lang="is">Adda klóka</title>
-    <desc lang="is">Adda er klár og duglega stelpa sem á ótrúlega vini. Vinir hennar sem kallaðir eru Flókar eru einkennilegar skepnur sem búa á hóteli fjölskyldu hennar. Á hverjum degi koma upp óvenjulegar aðstæður á hótelinu sem þessir litlu vinir hennar eiga upptökin að. Adda ásamt bestu Flóka vinkonu sinni lenda saman í óvenjulegum ævintýrum þegar að þær reyna að leiðrétta þau óhöpp sem Flókarnir hafa valdið.(n)</desc>
-  </programme>
-  <programme start="20220705173500 +0000" stop="20220705180000 +0000" channel="Stod2Fjolskylda.is">
-    <title lang="is">Dagur Diðrik</title>
-    <desc lang="is">Frábærir teiknimyndaþættir um unga uppfinningamanninn Dag Diðrik, Dísu vinkonu hans og öll hjálpsömu vélmennin hans. Þau elska ævintýri og nýta sér oft tæknina til að sleppa úr erfiðum aðstæðum.(n)</desc>
-  </programme>
-  <programme start="20220705180000 +0000" stop="20220705182000 +0000" channel="Stod2Fjolskylda.is">
-    <title lang="is">Svampur Sveinsson</title>
-    <desc lang="is">Bráðfyndnir þættir um hrakfallabálkinn Svamp Sveinsson og félaga hans sem búa neðansjávar og eru sífellt að koma sér í óborganleg vandræði.(n)</desc>
-  </programme>
-  <programme start="20220705182000 +0000" stop="20220705183500 +0000" channel="Stod2Fjolskylda.is">
-    <title lang="is">Óskastund með Skoppu og Skítlu</title>
-    <desc lang="is">Lífið er leikur hjá þeim vinkonum Skoppu og Skrítlu. Því finnst þeim við  hæfi að bjóða áhorfendum inn á leikvöllinn sinn þar sem þær dvelja löngum stundum þegar þær ekki eru í leikhúsinu. Þær vita að öll börn stór og smá  elska að leika sér og í gegnum leikinn öðlast þau hæfni og þor. Í hverjum þætti flýgur óskafiðrildi af stað með litla ósk sem síðar verður að þema hvers þáttar. Eitt leiðir af öðru og fyrr en varir eru vinkonurnar farnar að takast á við ólíkustu verk efni og  þrautir. Fjölskyldustund full af fróðleik og fjöri með Skoppu og Skrítlu á Stöð 2.(n)</desc>
-  </programme>
-  <programme start="20220705183500 +0000" stop="20220705200000 +0000" channel="Stod2Fjolskylda.is">
-    <title lang="is">Hoodwinked Too! Hood vs. Evil</title>
-    <desc lang="is">Skemmtileg teiknimynd þar sem rækilega er snúið út úr ævintýrinu um Rauðhettu og úlfinn. Rauðhetta er búin að vera í stöðugri þjálfun hjá leyniþjónustunni AGEV (Allt er gott sem endar vel). Fyrsta verkefnið hennar kemur fyrr en átti von á því ill norn hefur rænt Hans og Grétu og nú er það undir Rauðhettu komið að finna þau og frelsa.(n)</desc>
-  </programme>
-  <programme start="20220705200000 +0000" stop="20220705202000 +0000" channel="Stod2Fjolskylda.is">
+  <programme start="20220706200000 +0000" stop="20220706202000 +0000" channel="Stod2Fjolskylda.is">
     <title lang="is">30 Rock</title>
     <desc lang="is">Snilldarlegir gamanþættir sem fjalla um Liz Lemon, yfirhöfund skemmtiþáttar sem sýndur er í beinni útsendingu í New York. Líf Liz umturnast þegar hvatvís, nýr yfirmaður, Jack Donaghy, fer að skipta sér af þættinum hennar og treður hinum óútreiknanlega Tracy Jordan inn í leikarahópinn. Þá er undir Liz komið að hafa stjórn á glundroðanum ásamt því að eiga sér einkalíf.(n)</desc>
   </programme>
-  <programme start="20220705202000 +0000" stop="20220705204000 +0000" channel="Stod2Fjolskylda.is">
+  <programme start="20220706202000 +0000" stop="20220706204000 +0000" channel="Stod2Fjolskylda.is">
     <title lang="is">30 Rock</title>
     <desc lang="is">Snilldarlegir gamanþættir sem fjalla um Liz Lemon, yfirhöfund skemmtiþáttar sem sýndur er í beinni útsendingu í New York. Líf Liz umturnast þegar hvatvís, nýr yfirmaður, Jack Donaghy, fer að skipta sér af þættinum hennar og treður hinum óútreiknanlega Tracy Jordan inn í leikarahópinn. Þá er undir Liz komið að hafa stjórn á glundroðanum ásamt því að eiga sér einkalíf.(n)</desc>
   </programme>
-  <programme start="20220705204000 +0000" stop="20220705210000 +0000" channel="Stod2Fjolskylda.is">
-    <title lang="is">Last Man Standing</title>
-    <desc lang="is">Skemmtilegir gamanþættir með grínaranum Tim Allen í hlutverki karlmans  sem lifir og hrærist í miklu kvennaríki, bæði í vinnunni og heima fyrir. Mike Baxter (Allen) og kona hans ala í sameiningu upp þrjár dætur, og þar gengur oft á ýmsu.(n)</desc>
+  <programme start="20220706204000 +0000" stop="20220706210000 +0000" channel="Stod2Fjolskylda.is">
+    <title lang="is">Mom</title>
+    <desc lang="is">Áttunda gamanþáttarröðin um vinkonurnar í Napa Valley í Kaliforníu sem eiga það sameiginlegt að vera allar óvirkir fíklar og vinna í því á hverjum degi að halda lífi sínu á réttu róli. Það eru þó mörg ljón í veginum, ekki síst þær sjálfar. Ástarmálin ganga ekki alltaf alveg eins og þær myndu óska sér og sambandið þeirra á milli er bráðskemmtilegt þar sem oft gengur mikið á.(n)</desc>
   </programme>
-  <programme start="20220705210000 +0000" stop="20220705214000 +0000" channel="Stod2Fjolskylda.is">
-    <title lang="is">Legends of Tomorrow</title>
-    <desc lang="is">Sjötta þáttaröð þessara frábæru þátta frá Warner úr smiðju DC Comics sem fjalla um tímaflakkarann Rip Hunter sem er beðinn um að safna saman ólíkum hópi ofurhuga og skúrka sem í sameiningu og með ólíkum kröftum og hæfileikum á að reyna koma í veg fyrir endalok heimsins eins og við þekkjum hann.(n)</desc>
-  </programme>
-  <programme start="20220705214000 +0000" stop="20220705222500 +0000" channel="Stod2Fjolskylda.is">
-    <title lang="is">House M.D.</title>
-    <desc lang="is">Hin óborganlegi og magnaði Dr. Gregory House og teymi hans takast á við verkefni sem aðrir læknar ráða ekki við. Þótt House sé yfirburða klár er einkalífið takmarkað og samskipti við annað fólk oftast þreytandi.(n)</desc>
-  </programme>
-  <programme start="20220705222500 +0000" stop="20220705225000 +0000" channel="Stod2Fjolskylda.is">
-    <title lang="is">Two Weeks to Live</title>
-    <desc lang="is">Fyndnir og æsispennandi þættir með Maisie Willams (Game of Thrones) í aðalhlutverki.
-Kona leggur upp í leynilegt verkefni til að heiðra minningu föður síns, sem lést á dularfullan hátt þegar hún var lítil. 
-Eftir andlát föðurins fór móðir Kim Noakes með hana í burtu til að lifa afskekktu og einangruðu lífi sem einkenndist af furðulegum sjálfbjargar aðferðum. En núna er hún fullorðin og að takast á við raunveruleikann í fyrsta skipti.(n)</desc>
-  </programme>
-  <programme start="20220705225000 +0000" stop="20220705233000 +0000" channel="Stod2Fjolskylda.is">
+  <programme start="20220706210000 +0000" stop="20220706214000 +0000" channel="Stod2Fjolskylda.is">
     <title lang="is">The Flash</title>
     <desc lang="is">Sjöunda þáttaröðin af þessum hörkuspennandi þáttum sem byggðir eru á teiknimyndaseríunni Flash Gordon úr smiðju DC Comics og fjalla um vísindamanninn Barry Allen sem er í raun ofurhetja en kraftar hans er geta ferðast um á ótrúlegum hraða.(n)</desc>
   </programme>
-  <programme start="20220705233000 +0000" stop="20220706002000 +0000" channel="Stod2Fjolskylda.is">
+  <programme start="20220706214000 +0000" stop="20220706222500 +0000" channel="Stod2Fjolskylda.is">
+    <title lang="is">House M.D.</title>
+    <desc lang="is">Hin óborganlegi og magnaði Dr. Gregory House og teymi hans takast á við verkefni sem aðrir læknar ráða ekki við. Þótt House sé yfirburða klár er einkalífið takmarkað og samskipti við annað fólk oftast þreytandi.(n)</desc>
+  </programme>
+  <programme start="20220706222500 +0000" stop="20220706230500 +0000" channel="Stod2Fjolskylda.is">
+    <title lang="is">Supergirl</title>
+    <desc lang="is">Sjötta þáttaröð þessara sívinsælu og skemmtilegu spennuþátta úr smiðju DC Comics um Köru sem býr yfir sömu ofurkröftum og frændi hennar Clark Kent.(n)</desc>
+  </programme>
+  <programme start="20220706230500 +0000" stop="20220706235000 +0000" channel="Stod2Fjolskylda.is">
     <title lang="is">Warrior</title>
     <desc lang="is">Önnur þáttaröð þessara hörkuspennandi þátta frá HBO. Þættirnir eru byggðir á skrifum Bruce Lee um kínversk leynisamtök í San Fransisco undir lok nítjándu aldar og blóðug átök þeirra á milli.(n)</desc>
   </programme>
-  <programme start="20220705104000 +0000" stop="20220705122500 +0000" channel="Stod2Bio.is">
-    <title lang="is">Back to the Future II</title>
-    <desc lang="is">Marty McFly er nýkominn heim úr fortíðinni, þegar klikkaði vísindamaðurinn sem fann upp DeLaurean tímavélina, Dr. Emmett Brown, mætir á svæðið til að ná í hann og senda hann til framtíðar. Marty þarf að bjarga málunum í framtíðinni, þar sem sonur hans er um það bil að lenda í fangelsi. Til allrar óhamingju þá fer ýmislegt á verri veg þegar framtíðin fer að hafa áhrif á nútíðina.(n)</desc>
+  <programme start="20220706235000 +0000" stop="20220707001000 +0000" channel="Stod2Fjolskylda.is">
+    <title lang="is">Dating #NoFilter</title>
+    <desc lang="is">Nú skulum við tala af hreinskilni! Stefnumótamenningin er ekki sú glamúrfantasía sem fólki er talið trú um að hún sé. Heldur er hún drullusvað með grófum skilaboðum, hunsunum og einnar nætur gaman. Loksins fær rödd hreinskilninnar að njóta sín í þessum kostulegu stefnumótaþáttum.(n)</desc>
   </programme>
-  <programme start="20220705122500 +0000" stop="20220705135500 +0000" channel="Stod2Bio.is">
-    <title lang="is">Iceland is Best</title>
-    <desc lang="is">Dramatísk mynd frá 2020 um hina 17 ára gömlu Siggu sem þráir ekkert heitar en að flytja frá Íslandi og komast til hinnar sólríku Kaliforníu. Kristín Auður Sophusdóttir fer með hlutverk Siggu í myndinni.(n)</desc>
+  <programme start="20220706110000 +0000" stop="20220706122500 +0000" channel="Stod2Bio.is">
+    <title lang="is">Love on the Slopes</title>
+    <desc lang="is">Blaðamaðurinn Alex er klaufaleg og skortir alla dirfsku en hún fær frábæra hugmynd að grein þar sem hún þarf að prufa jaðaríþróttir en hún fær aðstoð ljósmyndara sem sérhæfir sig á því sviði. Hann hefur hins vegar misst andagiftina fyrir ljósmyndunum en gæti hún verið svarið við því?(n)</desc>
   </programme>
-  <programme start="20220705135500 +0000" stop="20220705155000 +0000" channel="Stod2Bio.is">
-    <title lang="is">Pretty Woman</title>
-    <desc lang="is">Edward er forríkur viðskiptajöfur sem sérhæfir sig í að kaupa fyrirtæki og selja þau í bútum. Hann er vægðarlaus í viðskiptum sínum og hleypir engum nærri sér. Í einni viðskiptaferðinni til Los Angeles rekst hann á fylgdardömuna Vivian sem vekur strax forvitni hans og hann gerir við hana viðskiptasamning. Málin þróast þó á annan hátt en ætlað var.(n)</desc>
+  <programme start="20220706122500 +0000" stop="20220706142500 +0000" channel="Stod2Bio.is">
+    <title lang="is">Mrs. Doubtfire</title>
+    <desc lang="is">Ein af betri gamanmyndum síðari ára. Leikarinn Daniel Hilliard er ekki auðveldur í sambúð og svo fer að konan hans óskar eftir skilnaði. Daniel er ósáttur við hlutskipti sitt enda hefur eiginkonan fyrrverandi nú forræði yfir börnunum þremur. Daniel neitar samt að láta í minni pokann og tekur til sinna ráða með eftirminnilegum hætti. Hann er staðráðinn í að fá að njóta samvista við börn sín, sama hvað það kostar.(n)</desc>
   </programme>
-  <programme start="20220705155000 +0000" stop="20220705173500 +0000" channel="Stod2Bio.is">
-    <title lang="is">Back to the Future II</title>
-    <desc lang="is">Marty McFly er nýkominn heim úr fortíðinni, þegar klikkaði vísindamaðurinn sem fann upp DeLaurean tímavélina, Dr. Emmett Brown, mætir á svæðið til að ná í hann og senda hann til framtíðar. Marty þarf að bjarga málunum í framtíðinni, þar sem sonur hans er um það bil að lenda í fangelsi. Til allrar óhamingju þá fer ýmislegt á verri veg þegar framtíðin fer að hafa áhrif á nútíðina.(n)</desc>
+  <programme start="20220706142500 +0000" stop="20220706160000 +0000" channel="Stod2Bio.is">
+    <title lang="is">Britt-Marie Was Here</title>
+    <desc lang="is">Mögnuð mynd frá 2019 sem byggð er á samnefndi metsölubók. Britt-Marie er 63 ára kona sem þolir hvorki óhreinindi á heimili sínu né óreglu í hirslum þess og myndu margir segja að hún væri með tiltektar- og þrifnaðaræði. Þegar hún kemst að því að maðurinn hennar til 40 ára hefur verið henni ótrúr ákveður hún að fara frá honum og finna sér sína fyrstu vinnu á ævinni. Britt-Marie tekur fyrsta starfinu sem henni býðst en það felst í að taka að sér tilfallandi verk í svokallaðri félagsmiðstöð bæjarins, þ. á m. þrif. Það fer þó svo að hún leiðist út í það ólíklega hlutverk að þjálfa nokkra unga fótboltastráka sem geta reyndar lítið í fótbolta en bæta það upp með ótakmörkuðum áhuga og elju sem Britt-Marie kann að meta.(n)</desc>
   </programme>
-  <programme start="20220705173500 +0000" stop="20220705190000 +0000" channel="Stod2Bio.is">
-    <title lang="is">Iceland is Best</title>
-    <desc lang="is">Dramatísk mynd frá 2020 um hina 17 ára gömlu Siggu sem þráir ekkert heitar en að flytja frá Íslandi og komast til hinnar sólríku Kaliforníu. Kristín Auður Sophusdóttir fer með hlutverk Siggu í myndinni.(n)</desc>
+  <programme start="20220706160000 +0000" stop="20220706172000 +0000" channel="Stod2Bio.is">
+    <title lang="is">Love on the Slopes</title>
+    <desc lang="is">Blaðamaðurinn Alex er klaufaleg og skortir alla dirfsku en hún fær frábæra hugmynd að grein þar sem hún þarf að prufa jaðaríþróttir en hún fær aðstoð ljósmyndara sem sérhæfir sig á því sviði. Hann hefur hins vegar misst andagiftina fyrir ljósmyndunum en gæti hún verið svarið við því?(n)</desc>
   </programme>
-  <programme start="20220705190000 +0000" stop="20220705210000 +0000" channel="Stod2Bio.is">
-    <title lang="is">Pretty Woman</title>
-    <desc lang="is">Edward er forríkur viðskiptajöfur sem sérhæfir sig í að kaupa fyrirtæki og selja þau í bútum. Hann er vægðarlaus í viðskiptum sínum og hleypir engum nærri sér. Í einni viðskiptaferðinni til Los Angeles rekst hann á fylgdardömuna Vivian sem vekur strax forvitni hans og hann gerir við hana viðskiptasamning. Málin þróast þó á annan hátt en ætlað var.(n)</desc>
+  <programme start="20220706172000 +0000" stop="20220706192500 +0000" channel="Stod2Bio.is">
+    <title lang="is">Mrs. Doubtfire</title>
+    <desc lang="is">Ein af betri gamanmyndum síðari ára. Leikarinn Daniel Hilliard er ekki auðveldur í sambúð og svo fer að konan hans óskar eftir skilnaði. Daniel er ósáttur við hlutskipti sitt enda hefur eiginkonan fyrrverandi nú forræði yfir börnunum þremur. Daniel neitar samt að láta í minni pokann og tekur til sinna ráða með eftirminnilegum hætti. Hann er staðráðinn í að fá að njóta samvista við börn sín, sama hvað það kostar.(n)</desc>
   </programme>
-  <programme start="20220705210000 +0000" stop="20220705225000 +0000" channel="Stod2Bio.is">
-    <title lang="is">Blinded by the Light</title>
-    <desc lang="is">Dramatísk, tónlistar- og gamanmynd frá 2019. Javed er breskur táningur af pakistönskum ættum sem er fæddur og uppalinn í Luton í Bretlandi. Hann dundar sér við að semja ljóð og þegar hann uppgötvar lög og texta Bruce Springsteen finnur hann svo mikinn samhljóm með þeim og sínu eigin lífi í Luton að hann einsetur sér að heimsækja heimabæ Bruce í New Jersey, þvert á vilja foreldra sinna.(n)</desc>
+  <programme start="20220706192500 +0000" stop="20220706210000 +0000" channel="Stod2Bio.is">
+    <title lang="is">Britt-Marie Was Here</title>
+    <desc lang="is">Mögnuð mynd frá 2019 sem byggð er á samnefndi metsölubók. Britt-Marie er 63 ára kona sem þolir hvorki óhreinindi á heimili sínu né óreglu í hirslum þess og myndu margir segja að hún væri með tiltektar- og þrifnaðaræði. Þegar hún kemst að því að maðurinn hennar til 40 ára hefur verið henni ótrúr ákveður hún að fara frá honum og finna sér sína fyrstu vinnu á ævinni. Britt-Marie tekur fyrsta starfinu sem henni býðst en það felst í að taka að sér tilfallandi verk í svokallaðri félagsmiðstöð bæjarins, þ. á m. þrif. Það fer þó svo að hún leiðist út í það ólíklega hlutverk að þjálfa nokkra unga fótboltastráka sem geta reyndar lítið í fótbolta en bæta það upp með ótakmörkuðum áhuga og elju sem Britt-Marie kann að meta.(n)</desc>
   </programme>
-  <programme start="20220705225000 +0000" stop="20220706004000 +0000" channel="Stod2Bio.is">
-    <title lang="is">Sorry to Bother You</title>
-    <desc lang="is">Sniðug og fyndin mynd frá 2018 um símasölumanninn Cassius Green sem nær að snúa lífi sínu á hvolf eftir að vinnufélagi hans gefur honum frábært ráð til að selja betur. Myndin gerist í nokkurs konar hliðarveruleika og inniheldur hárbeitta þjóðfélagsádeilu þar sem áhrif peninga og græðgi eru tekin fyrir.(n)</desc>
+  <programme start="20220706210000 +0000" stop="20220706223000 +0000" channel="Stod2Bio.is">
+    <title lang="is">AVA</title>
+    <desc lang="is">Afar spennandi ráðgáta og glæpamynd frá 2020 með Jessicu Chastain í aðalhlutverki. Ava er stórhættulegur leigumorðingi sem vinnur fyrir dularfull og háleynileg samtök. Hún ferðast um heiminn og verkefnin tengjast jafnan einhverjum háttsettum aðilum. En þegar eitt verkefni fer illilega úrskeiðis þarf hún að berjast fyrir lífi sínu og tilveru.(n)</desc>
   </programme>
-  <programme start="20220705150000 +0000" stop="20220705180000 +0000" channel="Stod2Esport.is">
+  <programme start="20220706223000 +0000" stop="20220707000000 +0000" channel="Stod2Bio.is">
+    <title lang="is">Endless</title>
+    <desc lang="is">Rómantísk ævintýramynd frá 2020. Þegar hin mjög svo ástföngnu Riley og Chris lenda í hörmulegu bílslysi þar sem Chris lætur lífið, kennir Riley sér um allt saman. Chris festist hins vegar á milli lífs og dauða og fyrir einhverskonar kraftaverk finna þau leið til að eiga samskipti hvort við annað.(n)</desc>
+  </programme>
+  <programme start="20220706183000 +0000" stop="20220706185000 +0000" channel="RUVIprottir.is">
+    <title lang="is">EM stofan</title>
+    <desc lang="is">Upphitun fyrir leik Englands og Austurríkis á EM kvenna í fótbolta.(n)</desc>
+  </programme>
+  <programme start="20220706185000 +0000" stop="20220706205000 +0000" channel="RUVIprottir.is">
+    <title lang="is">England - Austurríki</title>
+    <desc lang="is">Bein útsending frá leik England og Austurríkis á EM kvenna í fótbolta.(n)</desc>
+  </programme>
+  <programme start="20220706205000 +0000" stop="20220706211000 +0000" channel="RUVIprottir.is">
+    <title lang="is">EM stofan</title>
+    <desc lang="is">Uppgjör á leik Englands og Austurríkis á EM kvenna í fótbolta.(n)</desc>
+  </programme>
+  <programme start="20220706211000 +0000" stop="20220706232000 +0000" channel="RUVIprottir.is">
+    <title lang="is">Fréttir með táknmálstúlkun</title>
+    <desc lang="is">Fréttatími sjónvarps með táknmálstúlkun.(n)</desc>
+  </programme>
+  <programme start="20220706150000 +0000" stop="20220706181500 +0000" channel="Stod2Esport.is">
     <title lang="is">Vodafonedeildin: League of Legends</title>
-    <desc lang="is">Útsending frá Vodafonedeildinni í League of Legends. Leikir kvöldsins eru Fylkir - Pongu, Dusty Academy - XY, Dusty Academy - KR, XY - Make It Quick.(n)</desc>
+    <desc lang="is">Útsending frá Vodafonedeildinni í League of Legends. Leikir kvöldsins eru Dusty Academy - VITA, Pongu - Make It Quick, KR - Pongu, Make It Quick - Excess Success.(n)</desc>
   </programme>
-  <programme start="20220705180000 +0000" stop="20220705203000 +0000" channel="Stod2Esport.is">
-    <title lang="is">Arena deildin</title>
-    <title lang="en">Rafíþróttir</title>
-    <desc lang="is">Bestu lið Íslands í Rocket League keppast um deildarmeistaratitilinn. Hér keppast LAVA esports á móti Somnio, 354 eSports á móti Midnight Bulls, Breaking Sad á móti KR og Þór Akureyri á móti Rafík.(n)</desc>
-  </programme>
-  <programme start="20220705203000 +0000" stop="20220705234000 +0000" channel="Stod2Esport.is">
-    <title lang="is">Fyrsta mót hóps 1</title>
+  <programme start="20220706181500 +0000" stop="20220706210000 +0000" channel="Stod2Esport.is">
+    <title lang="is">Fyrsta mót hóps 2</title>
     <title lang="en">BLAST Premier</title>
-    <desc lang="is">Útsending frá leik FaZE Clan og paiN Gaming í BLAST Premier deildinni í CS:GO.(n)</desc>
+    <desc lang="is">Útsending frá leik Natus Vincere og OG Esports í BLAST Premier deildinni í CS:GO.(n)</desc>
   </programme>
-  <programme start="20220705234000 +0000" stop="20220706014000 +0000" channel="Stod2Esport.is">
-    <title lang="is">Annað mót hóps 1</title>
+  <programme start="20220706210000 +0000" stop="20220707005000 +0000" channel="Stod2Esport.is">
+    <title lang="is">Annað mót hóps 2</title>
     <title lang="en">BLAST Premier</title>
-    <desc lang="is">Útsending frá leik G2 Esports og Team Vitality í BLAST Premier deildinni í CS:GO.(n)</desc>
+    <desc lang="is">Útsending frá leik ENCE og BIG í BLAST Premier deildinni í CS:GO.(n)</desc>
   </programme>
-  <programme start="20220705070000 +0000" stop="20220705072000 +0000" channel="Stod2Sport.is">
+  <programme start="20220706070000 +0000" stop="20220706084000 +0000" channel="Stod2Sport.is">
+    <title lang="is">ÍBV - Selfoss</title>
+    <desc lang="is">Bein útsending frá leik ÍBV og Selfoss í 2. umferð Bestu deildar kvenna. Frumsýnt 3. maí 2022.(n)</desc>
+  </programme>
+  <programme start="20220706084000 +0000" stop="20220706102000 +0000" channel="Stod2Sport.is">
+    <title lang="is">Keflavík - Breiðablik</title>
+    <desc lang="is">Bein útsending frá leik Keflavíkur og Breiðabliks í 2. umferð Bestu deildar kvenna. Frumsýnt 4. maí 2022.(n)</desc>
+  </programme>
+  <programme start="20220706102000 +0000" stop="20220706112500 +0000" channel="Stod2Sport.is">
+    <title lang="is">Bestu mörkin</title>
+    <desc lang="is">Sérfræðingar Stöðvar 2 Sports fjalla um leikina í 2. umferð Bestu deildar kvenna. Frumsýnt 5. maí 2022.(n)</desc>
+  </programme>
+  <programme start="20220706112500 +0000" stop="20220706130500 +0000" channel="Stod2Sport.is">
+    <title lang="is">Afturelding - Þór/KA</title>
+    <desc lang="is">Bein útsending frá leik Aftureldingar og Þórs/KA í 3. umferð Bestu deildar kvenna. Frumsýnt 8. maí 2022.(n)</desc>
+  </programme>
+  <programme start="20220706130500 +0000" stop="20220706144500 +0000" channel="Stod2Sport.is">
+    <title lang="is">Selfoss - Þróttur R</title>
+    <desc lang="is">Bein útsending frá leik Selfoss og Þróttar R. í 3. umferð Bestu deildar kvenna. Frumsýnt 9. maí 2022.(n)</desc>
+  </programme>
+  <programme start="20220706144500 +0000" stop="20220706155000 +0000" channel="Stod2Sport.is">
+    <title lang="is">Bestu mörkin</title>
+    <desc lang="is">Sérfræðingar Stöðvar 2 Sports fjalla um leikina í 3. umferð Bestu deildar kvenna. Frumsýnt 10. maí 2022.(n)</desc>
+  </programme>
+  <programme start="20220706155000 +0000" stop="20220706161500 +0000" channel="Stod2Sport.is">
     <title lang="is">Leiðin til Englands</title>
     <desc lang="is">Þáttur um íslenska kvennalandsliðið í fótbolta sem er á leið á Evrópumótið á Englandi. Rætt er við fimm lykilmenn Íslands um mótið sem er framundan og fyrri Evrópumót.(n)</desc>
   </programme>
-  <programme start="20220705072000 +0000" stop="20220705090000 +0000" channel="Stod2Sport.is">
-    <title lang="is">FH - Stjarnan</title>
-    <desc lang="is">Útsending frá leik FH og Stjörnunnar í 11. umferð Bestu deildar karla. Frumsýnt 4. júlí 2022.(n)</desc>
+  <programme start="20220706161500 +0000" stop="20220706175500 +0000" channel="Stod2Sport.is">
+    <title lang="is">Stjarnan - Valur</title>
+    <desc lang="is">Útsending frá leik Stjörnunnar og Vals í 4. umferð Bestu deildar kvenna. Frumsýnt 13. maí 2022.(n)</desc>
   </programme>
-  <programme start="20220705090000 +0000" stop="20220705102000 +0000" channel="Stod2Sport.is">
-    <title lang="is">Stúkan</title>
-    <desc lang="is">Sérfræðingar Stöðvar 2 Sports fjalla um leikina í Bestu deild karla 4. júlí 2022.(n)</desc>
+  <programme start="20220706175500 +0000" stop="20220706193500 +0000" channel="Stod2Sport.is">
+    <title lang="is">Þór/KA - Selfoss</title>
+    <desc lang="is">Útsending frá leik Þórs/KA og Selfoss í 4. umferð Bestu deildar kvenna. Frumsýnt 14. maí 2022.(n)</desc>
   </programme>
-  <programme start="20220705102000 +0000" stop="20220705120000 +0000" channel="Stod2Sport.is">
-    <title lang="is">KR - Víkingur R.</title>
-    <desc lang="is">Útsending frá leik KR og Víkings R. í 11. umferð Bestu deildar karla. Frumsýnt 1. júlí 2022.(n)</desc>
+  <programme start="20220706193500 +0000" stop="20220706202000 +0000" channel="Stod2Sport.is">
+    <title lang="is">Bestu mörkin</title>
+    <desc lang="is">Sérfræðingar Stöðvar 2 Sports fjalla um leikina í 4. umferð Bestu deildar kvenna. Frumsýnt 14. maí 2022.(n)</desc>
   </programme>
-  <programme start="20220705120000 +0000" stop="20220705134000 +0000" channel="Stod2Sport.is">
-    <title lang="is">Keflavík - Fram</title>
-    <desc lang="is">Útsending frá leik Kaflavíkur og Fram í 11. umferð Bestu deildar karla. Frumsýnt 3. júlí 2022.(n)</desc>
-  </programme>
-  <programme start="20220705134000 +0000" stop="20220705152000 +0000" channel="Stod2Sport.is">
-    <title lang="is">FH - Stjarnan</title>
-    <desc lang="is">Útsending frá leik FH og Stjörnunnar í 11. umferð Bestu deildar karla. Frumsýnt 4. júlí 2022.(n)</desc>
-  </programme>
-  <programme start="20220705152000 +0000" stop="20220705164000 +0000" channel="Stod2Sport.is">
-    <title lang="is">Stúkan</title>
-    <desc lang="is">Sérfræðingar Stöðvar 2 Sports fjalla um leikina í Bestu deild karla 4. júlí 2022.(n)</desc>
-  </programme>
-  <programme start="20220705164000 +0000" stop="20220705193500 +0000" channel="Stod2Sport.is">
-    <title lang="is">Malmö - Víkingur R.</title>
-    <desc lang="is">Bein útsending frá leik Malmö FF frá Svíþjóð og Víkings frá Reykjavík í 1. umferð undankeppni Meistaradeildar Evrópu. Frumsýnt 5. júlí.(n)</desc>
-  </programme>
-  <programme start="20220705193500 +0000" stop="20220705202000 +0000" channel="Stod2Sport.is">
+  <programme start="20220706202000 +0000" stop="20220706210500 +0000" channel="Stod2Sport.is">
     <title lang="is">Bestu mörkin - EM upphitun</title>
     <desc lang="is">Sérfræðingar Stöðvar 2 Sports hita upp fyrir EM kvenna sem fram fer í Englandi í júlí. Meðal annars er farið yfir dagskrána fram að móti, andstæðinga Íslands í riðlinum og líklegt byrjunarlið.
 Umsjón með þættinum hefur Helena Ólafsdóttir.(n)</desc>
   </programme>
-  <programme start="20220705202000 +0000" stop="20220705204000 +0000" channel="Stod2Sport.is">
-    <title lang="is">Leiðin til Englands</title>
-    <desc lang="is">Þáttur um íslenska kvennalandsliðið í fótbolta sem er á leið á Evrópumótið á Englandi. Rætt er við fimm lykilmenn Íslands um mótið sem er framundan og fyrri Evrópumót.(n)</desc>
+  <programme start="20220706210500 +0000" stop="20220706214000 +0000" channel="Stod2Sport.is">
+    <title lang="is">1 á 1: Stelpurnar okkar á Mathúsi Garðabæjar</title>
   </programme>
-  <programme start="20220705204000 +0000" stop="20220705222000 +0000" channel="Stod2Sport.is">
-    <title lang="is">Keflavík - Fram</title>
-    <desc lang="is">Útsending frá leik Kaflavíkur og Fram í 11. umferð Bestu deildar karla. Frumsýnt 3. júlí 2022.(n)</desc>
+  <programme start="20220706214000 +0000" stop="20220706220500 +0000" channel="Stod2Sport.is">
+    <title lang="is">1 á 1 með Tómasi Þór: Glódís Perla Viggósdóttir</title>
+    <desc lang="is">1 á 1 með Tómasi Þór: Glódís Perla Viggósdóttir.(n)</desc>
   </programme>
-  <programme start="20220705222000 +0000" stop="20220706000000 +0000" channel="Stod2Sport.is">
-    <title lang="is">FH - Stjarnan</title>
-    <desc lang="is">Útsending frá leik FH og Stjörnunnar í 11. umferð Bestu deildar karla. Frumsýnt 4. júlí 2022.(n)</desc>
+  <programme start="20220706220500 +0000" stop="20220706223000 +0000" channel="Stod2Sport.is">
+    <title lang="is">Sara Björk Gunnarsdóttir</title>
+    <desc lang="is">Önnur þáttaröð þessara mögnuðu þátta þar sem skyggnst verður inn í líf  fremstu atvinnumanna þjóðarinnar.  Í þáttunum kynnast áhorfendur  framúrskarandi íþróttamönnum víðsvegar um heim.   Auðunn Blöndal heimsækir Aron Einar Gunnarsson, Gylfa Þór Sigurðsson, Söru Björk Gunnarsdóttur, Kolbein Sigþórsson, Emil Hallfreðsson og  Aron Pálmarsson á sínum heimavöllum.(n)</desc>
   </programme>
-  <programme start="20220705080000 +0000" stop="20220705094000 +0000" channel="Stod2Sport2.is">
-    <title lang="is">FA Community Shield 2013: Man. Utd. - Wigan</title>
-    <desc lang="is">Útsending frá leik Manchester United og Wigan um Samfélagsskjöldinn 2013.(n)</desc>
+  <programme start="20220706223000 +0000" stop="20220707002000 +0000" channel="Stod2Sport.is">
+    <title lang="is">Haukar - Njarðvík: Leikur 5</title>
+    <desc lang="is">Útsending frá oddaleik Hauka og Njarðvíkur í úrslitaeinvígi Subway deildar kvenna. Frumsýnt 1. maí 2022.(n)</desc>
   </programme>
-  <programme start="20220705094000 +0000" stop="20220705112000 +0000" channel="Stod2Sport2.is">
-    <title lang="is">FA Community Shield 2015: Chelsea - Arsenal</title>
-    <desc lang="is">Útsending frá leik Chelsea og Arsenal um Samfélagsskjöldinn.(n)</desc>
+  <programme start="20220706080000 +0000" stop="20220706100000 +0000" channel="Stod2Sport2.is">
+    <title lang="is">Ajax - Manchester United</title>
+    <desc lang="is">Útsending frá úrslitaleik Evrópudeildarinnar 2017 þar sem Ajax og Manchester United mættust.(n)</desc>
   </programme>
-  <programme start="20220705112000 +0000" stop="20220705131000 +0000" channel="Stod2Sport2.is">
-    <title lang="is">FA Community Shield 2016: Leicester - Man. Utd.</title>
-    <desc lang="is">Útsending frá leik Leicester City og Manchester United um Samfélagsskjöldinni.(n)</desc>
+  <programme start="20220706100000 +0000" stop="20220706114500 +0000" channel="Stod2Sport2.is">
+    <title lang="is">Marseille - Atlético Madrid</title>
+    <desc lang="is">Útsending frá leik Marseille og Atlético Madrid í úrslitaleik Evrópudeildarinnar árið 2018.(n)</desc>
   </programme>
-  <programme start="20220705131000 +0000" stop="20220705151000 +0000" channel="Stod2Sport2.is">
-    <title lang="is">FA Community Shield 2017: Arsenal - Chelsea</title>
-    <desc lang="is">Útsending frá Samfélagsskildinum 2017 þar sem Arsenal og Chelsea mætast.(n)</desc>
+  <programme start="20220706114500 +0000" stop="20220706134000 +0000" channel="Stod2Sport2.is">
+    <title lang="is">Chelsea - Arsenal</title>
+    <desc lang="is">Útsending frá úrslitaleik Evrópudeildarinnar 2019 á milli Chelsea og Arsenal.(n)</desc>
   </programme>
-  <programme start="20220705151000 +0000" stop="20220705165500 +0000" channel="Stod2Sport2.is">
-    <title lang="is">FA Community Shield 2018: Chelsea - Manchester City</title>
-    <desc lang="is">Útsending frá Samfélagsskildinum 2018 þar sem Chelsea og Manchester City mætast.(n)</desc>
+  <programme start="20220706134000 +0000" stop="20220706153500 +0000" channel="Stod2Sport2.is">
+    <title lang="is">Sevilla - Inter Milan</title>
+    <desc lang="is">Útsending frá úrslitaleik Evrópudeildarinnar árið 2020 þar sem Sevilla og Inter Milan mættust.(n)</desc>
   </programme>
-  <programme start="20220705165500 +0000" stop="20220705185500 +0000" channel="Stod2Sport2.is">
-    <title lang="is">FA Community Shield 2019: Liverpool - Manchester City</title>
-    <desc lang="is">Útsending frá leik Liverpool og Manchester City um Samfélagsskjöldinn 2019.(n)</desc>
+  <programme start="20220706153500 +0000" stop="20220706181000 +0000" channel="Stod2Sport2.is">
+    <title lang="is">Úrslit: Villarreal - Manchester United</title>
+    <desc lang="is">Útsending frá úrslitaleik Villarreal - Manchester United í Evrópudeild UEFA árið 2021.(n)</desc>
   </programme>
-  <programme start="20220705185500 +0000" stop="20220705204000 +0000" channel="Stod2Sport2.is">
-    <title lang="is">FA Community Shield 2020: Arsenal - Liverpool</title>
-    <desc lang="is">Útsending frá FA Community Shield 2020 þar sem Arsenal og Liverpool mættust.(n)</desc>
+  <programme start="20220706181000 +0000" stop="20220706195000 +0000" channel="Stod2Sport2.is">
+    <title lang="is">Bayern - Inter</title>
+    <desc lang="is">Útsending frá leik Inter og Bayern Munchen í úrslitum Meistaradeildar  Evrópu 2010.(n)</desc>
   </programme>
-  <programme start="20220705204000 +0000" stop="20220705222000 +0000" channel="Stod2Sport2.is">
-    <title lang="is">FA Community Shield 2021: Leicester - Manchester City</title>
-    <desc lang="is">Útsending frá FA Community Shield 2021 leiknum þar sem Leicester og Manchester City mættust.(n)</desc>
+  <programme start="20220706195000 +0000" stop="20220706215000 +0000" channel="Stod2Sport2.is">
+    <title lang="is">Barcelona - Manchester United</title>
+    <desc lang="is">Útsending frá úrslitaleiknum í Meistaradeild Evrópu 2011. Það voru Barcelona og Manchester United sem léku til úrslita.(n)</desc>
   </programme>
-  <programme start="20220705222000 +0000" stop="20220706005500 +0000" channel="Stod2Sport2.is">
-    <title lang="is">Chelsea - Liverpool</title>
-    <desc lang="is">Útsending frá úrslitaleik Chelsea og Liverpool í ensku bikarkeppninni, FA Cup.(n)</desc>
+  <programme start="20220706215000 +0000" stop="20220707002500 +0000" channel="Stod2Sport2.is">
+    <title lang="is">Bayern - Chelsea</title>
+    <desc lang="is">Útsending frá úrslitaleik Meistaradeildar Evrópu árið 2012. Það voru Bayern München og Chelsea sem mættust en leikurinn fór fram í München.(n)</desc>
   </programme>
-  <programme start="20220705080000 +0000" stop="20220705093500 +0000" channel="Stod2Sport3.is">
-    <title lang="is">Juventus - Verona</title>
-    <desc lang="is">Útsending frá leik Juventus og Verona í ítölsku úrvalsdeildinni.(n)</desc>
+  <programme start="20220706090000 +0000" stop="20220706103500 +0000" channel="Stod2Sport3.is">
+    <title lang="is">Sampdoria - Empoli</title>
+    <desc lang="is">Útsending frá leik Sampdoria og Empoli í ítölsku úrvalsdeildinni.(n)</desc>
   </programme>
-  <programme start="20220705093500 +0000" stop="20220705111500 +0000" channel="Stod2Sport3.is">
-    <title lang="is">Salernitana - Spezia</title>
-    <desc lang="is">Útsending frá leik Salernitana og Spezia í ítölsku úrvalsdeildinni.(n)</desc>
+  <programme start="20220706103500 +0000" stop="20220706121500 +0000" channel="Stod2Sport3.is">
+    <title lang="is">Roma - Hellas Verona</title>
+    <desc lang="is">Útsending frá leik Roma og Hellas Verona í ítölsku úrvalsdeildinni.(n)</desc>
   </programme>
-  <programme start="20220705111500 +0000" stop="20220705125500 +0000" channel="Stod2Sport3.is">
-    <title lang="is">Juventus - Torino</title>
-    <desc lang="is">Útsending frá leik Juventus og Torino í ítölsku úrvalsdeildinni.(n)</desc>
+  <programme start="20220706121500 +0000" stop="20220706135500 +0000" channel="Stod2Sport3.is">
+    <title lang="is">Salernitana - AC Milan</title>
+    <desc lang="is">Útsending frá leik Salernitana og AC Milan í ítölsku úrvalsdeildinni.(n)</desc>
   </programme>
-  <programme start="20220705125500 +0000" stop="20220705144000 +0000" channel="Stod2Sport3.is">
-    <title lang="is">Manchester United - Villarreal</title>
-    <desc lang="is">Útsending frá leik Manchester United og Villarreal í UEFA Youth League.(n)</desc>
+  <programme start="20220706135500 +0000" stop="20220706153000 +0000" channel="Stod2Sport3.is">
+    <title lang="is">Ajax - Borussia Dortmund</title>
+    <desc lang="is">Útsending frá leik Ajax og Borussia Dortmund í UEFA Youth League.(n)</desc>
   </programme>
-  <programme start="20220705144000 +0000" stop="20220705162000 +0000" channel="Stod2Sport3.is">
-    <title lang="is">Juventus - Chelsea</title>
-    <desc lang="is">Útsending frá leik Juventus og Chelsea í UEFA Youth League.(n)</desc>
+  <programme start="20220706153000 +0000" stop="20220706170500 +0000" channel="Stod2Sport3.is">
+    <title lang="is">Atletico Madrid - Liverpool</title>
+    <desc lang="is">Útsending frá leik Atletico Madrid og Liverpool í UEFA Youth League.(n)</desc>
   </programme>
-  <programme start="20220705162000 +0000" stop="20220705175500 +0000" channel="Stod2Sport3.is">
-    <title lang="is">Juventus - Verona</title>
-    <desc lang="is">Útsending frá leik Juventus og Verona í ítölsku úrvalsdeildinni.(n)</desc>
+  <programme start="20220706170500 +0000" stop="20220706184000 +0000" channel="Stod2Sport3.is">
+    <title lang="is">Sampdoria - Empoli</title>
+    <desc lang="is">Útsending frá leik Sampdoria og Empoli í ítölsku úrvalsdeildinni.(n)</desc>
   </programme>
-  <programme start="20220705175500 +0000" stop="20220705193500 +0000" channel="Stod2Sport3.is">
-    <title lang="is">Salernitana - Spezia</title>
-    <desc lang="is">Útsending frá leik Salernitana og Spezia í ítölsku úrvalsdeildinni.(n)</desc>
+  <programme start="20220706184000 +0000" stop="20220706202000 +0000" channel="Stod2Sport3.is">
+    <title lang="is">Roma - Hellas Verona</title>
+    <desc lang="is">Útsending frá leik Roma og Hellas Verona í ítölsku úrvalsdeildinni.(n)</desc>
   </programme>
-  <programme start="20220705193500 +0000" stop="20220705212000 +0000" channel="Stod2Sport3.is">
-    <title lang="is">Juventus - Torino</title>
-    <desc lang="is">Útsending frá leik Juventus og Torino í ítölsku úrvalsdeildinni.(n)</desc>
+  <programme start="20220706202000 +0000" stop="20220706220500 +0000" channel="Stod2Sport3.is">
+    <title lang="is">Salernitana - AC Milan</title>
+    <desc lang="is">Útsending frá leik Salernitana og AC Milan í ítölsku úrvalsdeildinni.(n)</desc>
   </programme>
-  <programme start="20220705212000 +0000" stop="20220705230000 +0000" channel="Stod2Sport3.is">
-    <title lang="is">Manchester United - Villarreal</title>
-    <desc lang="is">Útsending frá leik Manchester United og Villarreal í UEFA Youth League.(n)</desc>
+  <programme start="20220706220500 +0000" stop="20220706234000 +0000" channel="Stod2Sport3.is">
+    <title lang="is">Ajax - Borussia Dortmund</title>
+    <desc lang="is">Útsending frá leik Ajax og Borussia Dortmund í UEFA Youth League.(n)</desc>
   </programme>
-  <programme start="20220705230000 +0000" stop="20220706004000 +0000" channel="Stod2Sport3.is">
-    <title lang="is">Juventus - Chelsea</title>
-    <desc lang="is">Útsending frá leik Juventus og Chelsea í UEFA Youth League.(n)</desc>
+  <programme start="20220706234000 +0000" stop="20220707011000 +0000" channel="Stod2Sport3.is">
+    <title lang="is">Atletico Madrid - Liverpool</title>
+    <desc lang="is">Útsending frá leik Atletico Madrid og Liverpool í UEFA Youth League.(n)</desc>
   </programme>
-  <programme start="20220705084000 +0000" stop="20220705133500 +0000" channel="Stod2Sport4.is">
-    <title lang="is">John Deere Classic</title>
-    <desc lang="is">Útsending frá John Deere Classic á PGA Tour mótaröðinni 2022.(n)</desc>
+  <programme start="20220706083000 +0000" stop="20220706120000 +0000" channel="Stod2Sport4.is">
+    <title lang="is">Founders Cup</title>
+    <desc lang="is">Útsending frá Founders Cup á LPGA mótaröðinni 2022.(n)</desc>
   </programme>
-  <programme start="20220705133500 +0000" stop="20220705184500 +0000" channel="Stod2Sport4.is">
-    <title lang="is">John Deere Classic</title>
-    <desc lang="is">Útsending frá John Deere Classic á PGA Tour mótaröðinni 2022.(n)</desc>
+  <programme start="20220706120000 +0000" stop="20220706150000 +0000" channel="Stod2Sport4.is">
+    <title lang="is">Bank of Hope Match Play</title>
+    <desc lang="is">Útsending frá Bank of Hope Match Play á LPGA mótaröðinni 2022.(n)</desc>
   </programme>
-  <programme start="20220705184500 +0000" stop="20220705200000 +0000" channel="Stod2Sport4.is">
-    <title lang="is">Fram - Valur: Leikur 1</title>
-    <desc lang="is">Útsending frá leik Fram og Vals í fyrstu umferð lokaúrslita Olís deildar kvenna. Frumsýnt 20. maí 2022.(n)</desc>
+  <programme start="20220706150000 +0000" stop="20220706183500 +0000" channel="Stod2Sport4.is">
+    <title lang="is">ShopRite LPGA Classic</title>
+    <desc lang="is">Útsending frá ShopRite LPGA Classic á LPGA mótaröðinni 2022.(n)</desc>
   </programme>
-  <programme start="20220705200000 +0000" stop="20220705212000 +0000" channel="Stod2Sport4.is">
-    <title lang="is">Valur - Fram: Leikur 2</title>
-    <desc lang="is">Útsending frá leik Vals og Fram í annarri umferð lokaúrslita Olís deildar kvenna. Frumsýnt 23. maí 2022.(n)</desc>
-  </programme>
-  <programme start="20220705212000 +0000" stop="20220705224000 +0000" channel="Stod2Sport4.is">
-    <title lang="is">Fram - Valur: Leikur 3</title>
-    <desc lang="is">Útsending frá leik Fram og Vals í þriðju umferð lokaúrslita Olís deildar kvenna. Frumsýnt 26. maí 2022.(n)</desc>
-  </programme>
-  <programme start="20220705224000 +0000" stop="20220706001000 +0000" channel="Stod2Sport4.is">
-    <title lang="is">Valur - Fram: Leikur 4</title>
-    <desc lang="is">Útsending frá leik Vals og Fram í fjórðu umferð lokaúrslita Olís deildar kvenna. Frumsýnt 29. maí 2022.(n)</desc>
-  </programme>
-  <programme start="20220705074000 +0000" stop="20220705083500 +0000" channel="Stod2Golf.is">
-    <title lang="is">John Deer Classic</title>
-    <desc lang="is">Hápunktarnir á PGA mótunum 2022.(n)</desc>
-  </programme>
-  <programme start="20220705083500 +0000" stop="20220705130000 +0000" channel="Stod2Golf.is">
-    <title lang="is">Irish Open</title>
-    <desc lang="is">Útsending frá Irish Open á DP World mótaröðinni 2022.(n)</desc>
-  </programme>
-  <programme start="20220705130000 +0000" stop="20220705183000 +0000" channel="Stod2Golf.is">
+  <programme start="20220706183500 +0000" stop="20220707000500 +0000" channel="Stod2Sport4.is">
     <title lang="is">JP McManus Pro-Am</title>
-    <desc lang="is">Bein útsending frá JP McManus Pro-Am mótinu sem fram fer á Adare Manor á Írlandi.(n)</desc>
+    <desc lang="is">Útsending frá JP McManus Pro-Am mótinu sem fram fer á Adare Manor á Írlandi.(n)</desc>
   </programme>
-  <programme start="20220705183000 +0000" stop="20220705185000 +0000" channel="Stod2Golf.is">
-    <title lang="is">Irish Open</title>
-    <desc lang="is">Hápunktarnir frá Evrópumótaröðinni 2022.(n)</desc>
+  <programme start="20220706072000 +0000" stop="20220706123000 +0000" channel="Stod2Golf.is">
+    <title lang="is">US Senior Open</title>
+    <desc lang="is">Útsending frá Opna bandaríska meistaramóti eldri kylfinga 2022.(n)</desc>
   </programme>
-  <programme start="20220705185000 +0000" stop="20220705232000 +0000" channel="Stod2Golf.is">
-    <title lang="is">Irish Open</title>
-    <desc lang="is">Útsending frá Irish Open á DP World mótaröðinni 2022.(n)</desc>
+  <programme start="20220706123000 +0000" stop="20220706153000 +0000" channel="Stod2Golf.is">
+    <title lang="is">Amundi German Masters</title>
+    <desc lang="is">Útsending frá Amundi German Masters á LET Tour mótaröðinni 2022.(n)</desc>
   </programme>
-  <programme start="20220705232000 +0000" stop="20220705234500 +0000" channel="Stod2Golf.is">
-    <title lang="is">Irish Open</title>
-    <desc lang="is">Hápunktarnir frá Evrópumótaröðinni 2022.(n)</desc>
+  <programme start="20220706153000 +0000" stop="20220706195000 +0000" channel="Stod2Golf.is">
+    <title lang="is">Amundi German Masters</title>
+    <desc lang="is">Útsending frá Amundi German Masters á LET Tour mótaröðinni 2022.(n)</desc>
   </programme>
-  <programme start="20220705234500 +0000" stop="20220706004000 +0000" channel="Stod2Golf.is">
-    <title lang="is">John Deer Classic</title>
-    <desc lang="is">Hápunktarnir á PGA mótunum 2022.(n)</desc>
+  <programme start="20220706195000 +0000" stop="20220706235000 +0000" channel="Stod2Golf.is">
+    <title lang="is">Amundi German Masters</title>
+    <desc lang="is">Útsending frá Amundi German Masters á LET Tour mótaröðinni 2022.(n)</desc>
   </programme>
-  <programme start="20220705000000 +0000" stop="20220705003000 +0000" channel="Hringbraut.is">
-    <title lang="is">Fjallaskálar Íslands (e)</title>
-    <desc lang="is">Fjallaskálar Íslands er heillandi heimildaþáttur um landnám Íslendinga upp til fjalla og inni í óbyggðum.(n)</desc>
+  <programme start="20220706235000 +0000" stop="20220707004000 +0000" channel="Stod2Golf.is">
+    <title lang="is">Amundi German Masters</title>
+    <desc lang="is">Hápunktarnir frá Ladies European Tour 2022.(n)</desc>
   </programme>
-  <programme start="20220705003000 +0000" stop="20220705010000 +0000" channel="Hringbraut.is">
-    <title lang="is">Fréttavaktin (e)</title>
-    <desc lang="is">Fréttir dagsins í opinni dagskrá.(n)</desc>
-  </programme>
-  <programme start="20220705010000 +0000" stop="20220705013000 +0000" channel="Hringbraut.is">
-    <title lang="is">Lengjudeildarmörkin (e)</title>
-    <desc lang="is">Hörður og Hrafnkell fara yfir úrslit og mörk í Lengjudeild karla í knattspyrnu.(n)</desc>
-  </programme>
-  <programme start="20220705013000 +0000" stop="20220705020000 +0000" channel="Hringbraut.is">
-    <title lang="is">Undir yfirborðið (e)</title>
-    <desc lang="is">Ásdís Olsen fjallar hispurslaus um mennskuna, tilgang lífsins og leitina að hamingjunni og varpar ljósi á allt sem er falið og fordæmt.(n)</desc>
-  </programme>
-  <programme start="20220705020000 +0000" stop="20220705023000 +0000" channel="Hringbraut.is">
-    <title lang="is">Fjallaskálar Íslands (e)</title>
-    <desc lang="is">Fjallaskálar Íslands er heillandi heimildaþáttur um landnám Íslendinga upp til fjalla og inni í óbyggðum.(n)</desc>
-  </programme>
-  <programme start="20220705023000 +0000" stop="20220705030000 +0000" channel="Hringbraut.is">
-    <title lang="is">Fréttavaktin (e)</title>
-    <desc lang="is">Fréttir dagsins í opinni dagskrá.(n)</desc>
-  </programme>
-  <programme start="20220705030000 +0000" stop="20220705033000 +0000" channel="Hringbraut.is">
-    <title lang="is">Lengjudeildarmörkin (e)</title>
-    <desc lang="is">Hörður og Hrafnkell fara yfir úrslit og mörk í Lengjudeild karla í knattspyrnu.(n)</desc>
-  </programme>
-  <programme start="20220705033000 +0000" stop="20220705040000 +0000" channel="Hringbraut.is">
-    <title lang="is">Undir yfirborðið (e)</title>
-    <desc lang="is">Ásdís Olsen fjallar hispurslaus um mennskuna, tilgang lífsins og leitina að hamingjunni og varpar ljósi á allt sem er falið og fordæmt.(n)</desc>
-  </programme>
-  <programme start="20220705040000 +0000" stop="20220705043000 +0000" channel="Hringbraut.is">
-    <title lang="is">Fjallaskálar Íslands (e)</title>
-    <desc lang="is">Fjallaskálar Íslands er heillandi heimildaþáttur um landnám Íslendinga upp til fjalla og inni í óbyggðum.(n)</desc>
-  </programme>
-  <programme start="20220705043000 +0000" stop="20220705050000 +0000" channel="Hringbraut.is">
-    <title lang="is">Fréttavaktin (e)</title>
-    <desc lang="is">Fréttir dagsins í opinni dagskrá.(n)</desc>
-  </programme>
-  <programme start="20220705050000 +0000" stop="20220705053000 +0000" channel="Hringbraut.is">
-    <title lang="is">Lengjudeildarmörkin (e)</title>
-    <desc lang="is">Hörður og Hrafnkell fara yfir úrslit og mörk í Lengjudeild karla í knattspyrnu.(n)</desc>
-  </programme>
-  <programme start="20220705053000 +0000" stop="20220705060000 +0000" channel="Hringbraut.is">
-    <title lang="is">Undir yfirborðið (e)</title>
-    <desc lang="is">Ásdís Olsen fjallar hispurslaus um mennskuna, tilgang lífsins og leitina að hamingjunni og varpar ljósi á allt sem er falið og fordæmt.(n)</desc>
-  </programme>
-  <programme start="20220705060000 +0000" stop="20220705063000 +0000" channel="Hringbraut.is">
-    <title lang="is">Fjallaskálar Íslands (e)</title>
-    <desc lang="is">Fjallaskálar Íslands er heillandi heimildaþáttur um landnám Íslendinga upp til fjalla og inni í óbyggðum.(n)</desc>
-  </programme>
-  <programme start="20220705063000 +0000" stop="20220705070000 +0000" channel="Hringbraut.is">
-    <title lang="is">Fréttavaktin (e)</title>
-    <desc lang="is">Fréttir dagsins í opinni dagskrá.(n)</desc>
-  </programme>
-  <programme start="20220705070000 +0000" stop="20220705073000 +0000" channel="Hringbraut.is">
-    <title lang="is">Lengjudeildarmörkin (e)</title>
-    <desc lang="is">Hörður og Hrafnkell fara yfir úrslit og mörk í Lengjudeild karla í knattspyrnu.(n)</desc>
-  </programme>
-  <programme start="20220705073000 +0000" stop="20220705080000 +0000" channel="Hringbraut.is">
-    <title lang="is">Undir yfirborðið (e)</title>
-    <desc lang="is">Ásdís Olsen fjallar hispurslaus um mennskuna, tilgang lífsins og leitina að hamingjunni og varpar ljósi á allt sem er falið og fordæmt.(n)</desc>
-  </programme>
-  <programme start="20220705080000 +0000" stop="20220705083000 +0000" channel="Hringbraut.is">
-    <title lang="is">Fjallaskálar Íslands (e)</title>
-    <desc lang="is">Fjallaskálar Íslands er heillandi heimildaþáttur um landnám Íslendinga upp til fjalla og inni í óbyggðum.(n)</desc>
-  </programme>
-  <programme start="20220705083000 +0000" stop="20220705090000 +0000" channel="Hringbraut.is">
-    <title lang="is">Fréttavaktin (e)</title>
-    <desc lang="is">Fréttir dagsins í opinni dagskrá.(n)</desc>
-  </programme>
-  <programme start="20220705090000 +0000" stop="20220705093000 +0000" channel="Hringbraut.is">
-    <title lang="is">Lengjudeildarmörkin (e)</title>
-    <desc lang="is">Hörður og Hrafnkell fara yfir úrslit og mörk í Lengjudeild karla í knattspyrnu.(n)</desc>
-  </programme>
-  <programme start="20220705093000 +0000" stop="20220705100000 +0000" channel="Hringbraut.is">
-    <title lang="is">Undir yfirborðið (e)</title>
-    <desc lang="is">Ásdís Olsen fjallar hispurslaus um mennskuna, tilgang lífsins og leitina að hamingjunni og varpar ljósi á allt sem er falið og fordæmt.(n)</desc>
-  </programme>
-  <programme start="20220705100000 +0000" stop="20220705103000 +0000" channel="Hringbraut.is">
-    <title lang="is">Fjallaskálar Íslands (e)</title>
-    <desc lang="is">Fjallaskálar Íslands er heillandi heimildaþáttur um landnám Íslendinga upp til fjalla og inni í óbyggðum.(n)</desc>
-  </programme>
-  <programme start="20220705103000 +0000" stop="20220705110000 +0000" channel="Hringbraut.is">
-    <title lang="is">Fréttavaktin (e)</title>
-    <desc lang="is">Fréttir dagsins í opinni dagskrá.(n)</desc>
-  </programme>
-  <programme start="20220705110000 +0000" stop="20220705113000 +0000" channel="Hringbraut.is">
-    <title lang="is">Lengjudeildarmörkin (e)</title>
-    <desc lang="is">Hörður og Hrafnkell fara yfir úrslit og mörk í Lengjudeild karla í knattspyrnu.(n)</desc>
-  </programme>
-  <programme start="20220705113000 +0000" stop="20220705120000 +0000" channel="Hringbraut.is">
-    <title lang="is">Undir yfirborðið (e)</title>
-    <desc lang="is">Ásdís Olsen fjallar hispurslaus um mennskuna, tilgang lífsins og leitina að hamingjunni og varpar ljósi á allt sem er falið og fordæmt.(n)</desc>
-  </programme>
-  <programme start="20220705120000 +0000" stop="20220705123000 +0000" channel="Hringbraut.is">
-    <title lang="is">Fjallaskálar Íslands (e)</title>
-    <desc lang="is">Fjallaskálar Íslands er heillandi heimildaþáttur um landnám Íslendinga upp til fjalla og inni í óbyggðum.(n)</desc>
-  </programme>
-  <programme start="20220705123000 +0000" stop="20220705130000 +0000" channel="Hringbraut.is">
-    <title lang="is">Fréttavaktin (e)</title>
-    <desc lang="is">Fréttir dagsins í opinni dagskrá.(n)</desc>
-  </programme>
-  <programme start="20220705130000 +0000" stop="20220705133000 +0000" channel="Hringbraut.is">
-    <title lang="is">Lengjudeildarmörkin (e)</title>
-    <desc lang="is">Hörður og Hrafnkell fara yfir úrslit og mörk í Lengjudeild karla í knattspyrnu.(n)</desc>
-  </programme>
-  <programme start="20220705133000 +0000" stop="20220705140000 +0000" channel="Hringbraut.is">
-    <title lang="is">Undir yfirborðið (e)</title>
-    <desc lang="is">Ásdís Olsen fjallar hispurslaus um mennskuna, tilgang lífsins og leitina að hamingjunni og varpar ljósi á allt sem er falið og fordæmt.(n)</desc>
-  </programme>
-  <programme start="20220705140000 +0000" stop="20220705143000 +0000" channel="Hringbraut.is">
-    <title lang="is">Fjallaskálar Íslands (e)</title>
-    <desc lang="is">Fjallaskálar Íslands er heillandi heimildaþáttur um landnám Íslendinga upp til fjalla og inni í óbyggðum.(n)</desc>
-  </programme>
-  <programme start="20220705143000 +0000" stop="20220705150000 +0000" channel="Hringbraut.is">
-    <title lang="is">Fréttavaktin (e)</title>
-    <desc lang="is">Fréttir dagsins í opinni dagskrá.(n)</desc>
-  </programme>
-  <programme start="20220705150000 +0000" stop="20220705153000 +0000" channel="Hringbraut.is">
-    <title lang="is">Lengjudeildarmörkin (e)</title>
-    <desc lang="is">Hörður og Hrafnkell fara yfir úrslit og mörk í Lengjudeild karla í knattspyrnu.(n)</desc>
-  </programme>
-  <programme start="20220705153000 +0000" stop="20220705160000 +0000" channel="Hringbraut.is">
-    <title lang="is">Undir yfirborðið (e)</title>
-    <desc lang="is">Ásdís Olsen fjallar hispurslaus um mennskuna, tilgang lífsins og leitina að hamingjunni og varpar ljósi á allt sem er falið og fordæmt.(n)</desc>
-  </programme>
-  <programme start="20220705160000 +0000" stop="20220705163000 +0000" channel="Hringbraut.is">
-    <title lang="is">Fjallaskálar Íslands (e)</title>
-    <desc lang="is">Fjallaskálar Íslands er heillandi heimildaþáttur um landnám Íslendinga upp til fjalla og inni í óbyggðum.(n)</desc>
-  </programme>
-  <programme start="20220705163000 +0000" stop="20220705170000 +0000" channel="Hringbraut.is">
-    <title lang="is">Fréttavaktin (e)</title>
-    <desc lang="is">Fréttir dagsins í opinni dagskrá.(n)</desc>
-  </programme>
-  <programme start="20220705170000 +0000" stop="20220705173000 +0000" channel="Hringbraut.is">
-    <title lang="is">Lengjudeildarmörkin (e)</title>
-    <desc lang="is">Hörður og Hrafnkell fara yfir úrslit og mörk í Lengjudeild karla í knattspyrnu.(n)</desc>
-  </programme>
-  <programme start="20220705173000 +0000" stop="20220705180000 +0000" channel="Hringbraut.is">
-    <title lang="is">Undir yfirborðið (e)</title>
-    <desc lang="is">Ásdís Olsen fjallar hispurslaus um mennskuna, tilgang lífsins og leitina að hamingjunni og varpar ljósi á allt sem er falið og fordæmt.(n)</desc>
-  </programme>
-  <programme start="20220705180000 +0000" stop="20220705183000 +0000" channel="Hringbraut.is">
-    <title lang="is">Fjallaskálar Íslands (e)</title>
-    <desc lang="is">Fjallaskálar Íslands er heillandi heimildaþáttur um landnám Íslendinga upp til fjalla og inni í óbyggðum.(n)</desc>
-  </programme>
-  <programme start="20220705183000 +0000" stop="20220705190000 +0000" channel="Hringbraut.is">
-    <title lang="is">Fréttavaktin</title>
-    <desc lang="is">Fréttir dagsins í opinni dagskrá.(n)</desc>
-  </programme>
-  <programme start="20220705190000 +0000" stop="20220705193000 +0000" channel="Hringbraut.is">
-    <title lang="is">Lengjudeildin í beinni</title>
-    <desc lang="is">Bein útsending frá leik í Lengjudeildinni.(n)</desc>
-  </programme>
-  <programme start="20220705193000 +0000" stop="20220705200000 +0000" channel="Hringbraut.is">
-    <title lang="is">Lengjudeildin í beinni</title>
-    <desc lang="is">Bein útsending frá leik í Lengjudeildinni.(n)</desc>
-  </programme>
-  <programme start="20220705200000 +0000" stop="20220705203000 +0000" channel="Hringbraut.is">
-    <title lang="is">Lengjudeildin í beinni</title>
-    <desc lang="is">Bein útsending frá leik í Lengjudeildinni.(n)</desc>
-  </programme>
-  <programme start="20220705203000 +0000" stop="20220705210000 +0000" channel="Hringbraut.is">
-    <title lang="is">Lengjudeildin í beinni</title>
-    <desc lang="is">Bein útsending frá leik í Lengjudeildinni.(n)</desc>
-  </programme>
-  <programme start="20220705210000 +0000" stop="20220705213000 +0000" channel="Hringbraut.is">
-    <title lang="is">Matur og heimili</title>
-    <desc lang="is">Sjöfn Þórðar fjallar um matargerð í bland við íslenska hönnun og fjölbreyttan lífsstíl.(n)</desc>
-  </programme>
-  <programme start="20220705213000 +0000" stop="20220705220000 +0000" channel="Hringbraut.is">
-    <title lang="is">Útkall (e)</title>
-    <desc lang="is">Útkall er sjónvarpsútgáfan af sívinsælum og samnefndum bókaflokki Óttars Sveinssonar.(n)</desc>
-  </programme>
-  <programme start="20220705220000 +0000" stop="20220705223000 +0000" channel="Hringbraut.is">
+  <programme start="20220706000000 +0000" stop="20220706003000 +0000" channel="Hringbraut.is">
     <title lang="is">Eimskip (e)</title>
     <desc lang="is">Eimskip í nútímanum er umfjöllunarefni tveggja þátta þar sem farið er m.a. í siglingu með Brúarfossi.  Umsjón: Linda Blöndal og Börkur Gunnarsson.(n)</desc>
   </programme>
-  <programme start="20220705223000 +0000" stop="20220705230000 +0000" channel="Hringbraut.is">
+  <programme start="20220706003000 +0000" stop="20220706010000 +0000" channel="Hringbraut.is">
     <title lang="is">Fréttavaktin (e)</title>
     <desc lang="is">Fréttir dagsins í opinni dagskrá.(n)</desc>
   </programme>
-  <programme start="20220705230000 +0000" stop="20220705233000 +0000" channel="Hringbraut.is">
+  <programme start="20220706010000 +0000" stop="20220706013000 +0000" channel="Hringbraut.is">
     <title lang="is">Matur og heimili (e)</title>
     <desc lang="is">Sjöfn Þórðar fjallar um matargerð í bland við íslenska hönnun og fjölbreyttan lífsstíl.(n)</desc>
   </programme>
-  <programme start="20220705000000 +0000" stop="20220705003000 +0000" channel="N4.is">
-    <title lang="is">Að Vestan Vestfirðir (e) - 3. þáttur</title>
-    <desc lang="is">"Hvernig gengur í golfinu fyrir vestan ?  Hvað er Flak á Patró ? Hvað veistu um Sauðfjársetrið á Ströndum og hvernig smakkast Dokkubjórinn ?
-".(n)</desc>
+  <programme start="20220706013000 +0000" stop="20220706020000 +0000" channel="Hringbraut.is">
+    <title lang="is">Útkall (e)</title>
+    <desc lang="is">Útkall er sjónvarpsútgáfan af sívinsælum og samnefndum bókaflokki Óttars Sveinssonar.(n)</desc>
   </programme>
-  <programme start="20220705003000 +0000" stop="20220705010000 +0000" channel="N4.is">
-    <title lang="is">Kvöldkaffi - 6. þáttur</title>
-    <desc lang="is">"Sigurbjörn Árni Arngrímsson skólameistari á Laugum er gestur Rakelar Hinriksdóttur í þætti kvöldsins.
-".(n)</desc>
+  <programme start="20220706020000 +0000" stop="20220706023000 +0000" channel="Hringbraut.is">
+    <title lang="is">Eimskip (e)</title>
+    <desc lang="is">Eimskip í nútímanum er umfjöllunarefni tveggja þátta þar sem farið er m.a. í siglingu með Brúarfossi.  Umsjón: Linda Blöndal og Börkur Gunnarsson.(n)</desc>
   </programme>
-  <programme start="20220705010000 +0000" stop="20220705013000 +0000" channel="N4.is">
-    <title lang="is">Að Vestan Vestfirðir (e) - 3. þáttur</title>
-    <desc lang="is">"Hvernig gengur í golfinu fyrir vestan ?  Hvað er Flak á Patró ? Hvað veistu um Sauðfjársetrið á Ströndum og hvernig smakkast Dokkubjórinn ?
-".(n)</desc>
+  <programme start="20220706023000 +0000" stop="20220706030000 +0000" channel="Hringbraut.is">
+    <title lang="is">Fréttavaktin (e)</title>
+    <desc lang="is">Fréttir dagsins í opinni dagskrá.(n)</desc>
   </programme>
-  <programme start="20220705013000 +0000" stop="20220705020000 +0000" channel="N4.is">
-    <title lang="is">Kvöldkaffi - 6. þáttur</title>
-    <desc lang="is">"Sigurbjörn Árni Arngrímsson skólameistari á Laugum er gestur Rakelar Hinriksdóttur í þætti kvöldsins.
-".(n)</desc>
+  <programme start="20220706030000 +0000" stop="20220706033000 +0000" channel="Hringbraut.is">
+    <title lang="is">Matur og heimili (e)</title>
+    <desc lang="is">Sjöfn Þórðar fjallar um matargerð í bland við íslenska hönnun og fjölbreyttan lífsstíl.(n)</desc>
   </programme>
-  <programme start="20220705020000 +0000" stop="20220705023000 +0000" channel="N4.is">
-    <title lang="is">Að Vestan Vestfirðir (e) - 3. þáttur</title>
-    <desc lang="is">"Hvernig gengur í golfinu fyrir vestan ?  Hvað er Flak á Patró ? Hvað veistu um Sauðfjársetrið á Ströndum og hvernig smakkast Dokkubjórinn ?
-".(n)</desc>
+  <programme start="20220706033000 +0000" stop="20220706040000 +0000" channel="Hringbraut.is">
+    <title lang="is">Útkall (e)</title>
+    <desc lang="is">Útkall er sjónvarpsútgáfan af sívinsælum og samnefndum bókaflokki Óttars Sveinssonar.(n)</desc>
   </programme>
-  <programme start="20220705023000 +0000" stop="20220705030000 +0000" channel="N4.is">
-    <title lang="is">Kvöldkaffi - 6. þáttur</title>
-    <desc lang="is">"Sigurbjörn Árni Arngrímsson skólameistari á Laugum er gestur Rakelar Hinriksdóttur í þætti kvöldsins.
-".(n)</desc>
+  <programme start="20220706040000 +0000" stop="20220706043000 +0000" channel="Hringbraut.is">
+    <title lang="is">Eimskip (e)</title>
+    <desc lang="is">Eimskip í nútímanum er umfjöllunarefni tveggja þátta þar sem farið er m.a. í siglingu með Brúarfossi.  Umsjón: Linda Blöndal og Börkur Gunnarsson.(n)</desc>
   </programme>
-  <programme start="20220705030000 +0000" stop="20220705033000 +0000" channel="N4.is">
-    <title lang="is">Að Vestan Vestfirðir (e) - 3. þáttur</title>
-    <desc lang="is">"Hvernig gengur í golfinu fyrir vestan ?  Hvað er Flak á Patró ? Hvað veistu um Sauðfjársetrið á Ströndum og hvernig smakkast Dokkubjórinn ?
-".(n)</desc>
+  <programme start="20220706043000 +0000" stop="20220706050000 +0000" channel="Hringbraut.is">
+    <title lang="is">Fréttavaktin (e)</title>
+    <desc lang="is">Fréttir dagsins í opinni dagskrá.(n)</desc>
   </programme>
-  <programme start="20220705033000 +0000" stop="20220705040000 +0000" channel="N4.is">
-    <title lang="is">Kvöldkaffi - 6. þáttur</title>
-    <desc lang="is">"Sigurbjörn Árni Arngrímsson skólameistari á Laugum er gestur Rakelar Hinriksdóttur í þætti kvöldsins.
-".(n)</desc>
+  <programme start="20220706050000 +0000" stop="20220706053000 +0000" channel="Hringbraut.is">
+    <title lang="is">Matur og heimili (e)</title>
+    <desc lang="is">Sjöfn Þórðar fjallar um matargerð í bland við íslenska hönnun og fjölbreyttan lífsstíl.(n)</desc>
   </programme>
-  <programme start="20220705040000 +0000" stop="20220705043000 +0000" channel="N4.is">
-    <title lang="is">Að Vestan Vestfirðir (e) - 3. þáttur</title>
-    <desc lang="is">"Hvernig gengur í golfinu fyrir vestan ?  Hvað er Flak á Patró ? Hvað veistu um Sauðfjársetrið á Ströndum og hvernig smakkast Dokkubjórinn ?
-".(n)</desc>
+  <programme start="20220706053000 +0000" stop="20220706060000 +0000" channel="Hringbraut.is">
+    <title lang="is">Útkall (e)</title>
+    <desc lang="is">Útkall er sjónvarpsútgáfan af sívinsælum og samnefndum bókaflokki Óttars Sveinssonar.(n)</desc>
   </programme>
-  <programme start="20220705043000 +0000" stop="20220705050000 +0000" channel="N4.is">
-    <title lang="is">Kvöldkaffi - 6. þáttur</title>
-    <desc lang="is">"Sigurbjörn Árni Arngrímsson skólameistari á Laugum er gestur Rakelar Hinriksdóttur í þætti kvöldsins.
-".(n)</desc>
+  <programme start="20220706060000 +0000" stop="20220706063000 +0000" channel="Hringbraut.is">
+    <title lang="is">Eimskip (e)</title>
+    <desc lang="is">Eimskip í nútímanum er umfjöllunarefni tveggja þátta þar sem farið er m.a. í siglingu með Brúarfossi.  Umsjón: Linda Blöndal og Börkur Gunnarsson.(n)</desc>
   </programme>
-  <programme start="20220705050000 +0000" stop="20220705053000 +0000" channel="N4.is">
-    <title lang="is">Að Vestan Vestfirðir (e) - 3. þáttur</title>
-    <desc lang="is">"Hvernig gengur í golfinu fyrir vestan ?  Hvað er Flak á Patró ? Hvað veistu um Sauðfjársetrið á Ströndum og hvernig smakkast Dokkubjórinn ?
-".(n)</desc>
+  <programme start="20220706063000 +0000" stop="20220706070000 +0000" channel="Hringbraut.is">
+    <title lang="is">Fréttavaktin (e)</title>
+    <desc lang="is">Fréttir dagsins í opinni dagskrá.(n)</desc>
   </programme>
-  <programme start="20220705053000 +0000" stop="20220705060000 +0000" channel="N4.is">
-    <title lang="is">Kvöldkaffi - 6. þáttur</title>
-    <desc lang="is">"Sigurbjörn Árni Arngrímsson skólameistari á Laugum er gestur Rakelar Hinriksdóttur í þætti kvöldsins.
-".(n)</desc>
+  <programme start="20220706070000 +0000" stop="20220706073000 +0000" channel="Hringbraut.is">
+    <title lang="is">Matur og heimili (e)</title>
+    <desc lang="is">Sjöfn Þórðar fjallar um matargerð í bland við íslenska hönnun og fjölbreyttan lífsstíl.(n)</desc>
   </programme>
-  <programme start="20220705060000 +0000" stop="20220705063000 +0000" channel="N4.is">
-    <title lang="is">Að Vestan Vestfirðir (e) - 3. þáttur</title>
-    <desc lang="is">"Hvernig gengur í golfinu fyrir vestan ?  Hvað er Flak á Patró ? Hvað veistu um Sauðfjársetrið á Ströndum og hvernig smakkast Dokkubjórinn ?
-".(n)</desc>
+  <programme start="20220706073000 +0000" stop="20220706080000 +0000" channel="Hringbraut.is">
+    <title lang="is">Útkall (e)</title>
+    <desc lang="is">Útkall er sjónvarpsútgáfan af sívinsælum og samnefndum bókaflokki Óttars Sveinssonar.(n)</desc>
   </programme>
-  <programme start="20220705063000 +0000" stop="20220705070000 +0000" channel="N4.is">
-    <title lang="is">Kvöldkaffi - 6. þáttur</title>
-    <desc lang="is">"Sigurbjörn Árni Arngrímsson skólameistari á Laugum er gestur Rakelar Hinriksdóttur í þætti kvöldsins.
-".(n)</desc>
+  <programme start="20220706080000 +0000" stop="20220706083000 +0000" channel="Hringbraut.is">
+    <title lang="is">Eimskip (e)</title>
+    <desc lang="is">Eimskip í nútímanum er umfjöllunarefni tveggja þátta þar sem farið er m.a. í siglingu með Brúarfossi.  Umsjón: Linda Blöndal og Börkur Gunnarsson.(n)</desc>
   </programme>
-  <programme start="20220705070000 +0000" stop="20220705073000 +0000" channel="N4.is">
-    <title lang="is">Að Vestan Vestfirðir (e) - 3. þáttur</title>
-    <desc lang="is">"Hvernig gengur í golfinu fyrir vestan ?  Hvað er Flak á Patró ? Hvað veistu um Sauðfjársetrið á Ströndum og hvernig smakkast Dokkubjórinn ?
-".(n)</desc>
+  <programme start="20220706083000 +0000" stop="20220706090000 +0000" channel="Hringbraut.is">
+    <title lang="is">Fréttavaktin (e)</title>
+    <desc lang="is">Fréttir dagsins í opinni dagskrá.(n)</desc>
   </programme>
-  <programme start="20220705073000 +0000" stop="20220705080000 +0000" channel="N4.is">
-    <title lang="is">Kvöldkaffi - 6. þáttur</title>
-    <desc lang="is">"Sigurbjörn Árni Arngrímsson skólameistari á Laugum er gestur Rakelar Hinriksdóttur í þætti kvöldsins.
-".(n)</desc>
+  <programme start="20220706090000 +0000" stop="20220706093000 +0000" channel="Hringbraut.is">
+    <title lang="is">Matur og heimili (e)</title>
+    <desc lang="is">Sjöfn Þórðar fjallar um matargerð í bland við íslenska hönnun og fjölbreyttan lífsstíl.(n)</desc>
   </programme>
-  <programme start="20220705080000 +0000" stop="20220705083000 +0000" channel="N4.is">
-    <title lang="is">Að Vestan Vestfirðir (e) - 3. þáttur</title>
-    <desc lang="is">"Hvernig gengur í golfinu fyrir vestan ?  Hvað er Flak á Patró ? Hvað veistu um Sauðfjársetrið á Ströndum og hvernig smakkast Dokkubjórinn ?
-".(n)</desc>
+  <programme start="20220706093000 +0000" stop="20220706100000 +0000" channel="Hringbraut.is">
+    <title lang="is">Útkall (e)</title>
+    <desc lang="is">Útkall er sjónvarpsútgáfan af sívinsælum og samnefndum bókaflokki Óttars Sveinssonar.(n)</desc>
   </programme>
-  <programme start="20220705083000 +0000" stop="20220705090000 +0000" channel="N4.is">
-    <title lang="is">Kvöldkaffi - 6. þáttur</title>
-    <desc lang="is">"Sigurbjörn Árni Arngrímsson skólameistari á Laugum er gestur Rakelar Hinriksdóttur í þætti kvöldsins.
-".(n)</desc>
+  <programme start="20220706100000 +0000" stop="20220706103000 +0000" channel="Hringbraut.is">
+    <title lang="is">Eimskip (e)</title>
+    <desc lang="is">Eimskip í nútímanum er umfjöllunarefni tveggja þátta þar sem farið er m.a. í siglingu með Brúarfossi.  Umsjón: Linda Blöndal og Börkur Gunnarsson.(n)</desc>
   </programme>
-  <programme start="20220705090000 +0000" stop="20220705093000 +0000" channel="N4.is">
-    <title lang="is">Að Vestan Vestfirðir (e) - 3. þáttur</title>
-    <desc lang="is">"Hvernig gengur í golfinu fyrir vestan ?  Hvað er Flak á Patró ? Hvað veistu um Sauðfjársetrið á Ströndum og hvernig smakkast Dokkubjórinn ?
-".(n)</desc>
+  <programme start="20220706103000 +0000" stop="20220706110000 +0000" channel="Hringbraut.is">
+    <title lang="is">Fréttavaktin (e)</title>
+    <desc lang="is">Fréttir dagsins í opinni dagskrá.(n)</desc>
   </programme>
-  <programme start="20220705093000 +0000" stop="20220705100000 +0000" channel="N4.is">
-    <title lang="is">Kvöldkaffi - 6. þáttur</title>
-    <desc lang="is">"Sigurbjörn Árni Arngrímsson skólameistari á Laugum er gestur Rakelar Hinriksdóttur í þætti kvöldsins.
-".(n)</desc>
+  <programme start="20220706110000 +0000" stop="20220706113000 +0000" channel="Hringbraut.is">
+    <title lang="is">Matur og heimili (e)</title>
+    <desc lang="is">Sjöfn Þórðar fjallar um matargerð í bland við íslenska hönnun og fjölbreyttan lífsstíl.(n)</desc>
   </programme>
-  <programme start="20220705100000 +0000" stop="20220705103000 +0000" channel="N4.is">
-    <title lang="is">Að Vestan Vestfirðir (e) - 3. þáttur</title>
-    <desc lang="is">"Hvernig gengur í golfinu fyrir vestan ?  Hvað er Flak á Patró ? Hvað veistu um Sauðfjársetrið á Ströndum og hvernig smakkast Dokkubjórinn ?
-".(n)</desc>
+  <programme start="20220706113000 +0000" stop="20220706120000 +0000" channel="Hringbraut.is">
+    <title lang="is">Útkall (e)</title>
+    <desc lang="is">Útkall er sjónvarpsútgáfan af sívinsælum og samnefndum bókaflokki Óttars Sveinssonar.(n)</desc>
   </programme>
-  <programme start="20220705103000 +0000" stop="20220705110000 +0000" channel="N4.is">
-    <title lang="is">Kvöldkaffi - 6. þáttur</title>
-    <desc lang="is">"Sigurbjörn Árni Arngrímsson skólameistari á Laugum er gestur Rakelar Hinriksdóttur í þætti kvöldsins.
-".(n)</desc>
+  <programme start="20220706120000 +0000" stop="20220706123000 +0000" channel="Hringbraut.is">
+    <title lang="is">Eimskip (e)</title>
+    <desc lang="is">Eimskip í nútímanum er umfjöllunarefni tveggja þátta þar sem farið er m.a. í siglingu með Brúarfossi.  Umsjón: Linda Blöndal og Börkur Gunnarsson.(n)</desc>
   </programme>
-  <programme start="20220705110000 +0000" stop="20220705113000 +0000" channel="N4.is">
-    <title lang="is">Að Vestan Vestfirðir (e) - 3. þáttur</title>
-    <desc lang="is">"Hvernig gengur í golfinu fyrir vestan ?  Hvað er Flak á Patró ? Hvað veistu um Sauðfjársetrið á Ströndum og hvernig smakkast Dokkubjórinn ?
-".(n)</desc>
+  <programme start="20220706123000 +0000" stop="20220706130000 +0000" channel="Hringbraut.is">
+    <title lang="is">Fréttavaktin (e)</title>
+    <desc lang="is">Fréttir dagsins í opinni dagskrá.(n)</desc>
   </programme>
-  <programme start="20220705113000 +0000" stop="20220705120000 +0000" channel="N4.is">
-    <title lang="is">Kvöldkaffi - 6. þáttur</title>
-    <desc lang="is">"Sigurbjörn Árni Arngrímsson skólameistari á Laugum er gestur Rakelar Hinriksdóttur í þætti kvöldsins.
-".(n)</desc>
+  <programme start="20220706130000 +0000" stop="20220706133000 +0000" channel="Hringbraut.is">
+    <title lang="is">Matur og heimili (e)</title>
+    <desc lang="is">Sjöfn Þórðar fjallar um matargerð í bland við íslenska hönnun og fjölbreyttan lífsstíl.(n)</desc>
   </programme>
-  <programme start="20220705120000 +0000" stop="20220705123000 +0000" channel="N4.is">
-    <title lang="is">Að Vestan Vestfirðir (e) - 3. þáttur</title>
-    <desc lang="is">"Hvernig gengur í golfinu fyrir vestan ?  Hvað er Flak á Patró ? Hvað veistu um Sauðfjársetrið á Ströndum og hvernig smakkast Dokkubjórinn ?
-".(n)</desc>
+  <programme start="20220706133000 +0000" stop="20220706140000 +0000" channel="Hringbraut.is">
+    <title lang="is">Útkall (e)</title>
+    <desc lang="is">Útkall er sjónvarpsútgáfan af sívinsælum og samnefndum bókaflokki Óttars Sveinssonar.(n)</desc>
   </programme>
-  <programme start="20220705123000 +0000" stop="20220705130000 +0000" channel="N4.is">
-    <title lang="is">Kvöldkaffi - 6. þáttur</title>
-    <desc lang="is">"Sigurbjörn Árni Arngrímsson skólameistari á Laugum er gestur Rakelar Hinriksdóttur í þætti kvöldsins.
-".(n)</desc>
+  <programme start="20220706140000 +0000" stop="20220706143000 +0000" channel="Hringbraut.is">
+    <title lang="is">Eimskip (e)</title>
+    <desc lang="is">Eimskip í nútímanum er umfjöllunarefni tveggja þátta þar sem farið er m.a. í siglingu með Brúarfossi.  Umsjón: Linda Blöndal og Börkur Gunnarsson.(n)</desc>
   </programme>
-  <programme start="20220705130000 +0000" stop="20220705133000 +0000" channel="N4.is">
-    <title lang="is">Að Vestan Vestfirðir (e) - 3. þáttur</title>
-    <desc lang="is">"Hvernig gengur í golfinu fyrir vestan ?  Hvað er Flak á Patró ? Hvað veistu um Sauðfjársetrið á Ströndum og hvernig smakkast Dokkubjórinn ?
-".(n)</desc>
+  <programme start="20220706143000 +0000" stop="20220706150000 +0000" channel="Hringbraut.is">
+    <title lang="is">Fréttavaktin (e)</title>
+    <desc lang="is">Fréttir dagsins í opinni dagskrá.(n)</desc>
   </programme>
-  <programme start="20220705133000 +0000" stop="20220705140000 +0000" channel="N4.is">
-    <title lang="is">Kvöldkaffi - 6. þáttur</title>
-    <desc lang="is">"Sigurbjörn Árni Arngrímsson skólameistari á Laugum er gestur Rakelar Hinriksdóttur í þætti kvöldsins.
-".(n)</desc>
+  <programme start="20220706150000 +0000" stop="20220706153000 +0000" channel="Hringbraut.is">
+    <title lang="is">Matur og heimili (e)</title>
+    <desc lang="is">Sjöfn Þórðar fjallar um matargerð í bland við íslenska hönnun og fjölbreyttan lífsstíl.(n)</desc>
   </programme>
-  <programme start="20220705140000 +0000" stop="20220705143000 +0000" channel="N4.is">
-    <title lang="is">Að Vestan Vestfirðir (e) - 3. þáttur</title>
-    <desc lang="is">"Hvernig gengur í golfinu fyrir vestan ?  Hvað er Flak á Patró ? Hvað veistu um Sauðfjársetrið á Ströndum og hvernig smakkast Dokkubjórinn ?
-".(n)</desc>
+  <programme start="20220706153000 +0000" stop="20220706160000 +0000" channel="Hringbraut.is">
+    <title lang="is">Útkall (e)</title>
+    <desc lang="is">Útkall er sjónvarpsútgáfan af sívinsælum og samnefndum bókaflokki Óttars Sveinssonar.(n)</desc>
   </programme>
-  <programme start="20220705143000 +0000" stop="20220705150000 +0000" channel="N4.is">
-    <title lang="is">Kvöldkaffi - 6. þáttur</title>
-    <desc lang="is">"Sigurbjörn Árni Arngrímsson skólameistari á Laugum er gestur Rakelar Hinriksdóttur í þætti kvöldsins.
-".(n)</desc>
+  <programme start="20220706160000 +0000" stop="20220706163000 +0000" channel="Hringbraut.is">
+    <title lang="is">Eimskip (e)</title>
+    <desc lang="is">Eimskip í nútímanum er umfjöllunarefni tveggja þátta þar sem farið er m.a. í siglingu með Brúarfossi.  Umsjón: Linda Blöndal og Börkur Gunnarsson.(n)</desc>
   </programme>
-  <programme start="20220705150000 +0000" stop="20220705153000 +0000" channel="N4.is">
-    <title lang="is">Að Vestan Vestfirðir (e) - 3. þáttur</title>
-    <desc lang="is">"Hvernig gengur í golfinu fyrir vestan ?  Hvað er Flak á Patró ? Hvað veistu um Sauðfjársetrið á Ströndum og hvernig smakkast Dokkubjórinn ?
-".(n)</desc>
+  <programme start="20220706163000 +0000" stop="20220706170000 +0000" channel="Hringbraut.is">
+    <title lang="is">Fréttavaktin (e)</title>
+    <desc lang="is">Fréttir dagsins í opinni dagskrá.(n)</desc>
   </programme>
-  <programme start="20220705153000 +0000" stop="20220705160000 +0000" channel="N4.is">
-    <title lang="is">Kvöldkaffi - 6. þáttur</title>
-    <desc lang="is">"Sigurbjörn Árni Arngrímsson skólameistari á Laugum er gestur Rakelar Hinriksdóttur í þætti kvöldsins.
-".(n)</desc>
+  <programme start="20220706170000 +0000" stop="20220706173000 +0000" channel="Hringbraut.is">
+    <title lang="is">Matur og heimili (e)</title>
+    <desc lang="is">Sjöfn Þórðar fjallar um matargerð í bland við íslenska hönnun og fjölbreyttan lífsstíl.(n)</desc>
   </programme>
-  <programme start="20220705160000 +0000" stop="20220705163000 +0000" channel="N4.is">
-    <title lang="is">Að Vestan Vestfirðir (e) - 3. þáttur</title>
-    <desc lang="is">"Hvernig gengur í golfinu fyrir vestan ?  Hvað er Flak á Patró ? Hvað veistu um Sauðfjársetrið á Ströndum og hvernig smakkast Dokkubjórinn ?
-".(n)</desc>
+  <programme start="20220706173000 +0000" stop="20220706180000 +0000" channel="Hringbraut.is">
+    <title lang="is">Útkall (e)</title>
+    <desc lang="is">Útkall er sjónvarpsútgáfan af sívinsælum og samnefndum bókaflokki Óttars Sveinssonar.(n)</desc>
   </programme>
-  <programme start="20220705163000 +0000" stop="20220705170000 +0000" channel="N4.is">
-    <title lang="is">Kvöldkaffi - 6. þáttur</title>
-    <desc lang="is">"Sigurbjörn Árni Arngrímsson skólameistari á Laugum er gestur Rakelar Hinriksdóttur í þætti kvöldsins.
-".(n)</desc>
+  <programme start="20220706180000 +0000" stop="20220706183000 +0000" channel="Hringbraut.is">
+    <title lang="is">Eimskip (e)</title>
+    <desc lang="is">Eimskip í nútímanum er umfjöllunarefni tveggja þátta þar sem farið er m.a. í siglingu með Brúarfossi.  Umsjón: Linda Blöndal og Börkur Gunnarsson.(n)</desc>
   </programme>
-  <programme start="20220705170000 +0000" stop="20220705173000 +0000" channel="N4.is">
-    <title lang="is">Að Vestan Vestfirðir (e) - 3. þáttur</title>
-    <desc lang="is">"Hvernig gengur í golfinu fyrir vestan ?  Hvað er Flak á Patró ? Hvað veistu um Sauðfjársetrið á Ströndum og hvernig smakkast Dokkubjórinn ?
-".(n)</desc>
+  <programme start="20220706183000 +0000" stop="20220706190000 +0000" channel="Hringbraut.is">
+    <title lang="is">Fréttavaktin</title>
+    <desc lang="is">Fréttir dagsins í opinni dagskrá.(n)</desc>
   </programme>
-  <programme start="20220705173000 +0000" stop="20220705180000 +0000" channel="N4.is">
-    <title lang="is">Kvöldkaffi - 6. þáttur</title>
-    <desc lang="is">"Sigurbjörn Árni Arngrímsson skólameistari á Laugum er gestur Rakelar Hinriksdóttur í þætti kvöldsins.
-".(n)</desc>
+  <programme start="20220706190000 +0000" stop="20220706193000 +0000" channel="Hringbraut.is">
+    <title lang="is">Lengjudeildarmörkin</title>
+    <desc lang="is">Hörður og Hrafnkell fara yfir úrslit og mörk í Lengjudeild karla í knattspyrnu.(n)</desc>
   </programme>
-  <programme start="20220705180000 +0000" stop="20220705183000 +0000" channel="N4.is">
-    <title lang="is">Að Vestan Vestfirðir (e) - 3. þáttur</title>
-    <desc lang="is">"Hvernig gengur í golfinu fyrir vestan ?  Hvað er Flak á Patró ? Hvað veistu um Sauðfjársetrið á Ströndum og hvernig smakkast Dokkubjórinn ?
-".(n)</desc>
+  <programme start="20220706193000 +0000" stop="20220706200000 +0000" channel="Hringbraut.is">
+    <title lang="is">Veiðin með Gunnari Bender (e)</title>
+    <desc lang="is">Gunnar Bender leiðir áhorfendur að árbakkanum, og sýnir þeim allt sem við kemur veiði.(n)</desc>
   </programme>
-  <programme start="20220705183000 +0000" stop="20220705190000 +0000" channel="N4.is">
-    <title lang="is">Kvöldkaffi - 6. þáttur</title>
-    <desc lang="is">"Sigurbjörn Árni Arngrímsson skólameistari á Laugum er gestur Rakelar Hinriksdóttur í þætti kvöldsins.
-".(n)</desc>
+  <programme start="20220706200000 +0000" stop="20220706203000 +0000" channel="Hringbraut.is">
+    <title lang="is">Sir Arnar Gauti (e)</title>
+    <desc lang="is">Lífsstílsþáttur með Arnari Gauta sem fjallar um heimili, hönnun, matar- og veitingahúsamenningu, arkitektúr og margt fleira.(n)</desc>
   </programme>
-  <programme start="20220705190000 +0000" stop="20220705193000 +0000" channel="N4.is">
-    <title lang="is">Að Vestan Vestfirðir (e) - 3. þáttur</title>
-    <desc lang="is">"Hvernig gengur í golfinu fyrir vestan ?  Hvað er Flak á Patró ? Hvað veistu um Sauðfjársetrið á Ströndum og hvernig smakkast Dokkubjórinn ?
-".(n)</desc>
+  <programme start="20220706203000 +0000" stop="20220706210000 +0000" channel="Hringbraut.is">
+    <title lang="is">Fréttavaktin (e)</title>
+    <desc lang="is">Fréttir dagsins í opinni dagskrá.(n)</desc>
   </programme>
-  <programme start="20220705193000 +0000" stop="20220705200000 +0000" channel="N4.is">
-    <title lang="is">Kvöldkaffi - 6. þáttur</title>
-    <desc lang="is">"Sigurbjörn Árni Arngrímsson skólameistari á Laugum er gestur Rakelar Hinriksdóttur í þætti kvöldsins.
-".(n)</desc>
+  <programme start="20220706210000 +0000" stop="20220706213000 +0000" channel="Hringbraut.is">
+    <title lang="is">Lengjudeildarmörkin (e)</title>
+    <desc lang="is">Hörður og Hrafnkell fara yfir úrslit og mörk í Lengjudeild karla í knattspyrnu.(n)</desc>
   </programme>
-  <programme start="20220705200000 +0000" stop="20220705203000 +0000" channel="N4.is">
+  <programme start="20220706213000 +0000" stop="20220706220000 +0000" channel="Hringbraut.is">
+    <title lang="is">Veiðin með Gunnari Bender (e)</title>
+    <desc lang="is">Gunnar Bender leiðir áhorfendur að árbakkanum, og sýnir þeim allt sem við kemur veiði.(n)</desc>
+  </programme>
+  <programme start="20220706220000 +0000" stop="20220706223000 +0000" channel="Hringbraut.is">
+    <title lang="is">Sir Arnar Gauti (e)</title>
+    <desc lang="is">Lífsstílsþáttur með Arnari Gauta sem fjallar um heimili, hönnun, matar- og veitingahúsamenningu, arkitektúr og margt fleira.(n)</desc>
+  </programme>
+  <programme start="20220706223000 +0000" stop="20220706230000 +0000" channel="Hringbraut.is">
+    <title lang="is">Fréttavaktin (e)</title>
+    <desc lang="is">Fréttir dagsins í opinni dagskrá.(n)</desc>
+  </programme>
+  <programme start="20220706230000 +0000" stop="20220706233000 +0000" channel="Hringbraut.is">
+    <title lang="is">Lengjudeildarmörkin (e)</title>
+    <desc lang="is">Hörður og Hrafnkell fara yfir úrslit og mörk í Lengjudeild karla í knattspyrnu.(n)</desc>
+  </programme>
+  <programme start="20220706000000 +0000" stop="20220706003000 +0000" channel="N4.is">
     <title lang="is">Frá landsbyggðunum - 11. þáttur</title>
     <desc lang="is">Ásthildur Ómarsdóttir fer með okkur í ferðalag um landsbyggðirnar. Við sjáum brot af því besta sem N4 hefur fjallað um víðsvegar af landinu.(n)</desc>
   </programme>
-  <programme start="20220705203000 +0000" stop="20220705210000 +0000" channel="N4.is">
+  <programme start="20220706003000 +0000" stop="20220706010000 +0000" channel="N4.is">
     <title lang="is">Taktíkin (e) - 8. þáttur</title>
     <desc lang="is">"Í þessu þætti verrður reynt að svara spurningunni hvort íþróttir séu fyrir alla. Umsjón hefur Ingi Þór Ágústsson
 ".(n)</desc>
   </programme>
-  <programme start="20220705210000 +0000" stop="20220705213000 +0000" channel="N4.is">
+  <programme start="20220706010000 +0000" stop="20220706013000 +0000" channel="N4.is">
     <title lang="is">Frá landsbyggðunum - 11. þáttur</title>
     <desc lang="is">Ásthildur Ómarsdóttir fer með okkur í ferðalag um landsbyggðirnar. Við sjáum brot af því besta sem N4 hefur fjallað um víðsvegar af landinu.(n)</desc>
   </programme>
-  <programme start="20220705213000 +0000" stop="20220705220000 +0000" channel="N4.is">
+  <programme start="20220706013000 +0000" stop="20220706020000 +0000" channel="N4.is">
     <title lang="is">Taktíkin (e) - 8. þáttur</title>
     <desc lang="is">"Í þessu þætti verrður reynt að svara spurningunni hvort íþróttir séu fyrir alla. Umsjón hefur Ingi Þór Ágústsson
 ".(n)</desc>
   </programme>
-  <programme start="20220705220000 +0000" stop="20220705223000 +0000" channel="N4.is">
+  <programme start="20220706020000 +0000" stop="20220706023000 +0000" channel="N4.is">
     <title lang="is">Frá landsbyggðunum - 11. þáttur</title>
     <desc lang="is">Ásthildur Ómarsdóttir fer með okkur í ferðalag um landsbyggðirnar. Við sjáum brot af því besta sem N4 hefur fjallað um víðsvegar af landinu.(n)</desc>
   </programme>
-  <programme start="20220705223000 +0000" stop="20220705230000 +0000" channel="N4.is">
+  <programme start="20220706023000 +0000" stop="20220706030000 +0000" channel="N4.is">
     <title lang="is">Taktíkin (e) - 8. þáttur</title>
     <desc lang="is">"Í þessu þætti verrður reynt að svara spurningunni hvort íþróttir séu fyrir alla. Umsjón hefur Ingi Þór Ágústsson
 ".(n)</desc>
   </programme>
-  <programme start="20220705230000 +0000" stop="20220705233000 +0000" channel="N4.is">
+  <programme start="20220706030000 +0000" stop="20220706033000 +0000" channel="N4.is">
     <title lang="is">Frá landsbyggðunum - 11. þáttur</title>
     <desc lang="is">Ásthildur Ómarsdóttir fer með okkur í ferðalag um landsbyggðirnar. Við sjáum brot af því besta sem N4 hefur fjallað um víðsvegar af landinu.(n)</desc>
+  </programme>
+  <programme start="20220706033000 +0000" stop="20220706040000 +0000" channel="N4.is">
+    <title lang="is">Taktíkin (e) - 8. þáttur</title>
+    <desc lang="is">"Í þessu þætti verrður reynt að svara spurningunni hvort íþróttir séu fyrir alla. Umsjón hefur Ingi Þór Ágústsson
+".(n)</desc>
+  </programme>
+  <programme start="20220706040000 +0000" stop="20220706043000 +0000" channel="N4.is">
+    <title lang="is">Frá landsbyggðunum - 11. þáttur</title>
+    <desc lang="is">Ásthildur Ómarsdóttir fer með okkur í ferðalag um landsbyggðirnar. Við sjáum brot af því besta sem N4 hefur fjallað um víðsvegar af landinu.(n)</desc>
+  </programme>
+  <programme start="20220706043000 +0000" stop="20220706050000 +0000" channel="N4.is">
+    <title lang="is">Taktíkin (e) - 8. þáttur</title>
+    <desc lang="is">"Í þessu þætti verrður reynt að svara spurningunni hvort íþróttir séu fyrir alla. Umsjón hefur Ingi Þór Ágústsson
+".(n)</desc>
+  </programme>
+  <programme start="20220706050000 +0000" stop="20220706053000 +0000" channel="N4.is">
+    <title lang="is">Frá landsbyggðunum - 11. þáttur</title>
+    <desc lang="is">Ásthildur Ómarsdóttir fer með okkur í ferðalag um landsbyggðirnar. Við sjáum brot af því besta sem N4 hefur fjallað um víðsvegar af landinu.(n)</desc>
+  </programme>
+  <programme start="20220706053000 +0000" stop="20220706060000 +0000" channel="N4.is">
+    <title lang="is">Taktíkin (e) - 8. þáttur</title>
+    <desc lang="is">"Í þessu þætti verrður reynt að svara spurningunni hvort íþróttir séu fyrir alla. Umsjón hefur Ingi Þór Ágústsson
+".(n)</desc>
+  </programme>
+  <programme start="20220706060000 +0000" stop="20220706063000 +0000" channel="N4.is">
+    <title lang="is">Frá landsbyggðunum - 11. þáttur</title>
+    <desc lang="is">Ásthildur Ómarsdóttir fer með okkur í ferðalag um landsbyggðirnar. Við sjáum brot af því besta sem N4 hefur fjallað um víðsvegar af landinu.(n)</desc>
+  </programme>
+  <programme start="20220706063000 +0000" stop="20220706070000 +0000" channel="N4.is">
+    <title lang="is">Taktíkin (e) - 8. þáttur</title>
+    <desc lang="is">"Í þessu þætti verrður reynt að svara spurningunni hvort íþróttir séu fyrir alla. Umsjón hefur Ingi Þór Ágústsson
+".(n)</desc>
+  </programme>
+  <programme start="20220706070000 +0000" stop="20220706073000 +0000" channel="N4.is">
+    <title lang="is">Frá landsbyggðunum - 11. þáttur</title>
+    <desc lang="is">Ásthildur Ómarsdóttir fer með okkur í ferðalag um landsbyggðirnar. Við sjáum brot af því besta sem N4 hefur fjallað um víðsvegar af landinu.(n)</desc>
+  </programme>
+  <programme start="20220706073000 +0000" stop="20220706080000 +0000" channel="N4.is">
+    <title lang="is">Taktíkin (e) - 8. þáttur</title>
+    <desc lang="is">"Í þessu þætti verrður reynt að svara spurningunni hvort íþróttir séu fyrir alla. Umsjón hefur Ingi Þór Ágústsson
+".(n)</desc>
+  </programme>
+  <programme start="20220706080000 +0000" stop="20220706083000 +0000" channel="N4.is">
+    <title lang="is">Frá landsbyggðunum - 11. þáttur</title>
+    <desc lang="is">Ásthildur Ómarsdóttir fer með okkur í ferðalag um landsbyggðirnar. Við sjáum brot af því besta sem N4 hefur fjallað um víðsvegar af landinu.(n)</desc>
+  </programme>
+  <programme start="20220706083000 +0000" stop="20220706090000 +0000" channel="N4.is">
+    <title lang="is">Taktíkin (e) - 8. þáttur</title>
+    <desc lang="is">"Í þessu þætti verrður reynt að svara spurningunni hvort íþróttir séu fyrir alla. Umsjón hefur Ingi Þór Ágústsson
+".(n)</desc>
+  </programme>
+  <programme start="20220706090000 +0000" stop="20220706093000 +0000" channel="N4.is">
+    <title lang="is">Frá landsbyggðunum - 11. þáttur</title>
+    <desc lang="is">Ásthildur Ómarsdóttir fer með okkur í ferðalag um landsbyggðirnar. Við sjáum brot af því besta sem N4 hefur fjallað um víðsvegar af landinu.(n)</desc>
+  </programme>
+  <programme start="20220706093000 +0000" stop="20220706100000 +0000" channel="N4.is">
+    <title lang="is">Taktíkin (e) - 8. þáttur</title>
+    <desc lang="is">"Í þessu þætti verrður reynt að svara spurningunni hvort íþróttir séu fyrir alla. Umsjón hefur Ingi Þór Ágústsson
+".(n)</desc>
+  </programme>
+  <programme start="20220706100000 +0000" stop="20220706103000 +0000" channel="N4.is">
+    <title lang="is">Frá landsbyggðunum - 11. þáttur</title>
+    <desc lang="is">Ásthildur Ómarsdóttir fer með okkur í ferðalag um landsbyggðirnar. Við sjáum brot af því besta sem N4 hefur fjallað um víðsvegar af landinu.(n)</desc>
+  </programme>
+  <programme start="20220706103000 +0000" stop="20220706110000 +0000" channel="N4.is">
+    <title lang="is">Taktíkin (e) - 8. þáttur</title>
+    <desc lang="is">"Í þessu þætti verrður reynt að svara spurningunni hvort íþróttir séu fyrir alla. Umsjón hefur Ingi Þór Ágústsson
+".(n)</desc>
+  </programme>
+  <programme start="20220706110000 +0000" stop="20220706113000 +0000" channel="N4.is">
+    <title lang="is">Frá landsbyggðunum - 11. þáttur</title>
+    <desc lang="is">Ásthildur Ómarsdóttir fer með okkur í ferðalag um landsbyggðirnar. Við sjáum brot af því besta sem N4 hefur fjallað um víðsvegar af landinu.(n)</desc>
+  </programme>
+  <programme start="20220706113000 +0000" stop="20220706120000 +0000" channel="N4.is">
+    <title lang="is">Taktíkin (e) - 8. þáttur</title>
+    <desc lang="is">"Í þessu þætti verrður reynt að svara spurningunni hvort íþróttir séu fyrir alla. Umsjón hefur Ingi Þór Ágústsson
+".(n)</desc>
+  </programme>
+  <programme start="20220706120000 +0000" stop="20220706123000 +0000" channel="N4.is">
+    <title lang="is">Frá landsbyggðunum - 11. þáttur</title>
+    <desc lang="is">Ásthildur Ómarsdóttir fer með okkur í ferðalag um landsbyggðirnar. Við sjáum brot af því besta sem N4 hefur fjallað um víðsvegar af landinu.(n)</desc>
+  </programme>
+  <programme start="20220706123000 +0000" stop="20220706130000 +0000" channel="N4.is">
+    <title lang="is">Taktíkin (e) - 8. þáttur</title>
+    <desc lang="is">"Í þessu þætti verrður reynt að svara spurningunni hvort íþróttir séu fyrir alla. Umsjón hefur Ingi Þór Ágústsson
+".(n)</desc>
+  </programme>
+  <programme start="20220706130000 +0000" stop="20220706133000 +0000" channel="N4.is">
+    <title lang="is">Frá landsbyggðunum - 11. þáttur</title>
+    <desc lang="is">Ásthildur Ómarsdóttir fer með okkur í ferðalag um landsbyggðirnar. Við sjáum brot af því besta sem N4 hefur fjallað um víðsvegar af landinu.(n)</desc>
+  </programme>
+  <programme start="20220706133000 +0000" stop="20220706140000 +0000" channel="N4.is">
+    <title lang="is">Taktíkin (e) - 8. þáttur</title>
+    <desc lang="is">"Í þessu þætti verrður reynt að svara spurningunni hvort íþróttir séu fyrir alla. Umsjón hefur Ingi Þór Ágústsson
+".(n)</desc>
+  </programme>
+  <programme start="20220706140000 +0000" stop="20220706143000 +0000" channel="N4.is">
+    <title lang="is">Frá landsbyggðunum - 11. þáttur</title>
+    <desc lang="is">Ásthildur Ómarsdóttir fer með okkur í ferðalag um landsbyggðirnar. Við sjáum brot af því besta sem N4 hefur fjallað um víðsvegar af landinu.(n)</desc>
+  </programme>
+  <programme start="20220706143000 +0000" stop="20220706150000 +0000" channel="N4.is">
+    <title lang="is">Taktíkin (e) - 8. þáttur</title>
+    <desc lang="is">"Í þessu þætti verrður reynt að svara spurningunni hvort íþróttir séu fyrir alla. Umsjón hefur Ingi Þór Ágústsson
+".(n)</desc>
+  </programme>
+  <programme start="20220706150000 +0000" stop="20220706153000 +0000" channel="N4.is">
+    <title lang="is">Frá landsbyggðunum - 11. þáttur</title>
+    <desc lang="is">Ásthildur Ómarsdóttir fer með okkur í ferðalag um landsbyggðirnar. Við sjáum brot af því besta sem N4 hefur fjallað um víðsvegar af landinu.(n)</desc>
+  </programme>
+  <programme start="20220706153000 +0000" stop="20220706160000 +0000" channel="N4.is">
+    <title lang="is">Taktíkin (e) - 8. þáttur</title>
+    <desc lang="is">"Í þessu þætti verrður reynt að svara spurningunni hvort íþróttir séu fyrir alla. Umsjón hefur Ingi Þór Ágústsson
+".(n)</desc>
+  </programme>
+  <programme start="20220706160000 +0000" stop="20220706163000 +0000" channel="N4.is">
+    <title lang="is">Frá landsbyggðunum - 11. þáttur</title>
+    <desc lang="is">Ásthildur Ómarsdóttir fer með okkur í ferðalag um landsbyggðirnar. Við sjáum brot af því besta sem N4 hefur fjallað um víðsvegar af landinu.(n)</desc>
+  </programme>
+  <programme start="20220706163000 +0000" stop="20220706170000 +0000" channel="N4.is">
+    <title lang="is">Taktíkin (e) - 8. þáttur</title>
+    <desc lang="is">"Í þessu þætti verrður reynt að svara spurningunni hvort íþróttir séu fyrir alla. Umsjón hefur Ingi Þór Ágústsson
+".(n)</desc>
+  </programme>
+  <programme start="20220706170000 +0000" stop="20220706173000 +0000" channel="N4.is">
+    <title lang="is">Frá landsbyggðunum - 11. þáttur</title>
+    <desc lang="is">Ásthildur Ómarsdóttir fer með okkur í ferðalag um landsbyggðirnar. Við sjáum brot af því besta sem N4 hefur fjallað um víðsvegar af landinu.(n)</desc>
+  </programme>
+  <programme start="20220706173000 +0000" stop="20220706180000 +0000" channel="N4.is">
+    <title lang="is">Taktíkin (e) - 8. þáttur</title>
+    <desc lang="is">"Í þessu þætti verrður reynt að svara spurningunni hvort íþróttir séu fyrir alla. Umsjón hefur Ingi Þór Ágústsson
+".(n)</desc>
+  </programme>
+  <programme start="20220706180000 +0000" stop="20220706183000 +0000" channel="N4.is">
+    <title lang="is">Frá landsbyggðunum - 11. þáttur</title>
+    <desc lang="is">Ásthildur Ómarsdóttir fer með okkur í ferðalag um landsbyggðirnar. Við sjáum brot af því besta sem N4 hefur fjallað um víðsvegar af landinu.(n)</desc>
+  </programme>
+  <programme start="20220706183000 +0000" stop="20220706190000 +0000" channel="N4.is">
+    <title lang="is">Taktíkin (e) - 8. þáttur</title>
+    <desc lang="is">"Í þessu þætti verrður reynt að svara spurningunni hvort íþróttir séu fyrir alla. Umsjón hefur Ingi Þór Ágústsson
+".(n)</desc>
+  </programme>
+  <programme start="20220706190000 +0000" stop="20220706193000 +0000" channel="N4.is">
+    <title lang="is">Frá landsbyggðunum - 11. þáttur</title>
+    <desc lang="is">Ásthildur Ómarsdóttir fer með okkur í ferðalag um landsbyggðirnar. Við sjáum brot af því besta sem N4 hefur fjallað um víðsvegar af landinu.(n)</desc>
+  </programme>
+  <programme start="20220706193000 +0000" stop="20220706200000 +0000" channel="N4.is">
+    <title lang="is">Taktíkin (e) - 8. þáttur</title>
+    <desc lang="is">"Í þessu þætti verrður reynt að svara spurningunni hvort íþróttir séu fyrir alla. Umsjón hefur Ingi Þór Ágústsson
+".(n)</desc>
+  </programme>
+  <programme start="20220706200000 +0000" stop="20220706203000 +0000" channel="N4.is">
+    <title lang="is">Uppskrift að góðum degi (e) - Dalvíkurbyggð</title>
+    <desc lang="is">"Í þessum þætti fáum við innsýn inní Dalvíkurbyggð. Við fáum heimakonuna Írisi Hauks til þess að fara með okkur í gegnum hver uppskriftin sé að góðum degi í Dalvíkurbyggð og lendum í allskonar ævintýrum á leiðinni. Komdu með.
+Dagskrárgerð: Ásthildur Ómarsdóttir
+Upptaka og klipp: Sindri Steinarsson".(n)</desc>
+  </programme>
+  <programme start="20220706203000 +0000" stop="20220706210000 +0000" channel="N4.is">
+    <title lang="is">Uppskrift að góðum degi (e) -  á Nl .vestra 1</title>
+    <desc lang="is">Hvernig lítur hin fullkomni dagur út á ferð um landið? Hér leitum við uppi leyndar perlur á landsbyggðunum, skoðum náttúru landsins, gæðum okkur á kræsingum úr heimabyggð, færðumst um sögu landsins og kynnumst skemmtilegu fólki. Í hverjum þætti heimsækjum við nýtt svæði þar sem við kynnum okkur brot af því besta sem er í boði. Umsjón: Skúli B. Geirdal og Rakel Hinriksdóttir.(n)</desc>
+  </programme>
+  <programme start="20220706210000 +0000" stop="20220706213000 +0000" channel="N4.is">
+    <title lang="is">Uppskrift að góðum degi (e) - Dalvíkurbyggð</title>
+    <desc lang="is">"Í þessum þætti fáum við innsýn inní Dalvíkurbyggð. Við fáum heimakonuna Írisi Hauks til þess að fara með okkur í gegnum hver uppskriftin sé að góðum degi í Dalvíkurbyggð og lendum í allskonar ævintýrum á leiðinni. Komdu með.
+Dagskrárgerð: Ásthildur Ómarsdóttir
+Upptaka og klipp: Sindri Steinarsson".(n)</desc>
+  </programme>
+  <programme start="20220706213000 +0000" stop="20220706220000 +0000" channel="N4.is">
+    <title lang="is">Uppskrift að góðum degi (e) -  á Nl .vestra 1</title>
+    <desc lang="is">Hvernig lítur hin fullkomni dagur út á ferð um landið? Hér leitum við uppi leyndar perlur á landsbyggðunum, skoðum náttúru landsins, gæðum okkur á kræsingum úr heimabyggð, færðumst um sögu landsins og kynnumst skemmtilegu fólki. Í hverjum þætti heimsækjum við nýtt svæði þar sem við kynnum okkur brot af því besta sem er í boði. Umsjón: Skúli B. Geirdal og Rakel Hinriksdóttir.(n)</desc>
+  </programme>
+  <programme start="20220706220000 +0000" stop="20220706223000 +0000" channel="N4.is">
+    <title lang="is">Uppskrift að góðum degi (e) - Dalvíkurbyggð</title>
+    <desc lang="is">"Í þessum þætti fáum við innsýn inní Dalvíkurbyggð. Við fáum heimakonuna Írisi Hauks til þess að fara með okkur í gegnum hver uppskriftin sé að góðum degi í Dalvíkurbyggð og lendum í allskonar ævintýrum á leiðinni. Komdu með.
+Dagskrárgerð: Ásthildur Ómarsdóttir
+Upptaka og klipp: Sindri Steinarsson".(n)</desc>
+  </programme>
+  <programme start="20220706223000 +0000" stop="20220706230000 +0000" channel="N4.is">
+    <title lang="is">Uppskrift að góðum degi (e) -  á Nl .vestra 1</title>
+    <desc lang="is">Hvernig lítur hin fullkomni dagur út á ferð um landið? Hér leitum við uppi leyndar perlur á landsbyggðunum, skoðum náttúru landsins, gæðum okkur á kræsingum úr heimabyggð, færðumst um sögu landsins og kynnumst skemmtilegu fólki. Í hverjum þætti heimsækjum við nýtt svæði þar sem við kynnum okkur brot af því besta sem er í boði. Umsjón: Skúli B. Geirdal og Rakel Hinriksdóttir.(n)</desc>
+  </programme>
+  <programme start="20220706230000 +0000" stop="20220706233000 +0000" channel="N4.is">
+    <title lang="is">Uppskrift að góðum degi (e) - Dalvíkurbyggð</title>
+    <desc lang="is">"Í þessum þætti fáum við innsýn inní Dalvíkurbyggð. Við fáum heimakonuna Írisi Hauks til þess að fara með okkur í gegnum hver uppskriftin sé að góðum degi í Dalvíkurbyggð og lendum í allskonar ævintýrum á leiðinni. Komdu með.
+Dagskrárgerð: Ásthildur Ómarsdóttir
+Upptaka og klipp: Sindri Steinarsson".(n)</desc>
   </programme>
 </tv>
