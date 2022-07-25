@@ -6,7 +6,7 @@
     <channel update="i" site="sjonvarp.is" site_id="S1SPORT" xmltv_id="SiminnSport.is">Síminn Sport</channel>
     <channel update="i" site="sjonvarp.is" site_id="S1SPORT2" xmltv_id="SiminnSport2.is">Síminn Sport 2</channel>
     <channel update="i" site="sjonvarp.is" site_id="ST2" xmltv_id="Stod2.is">Stöð 2</channel>
-    <channel update="i" site="sjonvarp.is" site_id="STOD3" xmltv_id="Stod2Fjolskylda.is">Stöð Fjölskylda</channel>
+    <channel update="i" site="sjonvarp.is" site_id="STOD3" xmltv_id="Stod2Fjolskylda.is">Stöð 2 Fjölskylda</channel>
     <channel update="i" site="sjonvarp.is" site_id="BIO" xmltv_id="Stod2Bio.is">Stöð 2 Bíó</channel>
     <channel update="i" site="sjonvarp.is" site_id="RUVI" xmltv_id="RUV2.is">RÚV 2</channel>
     <channel update="i" site="sjonvarp.is" site_id="S2ESPORT" xmltv_id="Stod2Esport.is">Stöð 2 Esport</channel>
