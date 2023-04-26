@@ -1,9 +1,9 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-ALLOW-CACHE:YES
-#EXTINF:-1 group-title="The Lord of the Rings",The Fellowship of the Ring
+#EXTINF:-1, group-title="The Lord of the Rings",The Fellowship of the Ring
 http://www.deadlyblogger.com/NewRelease/fellowship1.mp4
-#EXTINF:-1 group-title="The Lord of the Rings",The Two Towers
+#EXTINF:-1, group-title="The Lord of the Rings",The Two Towers
 http://www.deadlyblogger.com/NewRelease/twotowers.mp4
-#EXTINF:-1 group-title="The Lord of the Rings",The Return of the King
+#EXTINF:-1, group-title="The Lord of the Rings",The Return of the King
 http://www.deadlyblogger.com/NewRelease/returnking1.mp4
