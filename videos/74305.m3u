@@ -3,9 +3,9 @@
 #EXT-X-ALLOW-CACHE:YES
 #EXT-X-TARGETDURATION:14
 #EXT-X-MEDIA-SEQUENCE:1682416614
-#EXTINF:-1 group-title="The Lord of the Rings",The Fellowship of the Ring
+#EXTINF:10.000000,
 http://deadlyblogger.com/NewRelease/predator1987.mp4
-#EXTINF:-1 group-title="The Lord of the Rings",The Two Towers
+#EXTINF:13.720000,
 http://deadlyblogger.com/NewRelease/predator2.mp4
-#EXTINF:-1 group-title="The Lord of the Rings",The Return of the King
+#EXTINF:10.000000,
 http://deadlyblogger.com/NewRelease/predator2010.mp4
