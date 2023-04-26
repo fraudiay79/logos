@@ -1,6 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:14
+#EXT-X-MEDIA-SEQUENCE:1682416614
 #EXTINF:-1, group-title="The Lord of the Rings",The Fellowship of the Ring
 http://www.deadlyblogger.com/NewRelease/fellowship1.mp4
 #EXTINF:-1, group-title="The Lord of the Rings",The Two Towers
