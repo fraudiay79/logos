@@ -1,0 +1,17 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:14
+#EXT-X-MEDIA-SEQUENCE:1682416614
+#EXTINF:-1 group-title="Star Wars", Star Wars: Episode I - The Phantom Menace
+http://www.deadlyblogger.com/NewRelease/starwarse1.mp4
+#EXTINF:-1 group-title="Star Wars", Star Wars: Episode II - Attack of the Clones
+http://www.deadlyblogger.com/NewRelease/starwarse2.mp4
+#EXTINF:-1 group-title="Star Wars", Star Wars: Episode III - Revenge of the Sith
+http://www.deadlyblogger.com/NewRelease/starwarse3.mp4
+#EXTINF:-1 group-title="Star Wars", Star Wars: Episode IV - A New Hope
+http://www.deadlyblogger.com/NewRelease/starwarsiv.mp4
+#EXTINF:-1 group-title="Star Wars", Star Wars: Episode V - The Empire Strikes Back
+http://www.deadlyblogger.com/NewRelease/starwarsv.mp4
+#EXTINF:-1 group-title="Star Wars", Star Wars: Episode VI - Return of the Jedi
+http://www.deadlyblogger.com/NewRelease/starwarsvi.mp4
