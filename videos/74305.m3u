@@ -1,11 +1,9 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-ALLOW-CACHE:YES
-#EXT-X-TARGETDURATION:14
-#EXT-X-MEDIA-SEQUENCE:1682416614
-#EXTINF:10.000000,
+#EXTINF:-1, Predator
 http://deadlyblogger.com/NewRelease/predator1987.mp4
-#EXTINF:13.720000,
+#EXTINF:-1, Predator 2
 http://deadlyblogger.com/NewRelease/predator2.mp4
-#EXTINF:10.000000,
+#EXTINF:-1, Predators
 http://deadlyblogger.com/NewRelease/predator2010.mp4
