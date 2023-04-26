@@ -1,9 +1,9 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-ALLOW-CACHE:YES
-#EXTINF:-1, Predator
-http://deadlyblogger.com/NewRelease/predator1987.mp4
-#EXTINF:-1, Predator 2
-http://deadlyblogger.com/NewRelease/predator2.mp4
-#EXTINF:-1, Predators
-http://deadlyblogger.com/NewRelease/predator2010.mp4
+#EXTINF:-1 group-title="The Lord of the Rings",The Fellowship of the Ring
+http://www.deadlyblogger.com/NewRelease/fellowship1.mp4
+#EXTINF:-1 group-title="The Lord of the Rings",The Two Towers
+http://www.deadlyblogger.com/NewRelease/twotowers.mp4
+#EXTINF:-1 group-title="The Lord of the Rings",The Return of the King
+http://www.deadlyblogger.com/NewRelease/returnking1.mp4
