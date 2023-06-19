@@ -1,0 +1,17 @@
+#EXTCPlayListM3U::M3U
+#EXTINF:0, tvg-name="Episode 1" tvg-chno="1" tvg-logo="https://images-us-am.crackle.com/1/m/em/lv1yb_tnl_480x270.jpg?ts=20230617002327", Episode 1
+https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2519346.m3u8
+#EXTINF:0, tvg-name="Episode 2" tvg-chno="2" tvg-logo="https://images-us-am.crackle.com/1/n/em/nv1yb_tnl_480x270.jpg?ts=20230508181127", Episode 2
+https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2519348.m3u8
+#EXTINF:0, tvg-name="Episode 3" tvg-chno="3" tvg-logo="https://images-us-am.crackle.com/1/n/em/ov1yb_tnl_480x270.jpg?ts=20230508181231", Episode 3
+https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2519349.m3u8
+#EXTINF:0, tvg-name="Episode 4" tvg-chno="4" tvg-logo="https://images-us-am.crackle.com/1/n/em/pv1yb_tnl_480x270.jpg?ts=20230508181027", Episode 4
+https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2519350.m3u8
+#EXTINF:0, tvg-name="Episode 5" tvg-chno="5" tvg-logo="https://images-us-am.crackle.com/1/n/em/qv1yb_tnl_480x270.jpg?ts=20230508181126", Episode 5
+https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2519351.m3u8
+#EXTINF:0, tvg-name="Episode 6" tvg-chno="6" tvg-logo="https://images-us-am.crackle.com/1/o/em/sv1yb_tnl_480x270.jpg?ts=20230508182133", Episode 6
+https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2519352.m3u8
+#EXTINF:0, tvg-name="Episode 7" tvg-chno="7" tvg-logo="https://images-us-am.crackle.com/1/o/em/rv1yb_tnl_480x270.jpg?ts=20230508182131", Episode 7
+https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2519353.m3u8
+#EXTINF:0, tvg-name="Episode 8" tvg-chno="8" tvg-logo="https://images-us-am.crackle.com/1/o/em/tv1yb_tnl_480x270.jpg?ts=20230508180226", Episode 8
+https://content.uplynk.com/ext/6790c94a453741799d3f3fb3bc9023a4/2519354.m3u8
